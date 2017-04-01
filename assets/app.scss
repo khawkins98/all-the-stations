@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 @import 'settings';
 
 // Dependencies
@@ -150,6 +151,7 @@
 // @include foundation-visibility-classes;
 // @include foundation-float-classes;
 
+body, p, h1, h2, h3 { font-family: 'Raleway', sans-serif; }
 
 /* custom spacing */
 .margin-top-none { margin-top: 0; }

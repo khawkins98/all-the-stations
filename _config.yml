@@ -1,7 +1,7 @@
 # Site settings
-name: Somatisch
-email: noreply@none.net
-domain: //somatisch.io
+name: All The Stations
+email: press@allthestations.co.uk
+domain: //http://www.allthestations.co.uk/
 baseurl: /
 permalink: pretty
 
