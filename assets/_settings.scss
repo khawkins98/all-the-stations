@@ -14,7 +14,7 @@ $global-font-size: 100% !default;
 
 /// Global width of your site. Used by the grid to determine row width.
 /// @type Number
-$global-width: rem-calc(1200) !default;
+$global-width: rem-calc(1400) !default;
 
 /// Default line height for all type. `$global-lineheight` is 24px while `$global-font-size` is 16px
 /// @type Number
@@ -23,7 +23,7 @@ $global-lineheight: 1.5 !default;
 /// Colors used for buttons, callouts, links, etc. There must always be a color called `primary`.
 /// @type Map
 $foundation-palette: (
-  primary: #666,
+  primary: #134073,
   secondary: rgb(252,62,67),
   success: #3adb76,
   warning: #ffae00,

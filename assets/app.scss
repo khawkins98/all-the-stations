@@ -153,6 +153,31 @@
 
 body, p, h1, h2, h3 { font-family: 'Raleway', sans-serif; }
 
+.bgbox.primary {
+  color: #fff;
+  background: $primary-color;
+}
+
+.bgbox.secondary {
+}
+
+a.color-white,
+a.color-white:hover,
+.color-white a,
+.color-white a:hover,
+.color-white {
+  color: #fff;
+}
+
+a:hover {
+  opacity: .8;
+}
+
+a.readmore:after,
+a.read-more:after {
+  content: " >";
+}
+
 /* custom spacing */
 .margin-top-none { margin-top: 0; }
 .margin-top-xsmall { margin-top: .1rem; }
