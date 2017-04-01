@@ -1,0 +1,27 @@
+{
+  "name": "all-the-stations",
+  "version": "1.0.0",
+  "description": "All the Stations",
+  "main": "index.html",
+  "dependencies": {
+    "foundation-sites": "^6.3.0",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khawkins98/all-the-stations.git"
+  },
+  "author": "",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+  "bugs": {
+    "url": "https://github.com/khawkins98/all-the-stations/issues"
+  },
+  "homepage": "https://github.com/khawkins98/all-the-stations#readme"
+}

@@ -1,0 +1,17 @@
+# Site settings
+name: Somatisch
+email: noreply@none.net
+domain: //somatisch.io
+baseurl: /
+permalink: pretty
+
+# Add custom CSS / JS here
+custom_css:
+- "/assets/app.css"
+# - "{{site.baseurl}}/static/css/ANOTHER-CSS-COMPONENTS.css"
+# custom_js:
+# - "{{site.baseurl}}/static/js/YOUR-CSS-COMPONENTS.js"
+# - "{{site.baseurl}}/static/js/ANOTHER-CSS-COMPONENTS.js"
+
+# Build settings
+markdown: kramdown

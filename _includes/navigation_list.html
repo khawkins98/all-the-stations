@@ -1,0 +1,13 @@
+{% for node in navigation_list %}
+  {% if group == null or group == node.group %}
+    <span class="padding-right-large">
+      {% if page.url == node.url %}
+        <a href="{{node.url}}" class="active">{{node.title}}</a>
+      {% else %}
+        <a href="{{node.url}}">{{node.title}}</a>
+      {% endif %}
+    </span>
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}

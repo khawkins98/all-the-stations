@@ -1,0 +1,211 @@
+@import 'settings';
+
+// Dependencies
+@import "../node_modules/foundation-sites/_vendor/normalize-scss/sass/normalize";
+@import '../node_modules/foundation-sites/_vendor/sassy-lists/stylesheets/helpers/missing-dependencies';
+@import '../node_modules/foundation-sites/_vendor/sassy-lists/stylesheets/helpers/true';
+@import '../node_modules/foundation-sites/_vendor/sassy-lists/stylesheets/functions/purge';
+@import '../node_modules/foundation-sites/_vendor/sassy-lists/stylesheets/functions/remove';
+@import '../node_modules/foundation-sites/_vendor/sassy-lists/stylesheets/functions/replace';
+@import '../node_modules/foundation-sites/_vendor/sassy-lists/stylesheets/functions/to-list';
+
+
+// Sass utilities
+@import '../node_modules/foundation-sites/scss/util/util';
+
+// Global variables and styles
+@import '../node_modules/foundation-sites/scss/global';
+
+// Components
+@import '../node_modules/foundation-sites/scss/grid/grid';
+@import '../node_modules/foundation-sites/scss/typography/typography';
+@import '../node_modules/foundation-sites/scss/forms/forms';
+@import '../node_modules/foundation-sites/scss/components/visibility';
+@import '../node_modules/foundation-sites/scss/components/float';
+@import '../node_modules/foundation-sites/scss/components/button';
+@import '../node_modules/foundation-sites/scss/components/button-group';
+@import '../node_modules/foundation-sites/scss/components/accordion-menu';
+@import '../node_modules/foundation-sites/scss/components/accordion';
+@import '../node_modules/foundation-sites/scss/components/badge';
+@import '../node_modules/foundation-sites/scss/components/breadcrumbs';
+@import '../node_modules/foundation-sites/scss/components/callout';
+@import '../node_modules/foundation-sites/scss/components/card';
+@import '../node_modules/foundation-sites/scss/components/close-button';
+@import '../node_modules/foundation-sites/scss/components/drilldown';
+@import '../node_modules/foundation-sites/scss/components/dropdown-menu';
+@import '../node_modules/foundation-sites/scss/components/dropdown';
+@import '../node_modules/foundation-sites/scss/components/flex';
+@import '../node_modules/foundation-sites/scss/components/responsive-embed';
+@import '../node_modules/foundation-sites/scss/components/label';
+@import '../node_modules/foundation-sites/scss/components/media-object';
+@import '../node_modules/foundation-sites/scss/components/menu';
+@import '../node_modules/foundation-sites/scss/components/menu-icon';
+@import '../node_modules/foundation-sites/scss/components/off-canvas';
+@import '../node_modules/foundation-sites/scss/components/orbit';
+@import '../node_modules/foundation-sites/scss/components/pagination';
+@import '../node_modules/foundation-sites/scss/components/progress-bar';
+@import '../node_modules/foundation-sites/scss/components/reveal';
+@import '../node_modules/foundation-sites/scss/components/slider';
+@import '../node_modules/foundation-sites/scss/components/sticky';
+@import '../node_modules/foundation-sites/scss/components/switch';
+@import '../node_modules/foundation-sites/scss/components/table';
+@import '../node_modules/foundation-sites/scss/components/tabs';
+@import '../node_modules/foundation-sites/scss/components/title-bar';
+@import '../node_modules/foundation-sites/scss/components/top-bar';
+@import '../node_modules/foundation-sites/scss/components/thumbnail';
+@import '../node_modules/foundation-sites/scss/components/tooltip';
+
+@mixin foundation-everything($flex: false) {
+  @if $flex {
+    $global-flexbox: true !global;
+  }
+
+  @include foundation-global-styles;
+  @if not $flex {
+    @include foundation-grid;
+  }
+  @else {
+    @include foundation-flex-grid;
+  }
+  @include foundation-typography;
+  @include foundation-forms;
+  @include foundation-button;
+  @include foundation-accordion;
+  @include foundation-accordion-menu;
+  @include foundation-badge;
+  @include foundation-breadcrumbs;
+  @include foundation-button-group;
+  @include foundation-callout;
+  @include foundation-card;
+  @include foundation-close-button;
+  @include foundation-menu;
+  @include foundation-menu-icon;
+  @include foundation-drilldown-menu;
+  @include foundation-dropdown;
+  @include foundation-dropdown-menu;
+  @include foundation-responsive-embed;
+  @include foundation-label;
+  @include foundation-media-object;
+  @include foundation-off-canvas;
+  @include foundation-orbit;
+  @include foundation-pagination;
+  @include foundation-progress-bar;
+  @include foundation-slider;
+  @include foundation-sticky;
+  @include foundation-reveal;
+  @include foundation-switch;
+  @include foundation-table;
+  @include foundation-tabs;
+  @include foundation-thumbnail;
+  @include foundation-title-bar;
+  @include foundation-tooltip;
+  @include foundation-top-bar;
+  @include foundation-visibility-classes;
+  @include foundation-float-classes;
+
+  @if $flex {
+    @include foundation-flex-classes;
+  }
+}
+
+@include foundation-everything;
+
+// @include foundation-global-styles;
+// @include foundation-grid;
+// @include foundation-flex-grid;
+// @include foundation-flex-classes;
+// @include foundation-typography;
+// @include foundation-forms;
+// @include foundation-button;
+// @include foundation-accordion;
+// @include foundation-accordion-menu;
+// @include foundation-badge;
+// @include foundation-breadcrumbs;
+// @include foundation-button-group;
+// @include foundation-callout;
+// @include foundation-card;
+// @include foundation-close-button;
+// @include foundation-menu;
+// @include foundation-menu-icon;
+// @include foundation-drilldown-menu;
+// @include foundation-dropdown;
+// @include foundation-dropdown-menu;
+// @include foundation-responsive-embed;
+// @include foundation-label;
+// @include foundation-media-object;
+// @include foundation-off-canvas;
+// @include foundation-orbit;
+// @include foundation-pagination;
+// @include foundation-progress-bar;
+// @include foundation-slider;
+// @include foundation-sticky;
+// @include foundation-reveal;
+// @include foundation-switch;
+// @include foundation-table;
+// @include foundation-tabs;
+// @include foundation-thumbnail;
+// @include foundation-title-bar;
+// @include foundation-tooltip;
+// @include foundation-top-bar;
+// @include foundation-visibility-classes;
+// @include foundation-float-classes;
+
+
+/* custom spacing */
+.margin-top-none { margin-top: 0; }
+.margin-top-xsmall { margin-top: .1rem; }
+.margin-top-small { margin-top: .25rem; }
+.margin-top-medium { margin-top: .5rem; }
+.margin-top-large { margin-top: 1rem; }
+.margin-top-xlarge { margin-top: 2rem; }
+
+.margin-left-none { margin-left: 0; }
+.margin-left-xsmall { margin-left: .1rem; }
+.margin-left-small { margin-left: .25rem; }
+.margin-left-medium { margin-left: .5rem; }
+.margin-left-large { margin-left: 1rem; }
+.margin-left-xlarge { margin-left: 2rem; }
+
+.margin-right-none { margin-right: 0; }
+.margin-right-xsmall { margin-right: .1rem; }
+.margin-right-small { margin-right: .25rem; }
+.margin-right-medium { margin-right: .5rem; }
+.margin-right-large { margin-right: 1rem; }
+.margin-right-xlarge { margin-right: 2rem; }
+
+.margin-bottom-none { margin-bottom: 0; }
+.margin-bottom-xsmall { margin-bottom: .1rem; }
+.margin-bottom-small { margin-bottom: .25rem; }
+.margin-bottom-medium { margin-bottom: .5rem; }
+.margin-bottom-large { margin-bottom: 1rem; }
+.margin-bottom-xlarge { margin-bottom: 2rem; }
+
+.padding-top-none { padding-top: 0; }
+.padding-top-xsmall { padding-top: .1rem; }
+.padding-top-small { padding-top: .25rem; }
+.padding-top-medium { padding-top: .5rem; }
+.padding-top-large { padding-top: 1rem; }
+.padding-top-xlarge { padding-top: 2rem; }
+
+.padding-left-none { padding-left: 0; }
+.padding-left-xsmall { padding-left: .1rem; }
+.padding-left-small { padding-left: .25rem; }
+.padding-left-medium { padding-left: .5rem; }
+.padding-left-large { padding-left: 1rem; }
+.padding-left-xlarge { padding-left: 2rem; }
+
+.padding-right-none { padding-right: 0; }
+.padding-right-xsmall { padding-right: .1rem; }
+.padding-right-small { padding-right: .25rem; }
+.padding-right-medium { padding-right: .5rem; }
+.padding-right-large { padding-right: 1rem; }
+.padding-right-xlarge { padding-right: 2rem; }
+
+.padding-bottom-none { padding-bottom: 0; }
+.padding-bottom-xsmall { padding-bottom: .1rem; }
+.padding-bottom-small { padding-bottom: .25rem; }
+.padding-bottom-medium { padding-bottom: .5rem; }
+.padding-bottom-large { padding-bottom: 1rem; }
+.padding-bottom-xlarge { padding-bottom: 2rem; }
+
+@import 'font-awesome/scss/font-awesome';
