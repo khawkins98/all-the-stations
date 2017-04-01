@@ -1,0 +1,19 @@
+{% comment %}
+We construct the site naviagion by loading a list of the site's pages
+and filtering to just those with the front matter of:
+  group: "on_front_page"
+and we order by adding
+  order: 2 (whatever number)
+{% endcomment %}
+{% assign front_page_list = site.posts | sort:"order" %}
+{% assign group = 'on_front_page' %}
+
+{% for node in front_page_list %}
+  {% if group == null or group == node.group %}
+
+{{node.content}}
+
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
