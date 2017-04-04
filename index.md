@@ -26,7 +26,7 @@ order: 1
 	<div class="row">
 		<div class="columns medium-6 medium-push-2 columns small-10 small-push-1 padding-bottom-large">
 				<div class="embed-responsive embed-responsive-16by9">
-					<iframe src="https://www.youtube.com/embed/IE6FLQlqDy4" frameborder="0" allowfullscreen class="embed-responsive-item" style="width: 700px; min-height:400px;"></iframe>
+					<iframe src="https://www.youtube.com/embed/videoseries?list=PL4PdgT_AV_nWe4zl01CbwnSuspvdHZMde" frameborder="0" allowfullscreen class="embed-responsive-item" style="width: 700px; min-height:400px;"></iframe>
 					<div>
 	          <span class="padding-right-large"><a class="color-white" href="http://www.twitter.com/allthestations/"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></span>
 						<span class="padding-right-large"><a class="color-white" href="http://www.youtube.com/channel/UC7ttKX46nJxUeXZ0aoD4Q5g"><i class="fa fa-youtube-play" aria-hidden="true"></i> YouTube</a></span>

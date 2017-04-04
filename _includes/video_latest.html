@@ -1,0 +1,18 @@
+{% comment %}
+We construct the site naviagion by loading a list of the site's pages
+and filtering to just those with the front matter of:
+  group: "on_video_update"
+and we order by adding
+  order: 2 (whatever number)
+{% endcomment %}
+{% assign video_update_list = site.posts | sort:"order" %}
+{% assign group = 'on_video_update' %}
+
+{% for node in video_update_list %}
+  {% if group == null or group == node.group %}
+    <a class="color-white" href="{{node.url}}">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a>
+    {{node.content}}
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
