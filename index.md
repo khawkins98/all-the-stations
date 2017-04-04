@@ -5,7 +5,7 @@ group: "not_in_local_navigation"
 order: 1
 ---
 
-<div class="row padding-bottom-xlarge">
+<div class="row padding-bottom-xlarge padding-top-xlarge">
 	<div class="columns medium-8 text-center columns medium-push-1">
 		<img src="/static/images/allstations-rainbow.png" class="img-responsive inline-block" alt="All The Stations">
   </div>

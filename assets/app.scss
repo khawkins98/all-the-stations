@@ -153,6 +153,10 @@
 
 body, p, h1, h2, h3 { font-family: 'Raleway', sans-serif; }
 
+.top-bar { padding: 0rem 1rem; }
+body .top-bar,
+body .top-bar ul { background: #FFF; }
+
 .bgbox.primary {
   color: #fff;
   background: $primary-color;
