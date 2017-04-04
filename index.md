@@ -7,7 +7,7 @@ order: 1
 
 <div class="row padding-bottom-xlarge padding-top-xlarge">
 	<div class="columns medium-8 text-center columns medium-push-1">
-		<img src="/static/images/allstations-rainbow.png" class="img-responsive inline-block" alt="All The Stations">
+		<img src="/all-the-stations/static/images/allstations-rainbow.png" class="img-responsive inline-block" alt="All The Stations">
   </div>
 </div>
 
@@ -17,7 +17,7 @@ order: 1
       <h1><strong>Geoff &amp; Vicki are traveling to  all 2,560
         railway stations in Great Britain</strong> </h1>
         <h3 class="lead color-white"><i>All The Stations</i> is a project to travel to ALL the national railway stations in Britain in just three months, and to create an online documentary film about the journey.</h3>
-        <p><a class="color-white read-more" href="/stationlist">See the complete list of all 2,560 railway stations here</a></p>
+        <p><a class="color-white read-more" href="/all-the-stations/stationlist">See the complete list of all 2,560 railway stations here</a></p>
 		</div>
     <!-- <div class="columns medium-4" style="">
 			<br/><a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new"><img src="/static/images/backus-white.png" class="img-responsive"></a>
