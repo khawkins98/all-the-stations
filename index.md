@@ -13,7 +13,7 @@ order: 1
 
 <div class="bgbox primary padding-top-large">
 	<div class="row">
-		<div class="columns medium-6 medium-push-2 columns small-10 small-push-1">
+		<div class="columns medium-8 medium-push-2 columns small-10 small-push-1">
       <h1><strong>Geoff &amp; Vicki are traveling to  all 2,560
         railway stations in Great Britain</strong> </h1>
         <h3 class="lead color-white"><i>All The Stations</i> is a project to travel to ALL the national railway stations in Britain in just three months, and to create an online documentary film about the journey.</h3>
