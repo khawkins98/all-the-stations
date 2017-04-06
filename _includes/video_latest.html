@@ -10,7 +10,7 @@ and we order by adding
 
 {% for node in video_update_list %}
   {% if group == null or group == node.group %}
-    <a class="color-white" href="{{node.url}}">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a>
+    <p><a class="color-white" href="{{node.url}}">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a></p>
     {{node.content}}
   {% endif %}
 {% endfor %}
