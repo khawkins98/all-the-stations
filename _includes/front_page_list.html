@@ -9,7 +9,7 @@ and we order by adding
 {% assign group = 'on_front_page' %}
 
 {% for node in front_page_list %}
-  {% if group == null or group == node.group %}
+  {% if group == node.group %}
 
 {{node.content}}
 
