@@ -4,11 +4,17 @@
   <body class="">
     <!-- <h1><a href="/">Somatisch</a></h1> -->
     {% include site_head.html %}
-    <div id="content" role="main">
+    <div id="content" class="row" role="main">
 
+      <div class="columns medium-8">
       <section  id="main-content-area">
         {{ content }}
       </section>
+      </div>
+      
+      <div class="columns medium-4">
+      {% include sidebar.html %}
+      </div>
 
     </div><!-- /.container -->
     {% include footer.html %}
