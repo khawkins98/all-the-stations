@@ -19,9 +19,9 @@
   <meta name="theme-color" content="#da532c">
 
   <!-- Use this CSS file for any custom styling -->
-  <link rel="stylesheet" href="assets/app.css" type="text/css" media="all">
+  <link rel="stylesheet" href="{{site.domain}}/assets/app.css" type="text/css" media="all">
   {% comment %} Custom global CSS could go here: {% endcomment %}
   {% for css in site.custom_css %}
-  <link rel="stylesheet" href="{{css}}" media="all">
+  <link rel="stylesheet" href="{{site.domain}}/{{css}}" media="all">
   {% endfor %}
 </head>
