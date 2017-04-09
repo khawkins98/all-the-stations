@@ -10,9 +10,14 @@ and we order by adding
 
 {% for node in updates_list %}
   {% if group == node.group %}
-
-{{node.content}}
-
+<div class="bgbox secondary">
+	<div class="row">
+		<div class="columns medium-8 medium-push-2">
+      <h3>{{node.date}} - {{node.title}}</h3>
+      {{node.content}}
+    </div>
+  </div>
+</div>
   {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}
