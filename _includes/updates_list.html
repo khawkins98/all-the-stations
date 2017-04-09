@@ -1,0 +1,19 @@
+{% comment %}
+We construct the site naviagion by loading a list of the site's pages
+and filtering to just those with the front matter of:
+  group: "on_updates_page"
+and we order by adding
+  order: 2 (whatever number)
+{% endcomment %}
+{% assign updates_list = site.posts | sort:"order" %}
+{% assign group = 'on_updates_page' %}
+
+{% for node in updates_list %}
+  {% if group == node.group %}
+
+{{node.content}}
+
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
