@@ -10,14 +10,12 @@ and we order by adding
 
 {% for node in updates_list %}
   {% if group == node.group %}
-<div class="bgbox secondary">
-	<div class="row">
-		<div class="columns medium-8 medium-push-2">
-      <h3>{{node.date | date: "%Y-%m-%d" }} - {{node.title}}</h3>
-      {{node.content}}
-    </div>
-  </div>
-</div>
+    {% if node.title != "Template" %}
+<div class="tag">{{node.date | date: "%d %b %Y" }}</div>
+<h3><a href="{{site.domain}}{{node.url}}">{{node.title}}</a></h3>
+{{node.content}}
+<hr/>
+    {% endif %}
   {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}

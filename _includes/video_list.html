@@ -12,9 +12,9 @@ and we order by adding
 {% for node in video_update_list %}
   {% if group == null or group == node.group %}
   {% if page.url == node.url %}
-    <li><a class="color-white" href="{{node.url}}" class="active">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a></li>
+    <li><a class="" href="{{node.url}}" class="active">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a></li>
   {% else %}
-    <li><a class="color-white" href="{{node.url}}">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a></li>
+    <li><a class="" href="{{node.url}}">{{node.date | date: '%d %B %Y'}} - {{node.title}}</a></li>
   {% endif %}
   {% endif %}
 {% endfor %}

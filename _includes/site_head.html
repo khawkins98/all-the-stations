@@ -8,7 +8,7 @@
     <div class="top-bar-left">
       <ul class="menu" data-responsive-menu="drilldown medium-dropdown">
         <li class="" style="width: 7rem;">
-          <a href="{{site.domain}}"><img alt="Brand" src="/all-the-stations/static/images/allstations-rainbow.png" class=""/></a>
+          <a href="{{site.domain}}"><img alt="Brand" src="{{site.domain}}/static/images/allstations-rainbow.png" class=""/></a>
         </li>
         {% comment %}
         We construct the site naviagion by loading a list of the site's pages
@@ -17,7 +17,7 @@
         and we order by adding
           order: 2 (whatever number)
         {% endcomment %}
-        {% assign navigation_list = site.pages | sort:"order" %}        
+        {% assign navigation_list = site.pages | sort:"order" %}
 {% for node in navigation_list %}
   {% if 'in_local_navigation' == node.group %}
     {% if page.url == node.url %}
@@ -28,7 +28,7 @@
   {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}
-        
+
         <li class="show-for-small-only"><a href="http://www.twitter.com/allthestations/"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></li>
         <li class="show-for-small-only"><a href="http://www.youtube.com/channel/UC7ttKX46nJxUeXZ0aoD4Q5g"><i class="fa fa-youtube-play" aria-hidden="true"></i> YouTube</a></li>
         <li class="show-for-small-only"><a href="https://www.instagram.com/allthestations/"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></li>
