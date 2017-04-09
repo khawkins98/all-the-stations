@@ -6,7 +6,7 @@ and we order by adding
   order: 2 (whatever number)
 {% endcomment %}
 {% assign updates_list = site.posts | sort:"order" %}
-{% assign group = 'on_updates_page' %}
+{% assign group = 'in_updates_list' %}
 
 {% for node in updates_list %}
   {% if group == node.group %}
