@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Updates
 group: "in_local_navigation"
 order: 3
 ---
 
-## THE BLOG! 
+## Updates 
 
-{% include front_page_list.html %}
+{% include updates_list.html %}
