@@ -13,7 +13,7 @@ and we order by adding
 <div class="bgbox secondary">
 	<div class="row">
 		<div class="columns medium-8 medium-push-2">
-      <h3>{{node.date}} - {{node.title}}</h3>
+      <h3>{{node.date | date: "%Y-%m-%d" }} - {{node.title}}</h3>
       {{node.content}}
     </div>
   </div>
