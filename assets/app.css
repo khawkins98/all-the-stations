@@ -541,7 +541,7 @@ button {
 }
 
 .row {
-  max-width: rem-calc(1400);
+  max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1855,7 +1855,7 @@ a img {
 
 hr {
   clear: both;
-  max-width: rem-calc(1400);
+  max-width: 75rem;
   height: 0;
   margin: 1.25rem auto;
   border-top: 0;
@@ -4222,7 +4222,7 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal {
     width: 600px;
-    max-width: rem-calc(1400);
+    max-width: 75rem;
   }
 }
 @media print, screen and (min-width: 40em) {
@@ -4238,19 +4238,19 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal.tiny {
     width: 30%;
-    max-width: rem-calc(1400);
+    max-width: 75rem;
   }
 }
 @media print, screen and (min-width: 40em) {
   .reveal.small {
     width: 50%;
-    max-width: rem-calc(1400);
+    max-width: 75rem;
   }
 }
 @media print, screen and (min-width: 40em) {
   .reveal.large {
     width: 90%;
-    max-width: rem-calc(1400);
+    max-width: 75rem;
   }
 }
 .reveal.full {
