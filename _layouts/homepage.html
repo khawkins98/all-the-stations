@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body class="">
+    <!-- <h1><a href="/">Somatisch</a></h1> -->
+    {% include site_head.html %}
+    <div id="content" class="padding-top-xlarge padding-bottom-xlarge" role="main">
+
+      <section id="main-content-area" class="row">
+        <div class="columns medium-10 medium-push-1">
+        {{ content }}
+        </div>
+      </section>
+
+      <section id="closure-area" class="row">
+        <div class="">
+        {% include homepage_closure.html %}
+        </div>
+      </section>
+
+    </div><!-- /.container -->
+    {% include footer.html %}
+  </body>
+</html>
