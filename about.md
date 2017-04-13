@@ -7,6 +7,8 @@ order: 1
 
 <a name="project"></a>
 <div class="bgbox secondary">
+	<h2>About</h2>
+
 	<p>Geoff is a freelance video editor and transport vlogger, Vicki is a museum education professional. Our transport videos already published online have accumulated over <em>6 million views </em>on Youtube, but in this latest project the aim is to capture the current status of Britain’s railways, and bring them to life as we explore the reality of the places and people we encounter along the way.</p>
 
 	<p>Through social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell</p>
