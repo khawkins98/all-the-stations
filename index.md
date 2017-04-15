@@ -10,7 +10,7 @@ order: 1
 	<div class="row">
 		<div class="columns medium-7">
 			<div class="videoWrapper">
-				<iframe src="https://www.youtube.com/embed/videoseries?list=PL4PdgT_AV_nWe4zl01CbwnSuspvdHZMde" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
+				<iframe src="https://www.youtube.com/embed/videoseries?list=PL4PdgT_AV_nWe4zl01CbwnSuspvdHZMde&enablejsapi=1&origin=http%3A%2F%2Fwww.allthestations.co.uk" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
 			</div>
 			<span class="padding-right-large"><a class="" href="http://www.twitter.com/allthestations/"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></span>
 			<span class="padding-right-large"><a class="" href="http://www.youtube.com/channel/UC7ttKX46nJxUeXZ0aoD4Q5g"><i class="fa fa-youtube-play" aria-hidden="true"></i> YouTube</a></span>
