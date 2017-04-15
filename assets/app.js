@@ -3,7 +3,7 @@
 // Links in non-generic regions can be tracked by adding '.track-with-analytics-events' to a parent div. Careful with the scoping.
 // -------------
 function invokeCustomEventTracking() {
-  $('body').addClass('google-analytics-loaded'); 
+  $('body').addClass('google-analytics-loaded');
 
   // Utility method
   if (!Array.prototype.last){
@@ -67,3 +67,23 @@ function invokeCustomEventTracking() {
 }
 
 // END GA tracking events
+
+// count down the stations
+$( document ).ready(function() {
+  var easingFn = function (t, b, c, d) {
+    var ts = (t /= d) * t;
+    var tc = ts * t;
+    return b + c * (tc + -3 * ts + 3 * t);
+  }
+  var options = {
+    useEasing : true,
+    easingFn: easingFn,
+    useGrouping : true,
+    separator : ',',
+    decimal : '.',
+    prefix : '',
+    suffix : ''
+  };
+  var demo = new CountUp('counter', 0, 1200, 0, 8.5, options);
+  demo.start();
+});

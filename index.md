@@ -7,10 +7,10 @@ order: 1
 
 <div class="padding-top-xlarge padding-bottom-xlarge">
 	<div class="text-center">
-		<h1 style="display:inline-block;"><span class="padding-top-small padding-right-large padding-left-large" style="background: #134073; display:inline-block; color: #fff">0,000</span> <span style="">stations visited</span></h1>
+		<h1 style="display:inline-block;"><span id="counter" class="padding-top-small padding-right-large padding-left-large" style="background: #134073; display:inline-block; color: #fff">-</span> <span style="">stations visited</span></h1>
 	</div>
 	<div class="text-center">
-		<h3 style="padding-left: 8rem; margin-top: -1.5rem;">2,563 (100.0%) to go</h3>
+		<h3 style="padding-left: 8rem; margin-top: -1.5rem;">1,363 (XX.0%) to go</h3>
 	</div>
 </div>
 
