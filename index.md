@@ -5,8 +5,17 @@ group: "not_in_local_navigation"
 order: 1
 ---
 
-<div class="bgbox secondary padding-bottom-xlarge">
-	<h1>Geoff &amp; Vicki are <strong>traveling to all 2,563 railway stations</strong> in Great Britain</h1>
+<div class="padding-top-xlarge padding-bottom-xlarge">
+	<div class="text-center">
+		<h1 style="display:inline-block;"><span class="padding-top-small padding-right-large padding-left-large" style="background: #134073; display:inline-block; color: #fff">0,000</span> <span style="">stations visited</span></h1>
+	</div>
+	<div class="text-center">
+		<h3 style="padding-left: 8rem; margin-top: -1.5rem;">2,563 (100.0%) to go</h3>
+	</div>
+</div>
+
+<div class="bgbox secondary padding-top-xlarge padding-bottom-xlarge">
+	<h2>Geoff &amp; Vicki are <strong>traveling to all 2,563 railway stations</strong> in Great Britain</h2>
 	<div class="row">
 		<div class="columns medium-7">
 			<div class="videoWrapper">
