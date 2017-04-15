@@ -25,8 +25,8 @@ order: 2
 	</div>
 </div>
 
-<div class="bgbox secondary row">
-	<div class="columns medium-up-3 padding-top-xlarge">
+<div class="row">
+	<div class="medium-up-2 padding-top-xlarge">
 		<h2>The Control Room</h2>
 		<div class="column">
 			<div class="columns medium-5 float-left">
