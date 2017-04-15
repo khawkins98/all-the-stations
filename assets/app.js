@@ -3,8 +3,7 @@
 // Links in non-generic regions can be tracked by adding '.track-with-analytics-events' to a parent div. Careful with the scoping.
 // -------------
 function invokeCustomEventTracking() {
-  var ga = ga || [];
-  if (ga.loaded) { $('body').addClass('google-analytics-loaded'); }   // Confirm GA is loaded, add a class if found
+  $('body').addClass('google-analytics-loaded'); 
 
   // Utility method
   if (!Array.prototype.last){

@@ -28,6 +28,14 @@
   ga('create', 'UA-96530768-1', 'auto');
   ga('send', 'pageview', { 'anonymizeIp': true });
   ga(function() {
-    invokeCustomEventTracking();
+    function initCustomTracking() {
+      try {
+        if (ga.loaded) invokeCustomEventTracking();
+      }
+      catch(err) {
+        setTimeout(init, 100);
+      }
+    }
+    initCustomTracking();
   });
 </script>
