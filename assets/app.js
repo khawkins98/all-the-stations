@@ -2,8 +2,7 @@
 // This code tracks the user's clicks, logging as GA events.
 // Links in non-generic regions can be tracked by adding '.track-with-analytics-events' to a parent div. Careful with the scoping.
 // -------------
-setTimeout(function() {
-  // delay invocation by Xms to allow GA to load
+$( document ).ready(function() {
   var ga = ga || [];
   if (ga.loaded) { $('body').addClass('google-analytics-loaded'); }   // Confirm GA is loaded, add a class if found
 
@@ -66,6 +65,6 @@ setTimeout(function() {
       }
     });
   }
-}, 150);
+});
 
 // END GA tracking events
