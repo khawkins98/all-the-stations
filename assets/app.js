@@ -68,6 +68,7 @@ function invokeCustomEventTracking() {
 // END GA tracking events
 
 // count down the stations
+var stationsVisited = 1200;
 $( document ).ready(function() {
   var easingFn = function (t, b, c, d) {
     var ts = (t /= d) * t;
@@ -83,8 +84,13 @@ $( document ).ready(function() {
     prefix : '',
     suffix : ''
   };
-  var demo = new CountUp('counter', 0, 1200, 0, 8.5, options);
+  var demo = new CountUp('counter', 0, stationsVisited, 0, 8.5, options);
   demo.start();
+
+  // update remaining
+  var stationsRemaining = 2563 - stationsVisited;
+  var stationsPercent = Math.floor((stationsVisited / 2563) * 1000)/10;
+  $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
 });
 
 // twitter widget loading and tracking
