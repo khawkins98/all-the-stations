@@ -65,7 +65,6 @@ function invokeCustomEventTracking() {
     });
   }
 }
-
 // END GA tracking events
 
 // count down the stations
@@ -86,4 +85,57 @@ $( document ).ready(function() {
   };
   var demo = new CountUp('counter', 0, 1200, 0, 8.5, options);
   demo.start();
+});
+
+// twitter widget loading and tracking
+window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));
+
+// create twitter widgets
+twttr.ready(function (twttr) {
+  twttr.widgets.createTimeline({
+    sourceType: 'profile',
+    screenName: 'allthestations'
+  },
+  document.getElementById('twitter-timeline'), {
+    // width: '450',
+    height: '500',
+    tweetLimit: '4',
+    chrome: 'nofooter',
+    related: 'twitterdev,twitterapi'
+  }).then(function (el) {
+    // console.log('Embedded a timeline.')
+  });
+
+  // Now bind our custom intent events
+  // https://dev.twitter.com/web/javascript/events
+  // twttr.events.bind('click', function (ev) {
+  //   console.log(ev);
+  // });
+  // twttr.events.bind('tweet', function (ev) {
+  //   console.log(ev);
+  // });
+  // twttr.events.bind('retweet', function (ev) {
+  //   console.log(ev);
+  // });
+  // twttr.events.bind('like', function (ev) {
+  //   console.log(ev);
+  // });
+  // twttr.events.bind('follow', function (ev) {
+  //   console.log(ev);
+  // });
 });

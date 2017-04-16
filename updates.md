@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Project updates
+title: Project Updates
 group: "in_local_navigation"
 order: 3
 ---
 
-## Project Updates 
+## Project Updates
 
 {% include updates_list.html %}

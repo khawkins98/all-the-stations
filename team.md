@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The team
+title: The Team
 group: "in_local_navigation"
 order: 2
 ---

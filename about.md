@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & rules
+title: About & Rules
 group: "in_local_navigation"
 order: 1
 ---

@@ -3,20 +3,62 @@
   {% include head.html %}
   <body class="">
     <!-- <h1><a href="/">Somatisch</a></h1> -->
-    {% include site_head.html %}
+    {% include navigation.html %}
     <div id="content" class="padding-top-xlarge padding-bottom-xlarge" role="main">
 
-      <section id="main-content-area" class="row">
-        <div class="columns medium-10 medium-push-1">
-        {{ content }}
-        </div>
-      </section>
+      <div class="padding-top-xlarge padding-bottom-xlarge show-for-medium">
+      	<div class="text-center">
+      		<h1 style="display:inline-block;"><span id="counter" class="padding-right-large padding-left-large" style="background: #134073; display:inline-block; color: #fff">-</span> <span style="">stations visited</span></h1>
+      	</div>
+      	<div class="text-center">
+      		<h3 style="padding-left: 8rem; margin-top: -1.5rem;">1,363 (XX.0%) to go</h3>
+      	</div>
+      </div>
 
-      <section id="closure-area" class="row">
-        <div class="">
-        {% include homepage_closure.html %}
+      <div class="row">
+        <div class="show-for-small-only columns small-10 small-push-1 padding-bottom-large">
+          <a href="{{site.domain}}"><img alt="Brand" src="{{site.domain}}/static/images/allstations-rainbow.png" class=""/></a>
         </div>
-      </section>
+      </div>
+      <div class="row">
+        <div class="videoWrapper show-for-small-only columns small-12">
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PL4PdgT_AV_nWe4zl01CbwnSuspvdHZMde&enablejsapi=1&origin=http%3A%2F%2Fwww.allthestations.co.uk" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
+        </div>
+      </div>
+
+      <div class="padding-top-xlarge padding-bottom-xlarge">
+        <div class="row">
+        	<div class="columns medium-9">
+            <section id="main-content-area" class="row">
+              <div class="columns medium-4">
+                {{ content }}
+                <!-- <div class="label margin-bottom-medium">Bonus content</div> -->
+              </div>
+              <div class="columns medium-8">
+              	<div class="videoWrapper show-for-medium">
+              		<iframe src="https://www.youtube.com/embed/videoseries?list=PL4PdgT_AV_nWe4zl01CbwnSuspvdHZMde&enablejsapi=1&origin=http%3A%2F%2Fwww.allthestations.co.uk" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
+              	</div>
+              	<div class="padding-top-small padding-bottom-small show-for-medium">
+              		<span class="padding-right-large"><a class="" href="http://www.twitter.com/allthestations/"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></span>
+              		<span class="padding-right-large"><a class="" href="http://www.youtube.com/channel/UC7ttKX46nJxUeXZ0aoD4Q5g"><i class="fa fa-youtube-play" aria-hidden="true"></i> YouTube</a></span>
+              		<span class="padding-right-large"><a class="" href="http://www.instagram.com/allthestations/"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></span>
+              		<span class="padding-right-large"><a class="" href="http://www.facebook.com/AllTheStations/"><i class="fa fa-facebook-official" aria-hidden="true"></i> Facebook</a></span>
+                  <hr/>
+              	</div>
+              	<a name="map"></a>
+              	<h3>The Map</h3>
+              	<iframe style="width:100%;height:500px; border:0;" src="http://www.allthestations.co.uk/map/geofftech-stations.php"></iframe>
+              	<small><a class="read-more" href="/all-the-stations/stationlist">See the complete list of all 2,563 railway stations here</a></small>
+              </div>
+            </section>
+        	</div>
+        	<div class="columns medium-3">
+        	  <!-- <div class="label margin-bottom-medium">Live from Twitter</div> -->
+        	  <div id="twitter-timeline"></div>
+        	  <small><a class="read-more" href="https://twitter.com/allthestations">Follow on Twitter</a></small>
+        	</div>
+        </div>
+      </div>
 
     </div><!-- /.container -->
     {% include footer.html %}
