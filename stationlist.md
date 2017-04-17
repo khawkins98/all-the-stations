@@ -1,13 +1,16 @@
 ---
-layout: default
+layout: wide
 title: The Map
 group: "in_local_navigation"
 order: 5
 ---
 
+
+
 <div class="row padding-bottom-xlarge bgbox primary">
-	<div class="columns medium-8  columns medium-push-1 padding-top-xlarge">
-    <h1><strong>A list of all 2,560 railway stations</strong> in Great Britain</h1>
+	<div class="columns medium-11 columns medium-push-1 padding-top-xlarge">
+    <h1><strong>All 2,563 railway stations</strong> in Great Britain</h1>
+		<iframe style="width:100%;height:500px; border:0;" src="http://allthestations.co.uk/map/allthestations-map.php"></iframe>
     <h3 class="lead">Here's the complete list of railway stations in Great Britain, so if you want to know if we're travelling to a certain station, you can search for it on this page here.</h3>
     <h3 class="lead">The list comes from the <strong>Office of Rail and Road</strong> website, so if you want even more data than this list then <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates">download the spreadsheet here</a>.</h3>
     <h3 class="lead">During 2017 three new stations will be opening - <em>Cambridge North</em>, <em>Ilkeston</em> and <em>Low Moor</em> which will be added to this page, and bring the total number of stations to 2,563.</h3>
@@ -17,8 +20,7 @@ order: 5
 
 <div class="row padding-bottom-xlarge padding-top-xlarge">
 	<div class="columns medium-10 columns medium-push-1 ">
-
-
+				<h2>A list of all the railway stations</h2>
 				<div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1">
 					<p>A</p>
 				  <p class="small">Abbey Wood, Aber, Abercynon, Aberdare, Aberdeen, Aberdour, Aberdovey,  Abererch, Abergavenny, Abergele &amp; Pensarn, Aberystwyth, Accrington, Achanalt,  Achnasheen, Achnashellach, Acklington, Acle, Acocks Green, Acton Bridge, Acton  Central, Acton Main Line, Adderley Park, Addiewell, Addlestone, Adisham, Adlington  (Cheshire), Adlington (Lancashire), Adwick, Aigburth, Ainsdale, Aintree, Airbles,  Airdrie, Albany Park, Albrighton, Alderley Edge, Aldermaston, Aldershot, Aldrington,  Alexandra Palace, Alexandra Parade, Alexandria, Alfreton, Allen's West, Alloa, Alness,  Alnmouth, Alresford, Alsager, Althorne, Althorpe, Altnabreac, Alton, Altrincham,  Alvechurch, Ambergate, Amberley, Amersham, Ammanford, Ancaster, Anderston, Andover,  Anerley, Angel Road, Angmering, Annan, Anniesland, Ansdell &amp; Fairhaven, Apperley  Bridge, Appleby, Appledore, Appleford, Appley , Bridge, Apsley, Arbroath, Ardgay,  Ardlui, Ardrossan Harbour, Ardrossan South Beach, Ardrossan Town, Ardwick, Argyle  Street, Arisaig, Arlesey, Armadale, Armathwaite, Arnside, Arram, Arrochar &amp;  Tarbet, Arundel, Ascot, Ascott-Under-Wychwood, Ash, Ash Vale, Ashburys, Ashchurch,  Ashfield, Ashford (Middlesex), Ashford International, Ashley, Ashtead, Ashton-Under-Lyne,  Ashurst, Ashurst New Forest, Ashwell &amp; Morden, Askam, Aslockton, Aspatria,  Aspley Guise, Aston, Atherstone, Atherton, Attadale, Attenborough, Attleborough,  Auchinleck, Audley End, Aughton Park, Aviemore, Avoncliff, Avonmouth, Axminster,  Aylesbury, Aylesbury Vale Parkway, Aylesford, Aylesham, Ayr </p>
