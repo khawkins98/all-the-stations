@@ -68,29 +68,45 @@ function invokeCustomEventTracking() {
 // END GA tracking events
 
 // count down the stations
-var stationsVisited = 1200;
 $( document ).ready(function() {
-  var easingFn = function (t, b, c, d) {
-    var ts = (t /= d) * t;
-    var tc = ts * t;
-    return b + c * (tc + -3 * ts + 3 * t);
-  }
-  var options = {
-    useEasing : true,
-    easingFn: easingFn,
-    useGrouping : true,
-    separator : ',',
-    decimal : '.',
-    prefix : '',
-    suffix : ''
-  };
-  var demo = new CountUp('counter', 0, stationsVisited, 0, 8.5, options);
-  demo.start();
+  var stationsVisited = 0;
 
-  // update remaining
-  var stationsRemaining = 2563 - stationsVisited;
-  var stationsPercent = Math.floor((stationsVisited / 2563) * 1000)/10;
-  $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
+  // get the current count
+  var jqxhr = $.getJSON( "http://allthestations.co.uk/map/nsv.php", function() {
+    console.log( "success",data );
+    stationsVisited = 1200; // just use fake data until journey starts
+    doTheCounter();
+  })
+  .fail(function() {
+    console.log( "still need to do the access-control" );
+    stationsVisited = 1200; // just use fake data until journey starts
+    doTheCounter();
+  });
+
+  // do the counter
+  function doTheCounter() {
+    var easingFn = function (t, b, c, d) {
+      var ts = (t /= d) * t;
+      var tc = ts * t;
+      return b + c * (tc + -3 * ts + 3 * t);
+    }
+    var options = {
+      useEasing : true,
+      easingFn: easingFn,
+      useGrouping : true,
+      separator : ',',
+      decimal : '.',
+      prefix : '',
+      suffix : ''
+    };
+    var demo = new CountUp('counter', 0, stationsVisited, 0, 8.5, options);
+    demo.start();
+
+    // update remaining
+    var stationsRemaining = 2563 - stationsVisited;
+    var stationsPercent = Math.floor((stationsVisited / 2563) * 1000)/10;
+    $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
+  }
 });
 
 // twitter widget loading and tracking
