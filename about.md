@@ -6,7 +6,6 @@ order: 1
 ---
 
 <a name="project"></a>
-<div class="bgbox secondary" markdown="1">
 
 ## About
 
@@ -25,9 +24,6 @@ Within the next decade, changes to the rail network will be more pivotal than ev
 To ensure the project becomes an asset for the future we have begun conversations with the <a href="http://www.nrm.org.uk/" target="new">National Railway Museum</a> and <a href="http://www.ltmuseum.co.uk/" target="new">London Transport Museum</a> and hope to donate all relevant material to their collections.
 
 <em>We would like to thank the <a href="http://www.raildeliverygroup.com/" target="new">Rail Delivery Group</a> for their endorsement and generous support of the project. The RDG is a body that represents the 23 train operating companies that make up the British railway system.</em>
-
-</div>
-
 
 <a name="rules"></a>
 
@@ -51,4 +47,3 @@ And finally, it’s not a race to do this in the fastest time possible, it’s a
 ## Crowd Funding
 	
 Our journey begins in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and en-gaging video content for the public. 
-
