@@ -7,6 +7,7 @@ order: 1
 
 <a name="project"></a>
 <div class="bgbox secondary" markdown="1">
+
 ## About
 
 Geoff is a freelance video editor and transport vlogger, Vicki is a museum education professional. Our transport videos already published online have accumulated over <em>6 million views </em>on Youtube, but in this latest project the aim is to capture the current status of Britain’s railways, and bring them to life as we explore the reality of the places and people we encounter along the way.
@@ -29,32 +30,25 @@ To ensure the project becomes an asset for the future we have begun conversation
 
 
 <a name="rules"></a>
-<div class="bgbox secondary">
-	<h2>Project Rules</h2>
 
-	<h3><strong>What counts as a station?</strong></h3>
-	<ol>
-		<li>We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR). Their list for 2015-16 contains 2,557 stations, and three new stations have opened since, bringing the total to 2,560. <a href="stationlist.html">The complete list of stations is on this page here</a>.</li>
-		<li>Abandoned stations (e.g. Norton Bridge, Newhaven Marine), The London Underground, Tyne &amp; Wear Metro, Glasgow Subway and heritage railways are not included, and neither are stations in Northern Ireland.</li>
-	</ol>
+## Project Rules
 
-	<h3><strong>What counts as having visited each station?</strong></h3>
+### What counts as a station?
 
-	<ol>
-		<li>We <b>do</b> have to arrive or leave on a scheduled train that’s timetabled to stop at each station - fast trains that pass through do not count.</li>
-		<li>We <b>don’t</b> have to leave the train at every station, but we will get off at some of the most interesting stations and report back to you.</li>
-		<li>Request stops have a special rule. As long as the train we are on is able to stop, if requested, then we will count it as having been visited, even if no one does actually get on or off.</li>
-	</ol>
+1. We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR). Their list for 2015-16 contains 2,557 stations, and three new stations have opened since, bringing the total to 2,560. <a href="stationlist.html">The complete list of stations is on this page here</a>.
+2. Abandoned stations (e.g. Norton Bridge, Newhaven Marine), The London Underground, Tyne &amp; Wear Metro, Glasgow Subway and heritage railways are not included, and neither are stations in Northern Ireland.
 
-	<p>More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!</p>
+### What counts as having visited each station?
 
-	<p>And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.</p>
-</div>
+1. We **do** have to arrive or leave on a scheduled train that’s timetabled to stop at each station - fast trains that pass through do not count.
+2. We **don’t** have to leave the train at every station, but we will get off at some of the most interesting stations and report back to you.
+3. Request stops have a special rule. As long as the train we are on is able to stop, if requested, then we will count it as having been visited, even if no one does actually get on or off.
 
-<div class="bgbox primary padding-top-large" markdown="1">
-<a name="funding"></a>
-<h2 class="color-white">Crowd Funding</h2>
+More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
+
+And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.
+
+## Crowd Funding
 	
 Our journey begins in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and en-gaging video content for the public. 
 
-</div>
