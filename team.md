@@ -20,7 +20,7 @@ order: 2
 				<img src="/all-the-stations/static/images/vicki.jpg" class="img-rounded">
 			</div>
 			<h3>Vicki Pipe</h3>
-			<p>Vicki is a museum education professional by trade, but also an artist and performer and often finds these three things join together nicely. Her interest in railways lays with the stories of people, social change and how the railways impact on our sense of space and surroundings. If asked  what her favourite train stock was, she'd likely say 'Hogwarts Express'.</p>
+			<p>Vicki is a museum education professional by trade, but also an artist and improviser and often finds these three things join together nicely. She has presented in videos for Londonist <http://londonist.com/category/videos> and on Geoff’s YouTube channel on a range of topics from history <https://youtu.be/hsWO_BM20rw> to Harry Potter <https://youtu.be/HO1R8PD-2KI>  Her interest in railways lays with the stories of people, social change and how the railways impact on our sense of space and surroundings. If asked what her favourite train stock was, she'd likely say 'Hogwarts Express'.</p>
 		</div>
 	</div>
 </div>
