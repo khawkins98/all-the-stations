@@ -74,12 +74,12 @@ $( document ).ready(function() {
   // get the current count
   var jqxhr = $.getJSON( "http://allthestations.co.uk/map/nsv.php", function() {
     console.log( "success",data );
-    stationsVisited = 1200; // just use fake data until journey starts
+    stationsVisited = data; // just use fake data until journey starts
     doTheCounter();
   })
   .fail(function() {
     console.log( "still need to do the access-control" );
-    stationsVisited = 1200; // just use fake data until journey starts
+    stationsVisited = 0; // just use fake data until journey starts
     doTheCounter();
   });
 

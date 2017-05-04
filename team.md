@@ -77,8 +77,6 @@ order: 2
 			<h3>Ken Hawkins</h3>
 			<p>Growing up in the USA, Ken did not develop the usual American passion for cars and tarmac everywhere, enhanced by several years of living in southern Germany. After <a href="http://www.thedigitel.com/s/charleston/digicast-top-stories-entertainment/its-cher-tour-our-second-podcast-news-and-events-081217-116012">collaborating with Geoff</a> back in 2008, Ken's using his information design and web development skills to help with the All the Stations site.</p>
 		</div>
-
-
 		<div class="column">
 			<h3>With thanks to...</h3>
 			<ul>
