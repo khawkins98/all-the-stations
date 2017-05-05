@@ -11,7 +11,7 @@ order: 1
 <p><a class="button readmore margin-bottom-none" href="http://www.youtube.com/channel/UC7ttKX46nJxUeXZ0aoD4Q5g"><i class="fa fa-youtube-play" aria-hidden="true"></i> Watch on YouTube</a></p>
 <p><a class="readmore" href="/about">More about the project</a></p>
 <hr/>
-<p>Geoff will is also posting bonus content <a href="https://www.youtube.com/watch?list=PLt4q5oaptyI9x3D0nCrswG-p_wIwPQQys&v=Vv0jecbapMw">on his personal channel</a>.</p>
+<p>Geoff is also posting bonus content <a href="https://www.youtube.com/watch?list=PLt4q5oaptyI9x3D0nCrswG-p_wIwPQQys&v=Vv0jecbapMw">on his personal channel</a>.</p>
 <div class="videoWrapper">
 	<iframe src="https://www.youtube.com/embed/videoseries?list=PLt4q5oaptyI9x3D0nCrswG-p_wIwPQQys&enablejsapi=1&origin=http%3A%2F%2Fwww.allthestations.co.uk" frameborder="0" allowfullscreen class="embed-responsive-item" style=""></iframe>
 </div>
