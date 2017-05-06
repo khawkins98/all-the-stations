@@ -76,16 +76,15 @@ $( document ).ready(function() {
     // console.log( "success",data );
     stationsVisited = data.number_of_stations_visited;
     if (data.number_of_stations_visited == 0) {
+      $('#counter-row').hide();
       stationsVisited = 1; // no less than 1
+    } else {
+      doTheCounter();
     }
-    doTheCounter();
   })
   .fail(function() {
     // Hide if something goes wrong
     $('#counter-row').hide();
-    // console.log( "still need to do the access-control" );
-    // stationsVisited = 0; // just use fake data until journey starts
-    // doTheCounter();
   });
 
   // do the counter
