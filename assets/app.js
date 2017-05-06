@@ -109,7 +109,7 @@ $( document ).ready(function() {
 
     // update remaining
     var stationsRemaining = 2563 - stationsVisited;
-    var stationsPercent = Math.floor((stationsVisited / 2563) * 1000)/10;
+    var stationsPercent = 100 - Math.floor((stationsVisited / 2563) * 1000)/10;
     $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
   }
 });
