@@ -76,7 +76,7 @@ $( document ).ready(function() {
     // console.log( "success",data );
     stationsVisited = data.number_of_stations_visited;
     if (data.number_of_stations_visited == 0) {
-      data.number_of_stations_visited = 1; // no less than 1
+      stationsVisited = 1; // no less than 1
     }
     doTheCounter();
   })
