@@ -72,7 +72,7 @@ $( document ).ready(function() {
   var stationsVisited = 0;
 
   // get the current count
-  var jqxhr = $.getJSON( "http://allthestations.co.uk/map/nsv.php", function() {
+  var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/nsv.php", function() {
     console.log( "success",data );
     stationsVisited = data; // just use fake data until journey starts
     doTheCounter();
@@ -136,7 +136,7 @@ twttr.ready(function (twttr) {
   document.getElementById('twitter-timeline'), {
     // width: '450',
     height: '500',
-    tweetLimit: '3',
+    // tweetLimit: '3',
     chrome: 'nofooter',
     related: 'twitterdev,twitterapi'
   }).then(function (el) {
