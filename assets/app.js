@@ -72,15 +72,20 @@ $( document ).ready(function() {
   var stationsVisited = 0;
 
   // get the current count
-  var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/nsv.php", function() {
-    console.log( "success",data );
-    stationsVisited = data; // just use fake data until journey starts
+  var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/nsv.php", function(data) {
+    // console.log( "success",data );
+    stationsVisited = data.number_of_stations_visited;
+    if (data.number_of_stations_visited == 0) {
+      data.number_of_stations_visited = 1; // no less than 1
+    }
     doTheCounter();
   })
   .fail(function() {
-    console.log( "still need to do the access-control" );
-    stationsVisited = 0; // just use fake data until journey starts
-    doTheCounter();
+    // Hide if something goes wrong
+    $('#counter-row').hide();
+    // console.log( "still need to do the access-control" );
+    // stationsVisited = 0; // just use fake data until journey starts
+    // doTheCounter();
   });
 
   // do the counter
@@ -134,6 +139,7 @@ twttr.ready(function (twttr) {
     screenName: 'allthestations'
   },
   document.getElementById('twitter-timeline'), {
+    // https://dev.twitter.com/web/embedded-timelines/parameters
     // width: '450',
     height: '500',
     // tweetLimit: '3',
