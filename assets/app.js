@@ -136,7 +136,7 @@ twttr.ready(function (twttr) {
   document.getElementById('twitter-timeline'), {
     // width: '450',
     height: '500',
-    tweetLimit: '4',
+    tweetLimit: '3',
     chrome: 'nofooter',
     related: 'twitterdev,twitterapi'
   }).then(function (el) {
