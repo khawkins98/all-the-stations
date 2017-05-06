@@ -4,13 +4,10 @@ title: The Map
 group: "in_local_navigation"
 order: 5
 ---
-
-
-
 <div class="row padding-bottom-xlarge bgbox primary">
 	<div class="columns medium-11 columns medium-push-1 padding-top-xlarge">
     <h1><strong>All 2,563 railway stations</strong> in Great Britain</h1>
-		<iframe style="width:100%;height:500px; border:0;" src="http://allthestations.co.uk/map/allthestations-map.php"></iframe>
+		<iframe style="width:100%;height:500px; border:0;" src="http://www.allthestations.co.uk/map/allthestations-map.php"></iframe>
     <h3 class="lead">Here's the complete list of railway stations in Great Britain, so if you want to know if we're travelling to a certain station, you can search for it on this page here.</h3>
     <h3 class="lead">The list comes from the <strong>Office of Rail and Road</strong> website, so if you want even more data than this list then <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates">download the spreadsheet here</a>.</h3>
     <h3 class="lead">During 2017 three new stations will be opening - <em>Cambridge North</em>, <em>Ilkeston</em> and <em>Low Moor</em> which will be added to this page, and bring the total number of stations to 2,563.</h3>
