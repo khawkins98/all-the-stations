@@ -40,7 +40,7 @@ order: 2
 				<img src="/static/images/matt.jpg" class="img-rounded">
 			</div>
 			<h3>Matthew Frost</h3>
-			<p>Matthew is an independent mobile application developer who created the award-winning App <a href="http://stationmasterapp.com/">Station Master</a> for iOS. All of his iOS Apps have a transport theme. Previously he worked for one of the first Internet Service Providers in the UK. He is providing e-mail &amp; IT help to the project plus an App for tracking the team's progress in near realtime. In his spare time he is a volunteer tour guide for London Transport Museum's &quot;Hidden London&quot; programme.</p>
+			<p>Matthew is an independent mobile application developer who created the award-winning App <a href="http://stationmasterapp.com/">Station Master</a> for iOS. All of his iOS Apps have a transport theme. Previously he worked for one of the first Internet Service Providers in the UK. He is providing e-mail &amp; IT/development support to the project including the "Adopt a Station" website/tool. In his spare time he is a volunteer tour guide for London Transport Museum's &quot;Hidden London&quot; programme.</p>
 		</div>
 		<div class="column">
 			<div class="columns medium-5 float-left">
