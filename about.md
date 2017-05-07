@@ -32,13 +32,7 @@ To ensure the project becomes an asset for the future we have begun conversation
 
 ### What counts as a station?
 
-1. We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR). <script>var d1 = new Date();
-var d2 = new Date(2017, 5, 21, 0, 0, 0, 0);
-if (d1.getTime() < d2.getTime()) {
-  document.write('Their list for 2015-16 contains 2,557 stations, five new stations having opened since then and another  opening in May 2017, bringing the total to 2,563.');
-} else {
-  document.write('Their list for 2015-16 contains 2,557 stations and six new stations have opened since then, bringing the total to 2,563.');
-}</script> <a href="stationlist.html">The complete list of stations is on this page here</a>.
+1. We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR). Their list for 2015-16 contains 2,557 stations, five new stations having opened since then and another opening in May 2017, bringing the total to 2,563. <a href="stationlist.html">The complete list of stations is on this page here</a>.
 2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland are **not** included, and neither are abandoned stations (e.g. Norton Bridge, Newhaven Marine).
 
 ### What counts as having visited each station?
