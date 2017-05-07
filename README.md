@@ -1,3 +1,6 @@
+![alt text](https://github.com/khawkins98/all-the-stations/blob/gh-pages/static/images/allstations-rainbow.png?raw=true "Logo")
+
+
 # all-the-stations
 The All the Stations main site.
 
