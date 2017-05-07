@@ -9,6 +9,7 @@ order: 1
 
 ## About
 
+All The Stations is a project for Geoff and Vicki to travel to ALL the national railway stations in Britain in just three months, and to create an online documentary film about the journey.
 Geoff is a freelance video editor and transport vlogger, Vicki is a museum education professional. Our transport videos already published online have accumulated over <em>6 million views </em>on Youtube, but in this latest project the aim is to capture the current status of Britain’s railways, and bring them to life as we explore the reality of the places and people we encounter along the way.
 
 Through social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
@@ -31,8 +32,14 @@ To ensure the project becomes an asset for the future we have begun conversation
 
 ### What counts as a station?
 
-1. We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR). Their list for 2015-16 contains 2,557 stations, and three new stations have opened since, bringing the total to 2,560. <a href="stationlist.html">The complete list of stations is on this page here</a>.
-2. Abandoned stations (e.g. Norton Bridge, Newhaven Marine), The London Underground, Tyne &amp; Wear Metro, Glasgow Subway and heritage railways are not included, and neither are stations in Northern Ireland.
+1. We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR). <script>var d1 = new Date();
+var d2 = new Date(2017, 5, 21, 0, 0, 0, 0);
+if (d1.getTime() < d2.getTime()) {
+  document.write('Their list for 2015-16 contains 2,557 stations, five new stations having opened since then and another  opening in May 2017, bringing the total to 2,563.');
+} else {
+  document.write('Their list for 2015-16 contains 2,557 stations and six new stations have opened since then, bringing the total to 2,563.');
+}</script> <a href="stationlist.html">The complete list of stations is on this page here</a>.
+2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland are **not** included, and neither are abandoned stations (e.g. Norton Bridge, Newhaven Marine).
 
 ### What counts as having visited each station?
 
@@ -46,4 +53,4 @@ And finally, it’s not a race to do this in the fastest time possible, it’s a
 
 ## Crowd Funding
 	
-Our journey begins in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and en-gaging video content for the public. 
+Our journey began in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and engaging video content for the public. 
