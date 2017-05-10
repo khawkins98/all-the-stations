@@ -32,13 +32,13 @@ To ensure the project becomes an asset for the future we have begun conversation
 
 ### What counts as a station?
 
-1. We’re using the most up-to-date list of stations in Great Britain<a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new"> provided by the Office of Rail and Road</a> (ORR).
+1. We’re using the most up-to-date list of stations in Great Britain <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new">provided by the Office of Rail and Road</a> (ORR).
 {% if site.time < 1495321200 %}
 Their list for 2015-16 contains 2,557 stations, five new stations having opened since and another opening in May 2017, bringing the total to 2,563.
 {% else %}
 Their list for 2015-16 contains 2,557 stations and six new stations have opened since, bringing the total to 2,563.
 {% endif %}
- <a href="stationlist.html">The complete list of stations is on this page here</a>.
+<a href="stationlist.html">The complete station list is available here</a>.
 2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland are **not** included, and neither are abandoned stations (e.g. Norton Bridge, Newhaven Marine).
 
 ### What counts as having visited each station?
@@ -52,5 +52,5 @@ More of your questions are answered over on the Kickstarter page <a href="https:
 And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.
 
 ## Crowd Funding
-	
-Our journey began in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and engaging video content for the public. 
+
+Our journey began in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and engaging video content for the public.
