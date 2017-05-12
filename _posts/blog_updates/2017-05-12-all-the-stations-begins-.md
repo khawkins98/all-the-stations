@@ -2,7 +2,7 @@
 layout: blog
 group: in_updates_list
 title: All The Stations begins!
-date: 05/07/2017 5:31 PM
+date: 07/05/2017 5:31 PM
 ---
 We've begun our round-Britain challenge to visit All The Stations! We set off from Penzance station this morning with our rucksacks packed and our shiny new All Line Rover tickets, ready to tackle the line to St Ives.
 
@@ -19,5 +19,6 @@ Thanks for following along,
 Geoff and Vicki
 
 ![All The Stations: Lelant Saltings station](/static/images/uploads/Lelant Saltings copy.jpg)
+
 
 
