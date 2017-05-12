@@ -2,7 +2,7 @@
 layout: blog
 group: in_updates_list
 title: South Coast Safari
-date: 2017-12-05T19:18:23.000Z
+date: 2017-05-12T19:18:23+01:00
 ---
 We've been riding all along the south coast over the last few days, from Exeter to Weymouth to Bournemouth to Portsmouth to Brighton, and several inland stations too.
 
