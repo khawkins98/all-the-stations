@@ -2,7 +2,7 @@
 layout: blog
 group: in_updates_list
 title: 'Thank You, Cornwall!'
-date: 05/09/2017 6:54 PM
+date: 09/05/2017 6:54 PM
 ---
 On our third day we've crossed the Tamar Bridge to enter Devon, and Cornwall becomes the first county where we've visited All The Stations. Yesterday we rode the branch lines to Newquay and Falmouth... where we made sure we found time to climb the rock overlooking the harbour to visit Pendennis Castle.
 
@@ -21,5 +21,6 @@ To the trains!
 Geoff and Vicki
 
 ![All The Stations: Vicki at Penmere Station](/static/images/uploads/Penmere copy.png)
+
 
 
