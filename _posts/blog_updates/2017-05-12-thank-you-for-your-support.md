@@ -2,7 +2,7 @@
 layout: blog
 group: in_updates_list
 title: Thank you for your support
-date: 11/05/2017 4:10 PM
+date: '2017-11-05 16:10:00'
 ---
 It's been such an absolute pleasure to meet and talk to staff across the South West, on Great Western Railway and on South West Trains. We've spoken with drivers, platform staff, guards and revenue inspectors, and there's been lots of support for the project across the board. This lovely GWR train crew on our way to Falmouth even gave us a shout out over the tannoy!
 
@@ -17,5 +17,6 @@ Geoff and Vicki
 ![All The Stations: Vicki writing postcard](/static/images/uploads/Vicki penning thanks.jpg)
 
 Vicki writing a reward-postcard to one of our lovely pledgers at Barnstaple station!
+
 
 
