@@ -2,7 +2,7 @@
 layout: blog
 group: in_updates_list
 title: South Coast Safari
-date: 05/12/2017 7:18 PM
+date: '12/05/2017 7:18 PM'
 ---
 We've been riding all along the south coast over the last few days, from Exeter to Weymouth to Bournemouth to Portsmouth to Brighton, and several inland stations too.
 
@@ -15,6 +15,7 @@ We'd rather forget the moment in Westbury where we just missed our train and had
 Have a great weekend everybody, 
 
 Geoff and Vicki
+
 
 
 
