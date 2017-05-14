@@ -13,7 +13,7 @@ order: 2
 				<img src="/static/images/geoff.jpg" class="img-rounded">
 			</div>
 			<h3>Geoff Marshall</h3>
-			<p>Geoff is a freelance video producer making transport films for <a href="https://www.youtube.com/user/Londonistvids" target="new">Londonist</a> and <a href="https://www.youtube.com/user/geofftech2">his own Youtube channel</a>. He is a tour guide for <em>Hidden London</em> taking people inside abandoned tube stations, and has <a href="http://www.bbc.co.uk/news/uk-england-london-24203949" target="new">twice held the  world record</a> for travelling to all Underground stations in the fastest time possible. When not obsessing about the railways, he drinks a lot of tea.</p>
+			<p>Geoff is a freelance video producer making transport films for <a href="https://www.youtube.com/user/Londonistvids" target="new">Londonist</a> and <a href="https://www.youtube.com/user/geofftech2">his own YouTube channel</a>. He is a tour guide for <em>Hidden London</em> taking people inside abandoned tube stations, and has <a href="http://www.bbc.co.uk/news/uk-england-london-24203949" target="new">twice held the  world record</a> for travelling to all Underground stations in the fastest time possible. When not obsessing about the railways, he drinks a lot of tea.</p>
 		</div>
 		<div class="column">
 			<div class="columns medium-5 float-left">
