@@ -12,10 +12,10 @@ order: 1
 All The Stations is a project for Geoff and Vicki to travel to ALL the national railway stations in Britain in just three months, and to create an online documentary film about the journey.
 Geoff is a freelance video editor and transport vlogger, Vicki is a museum education professional. Our transport videos already published online have accumulated over <em>6 million views </em>on YouTube, but in this latest project the aim is to capture the current status of Britain’s railways, and bring them to life as we explore the reality of the places and people we encounter along the way.
 
-Through social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
+Through film and social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
 
-- Each week we’ll post four professionally edited videos that document the journey and bring you closer to the experience.
-- Every day we’ll be keeping you in touch with our travels using YouTube, Twitter, Facebook and Instagram.
+- Each week we’ll post four professionally edited videos that document four separate days of the journey and bring you closer to the experience.
+- Every day we’ll be keeping you in touch with our travels using YouTube, Twitter, Facebook and Instagram. Live streams, photos and updates will keep you in touch between the videos.
 - At the end of the journey we’ll produce a feature length documentary, which will include additional footage and insights into the project.
 
 ### Why is this project important?
