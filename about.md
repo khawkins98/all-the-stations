@@ -15,7 +15,7 @@ Geoff is a freelance video editor and transport vlogger, Vicki is a museum educa
 Through film and social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
 
 - Each week we’ll post four professionally edited videos that document four separate days of the journey and bring you closer to the experience.
-- Every day we’ll be keeping you in touch with our travels using YouTube, Twitter, Facebook and Instagram. Live streams, photos and updates will keep you in touch between the videos.
+- Every day we’ll be sharing our travels using Twitter, Facebook and Instagram. Live streams, photos and updates will keep you in touch between the videos.
 - At the end of the journey we’ll produce a feature length documentary, which will include additional footage and insights into the project.
 
 ### Why is this project important?
