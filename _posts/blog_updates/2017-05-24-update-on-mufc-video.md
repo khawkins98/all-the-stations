@@ -11,8 +11,9 @@ A further bonus video on the Manchester Trams will also now be published next we
 
 There are a number of charity pages which have been set up to support the families and friends of those affected including:
 
-**Manchester Evening News:** http://bit.ly/ats2qbN6oz
-**British Red Cross:** http://bit.ly/ats2rzAgAu
+**<a href="http://bit.ly/ats2qbN6oz" target="_blank">Manchester Evening News</a>** 
+
+**<a href="http://bit.ly/ats2rzAgAu" target="_blank">British Red Cross</a>** 
 
 Our thoughts are with all those affected.
 
