@@ -8,13 +8,19 @@ and we order by adding
 {% assign updates_list = site.posts | sort:"order" %}
 {% assign group = 'in_updates_list' %}
 
+{% assign site_unix_time = site.time | date: '%s' | plus: 0 %}
+
+
 {% for node in updates_list %}
   {% if group == node.group %}
     {% if node.title != "Template" %}
+    {% assign post_unix_time = node.date | date: '%s' | plus: 0 %}
+    {% if post_unix_time < site_unix_time  %}
 <div class="tag">{{node.date | date: "%d %b %Y" }}</div>
 <h3><a href="{{site.domain}}{{node.url}}">{{node.title}}</a></h3>
 {{node.content}}
 <hr/>
+    {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
