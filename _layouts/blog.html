@@ -5,5 +5,11 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
+  {% if posttime < nowunix %}
   {{ content }}
+  {% else %}
+  Check back at {{ page.date | date_to_string }} for this post.
+  {% endif %}
 </div>
