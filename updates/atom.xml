@@ -13,7 +13,11 @@
 		<email>{{ site.email }}</email>
 	</author>
 
+  {% assign site_unix_time = site.time | date: '%s' | plus: 0 %}
+
 	{% for post in site.posts %}
+  {% assign post_unix_time = post.date | date: '%s' | plus: 0 %}
+  {% if post_unix_time < site_unix_time  %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="{{ site.domain }}{{ post.url }}"/>
@@ -21,6 +25,7 @@
 			<id>http:{{ site.domain }}/{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
+  {% endif %}
 	{% endfor %}
 
 </feed>

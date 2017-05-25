@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
+{% assign site_unix_time = site.time | date: '%s' | plus: 0 %}
+{% assign post_unix_time = page.date | date: '%s' | plus: 0 %}
+{% if post_unix_time < site_unix_time  %}
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
 </div>
+{% else %}
+This post has not yet been published.
+{% endif %}
