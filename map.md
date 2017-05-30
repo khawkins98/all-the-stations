@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Map
-group: "in_local_navigation"
+group: "not_in_local_navigation"
 order: 2
 ---
 
