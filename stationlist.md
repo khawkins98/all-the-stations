@@ -12,7 +12,7 @@ order: 5
     <h3 class="lead">The list comes from the <strong>Office of Rail and Road</strong> website, so if you want even more data than this list then <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates">download the spreadsheet here</a>.</h3>
     <h3 class="lead">During 2017 three new stations will be opening - <em>Cambridge North</em>, <em>Ilkeston</em> and <em>Low Moor</em> which will be added to this page, and bring the total number of stations to 2,563.</h3>
     <h3 class="lead">And YES! - All The Stations are travelling to <em>all</em> of these stations.</h3>
-		<p>Want to view this map by itself? <a href="http://www.allthestations.co.uk/map/">Head here</a>.
+		<p>Want to view this map by itself? <a href="http://www.allthestations.co.uk/map/">Head here</a>.</p>
   </div>
 </div>
 
