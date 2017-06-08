@@ -25,7 +25,7 @@ For all media enquiries, please contact Ruth via <a href="mailto:press@allthesta
 <h3>Radio interviews</h3>
 
 <ul>
-<li><a href="http://www.coastfm.co.uk/" target="_blank">Cornwall&#39;s Coast FM</a>: <a href="/static/CoastFM-2017-05-08.mp3">8th May, Morning Show</a></li>
+<li><a href="http://www.coastfm.co.uk/" target="_blank">Cornwall&#39;s Coast FM</a>: <a href="/static/audio/CoastFM-2017-05-08.mp3">8th May, Morning Show</a></li>
 {% if site_unix_time > day10mon06 %}
 <li><a href="http://www.bbc.co.uk/bbcsomerset" target="_blank">BBC Somerset</a>: <a href="/static/audio/BBCSomerset-2017-05-19.mp3">19th May, with Charlie Taylor</a></li>
 {% endif %}
