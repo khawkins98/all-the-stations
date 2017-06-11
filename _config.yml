@@ -15,3 +15,4 @@ custom_css:
 
 # Build settings
 markdown: kramdown
+timezone: Etc/GMT
