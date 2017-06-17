@@ -8,7 +8,7 @@ Hi Everyone,
 
 All The Stations has now been on the rails for one month. In that time we've reached 983 stations and have 61% of the total number of stations still to go.
 
-So, how's it been going? Here's a quick Vlog to let you know.
+So, how's it been going? Here's a quick Vlog from Derby to let you know.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6S5ZoPdGG4" frameborder="0" allowfullscreen></iframe>
 
