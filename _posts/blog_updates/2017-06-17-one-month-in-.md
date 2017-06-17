@@ -14,9 +14,9 @@ So, how's it been going? Here's a quick Vlog to let you know.
 
 There have been so many highlights already it's difficult to pick one thing in particular, but we enjoyed the visit to Shippea Hill. In fact it was so good, we made two videos about it.
 
-Bonus Shippea Hill video: https://youtu.be/8u9txoAsIKg
+Bonus Shippea Hill video: [https://youtu.be/8u9txoAsIKg](https://youtu.be/8u9txoAsIKg)
 
-"There's no one here": https://youtu.be/01AJAWHNd5o
+"There's no one here": [https://youtu.be/01AJAWHNd5o](https://youtu.be/01AJAWHNd5o)
 
 Our thanks again goes to the team at ATS Mission Control for their never ending support. And to you, for all your tips, comments and encouragement.
 
