@@ -4,7 +4,7 @@ group: in_updates_list
 title: '#Allthestationnames Analysis – Chapter 1'
 date: 10 Jun 2017
 ---
-# Compiled by Dan Spence [@DanLoudShirts](https://twitter.com/DanLoudShirts)
+## Compiled by Dan Spence [@DanLoudShirts](https://twitter.com/DanLoudShirts)
 
 Having had a keen interest in Railways since I was head-high to a buffer stop, seldom did I really take notice of station names.  Sure, the ones on my local line in Berkshire I could reel off along with all the big stations around the country, but since the start of this project I have taken a greater interest in the stations that most people would never had heard of or travelled anywhere near.  I have been asked by the All The Stations team to put together some interesting stats on #allthestationnames.
 
