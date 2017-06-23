@@ -111,6 +111,21 @@ $( document ).ready(function() {
     var stationsPercent = 100 - Math.floor((stationsVisited / 2563) * 1000)/10;
     $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
   }
+  
+  // get previous episodes
+  var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/yt-get-rec-eps.php", function(data) {
+    // console.log( "success",data );
+    iHtml = data.previous_episodes;
+    if (iHtml <> "") {
+      $('#prevEp').html("<h3>Previous episodes...</h3>" + iHtml + "<br/>... and many more!<br/><br/><a href='http://www.youtube.com/allthestations'>Click here to see the complete journey on YouTube!</a><script src=\"https://apis.google.com/js/platform.js\"></script><div class=\"g-ytsubscribe\" data-channel=\"UC7ttKX46nJxUeXZ0aoD4Q5g\" data-layout=\"default\" data-count=\"default\"></div><hr/>");
+    } else {
+      $('#prevEp').hide();
+    }
+  })
+  .fail(function() {
+    $('#prevEp').hide();
+  });
+  
 });
 
 // twitter widget loading and tracking
