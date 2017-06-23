@@ -117,7 +117,7 @@ $( document ).ready(function() {
     // console.log( "success",data );
     iHtml = data.previous_episodes;
     if (iHtml != "") {
-      $('#prevEp').html("<h3>Previous episodes...</h3>" + iHtml + "<br/>... and many more!<br/><br/><a href='http://www.youtube.com/allthestations/videos'>Click here to see the complete journey on YouTube!</a>");
+      $('#prevEp').html("<h3>Previous episodes...</h3>" + iHtml + "<br/>... and many more!<br/><table><tr style=\"background-color:#fff\"><td style=\"vertical-align:middle\"><a href='http://www.youtube.com/allthestations/videos'>Click here to see the complete journey on YouTube!</a></td><td><iframe src=\"https://www.youtube.com/subscribe_widget?p=7ttKX46nJxUeXZ0aoD4Q5g\" style=\"width:225px;border:0;height:80px\"/></td></tr></table>");
     } else {
       $('#prevEp').hide();
     }
