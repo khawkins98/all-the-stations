@@ -13,7 +13,7 @@ Want more All The Stations in your life? Have no fear, we have all your merchand
 Due to popular demand we have moved our T-Shirts to a separate site, 
 increasing the number of designs, sizes, styles and shipping options avaliable.
 
-### <a href="https://www.freewebstore.org/allthestationsmerch">Sundaries</a>
+### <a href="https://www.freewebstore.org/allthestationsmerch">Sundries</a>
 
 Mugs, badges and travel card holders are still available from our original store. Items are currently only available in the UK, but international shipping options will be updated in the next couple of weeks.
 
