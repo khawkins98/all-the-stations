@@ -4,20 +4,20 @@ title: Merchandise
 group: "in_local_navigation"
 order: 7
 ---
-##All the Merchandise
+## All the Merchandise
 
 Want more All The Stations in your life? Have no fear, we have all your merchandising needs covered.
 
-###<a href="http://stores.clothes2order.com/dztzstore/all-the-stations/">T-Shirts</a>
+### <a href="http://stores.clothes2order.com/dztzstore/all-the-stations/">T-Shirts</a>
 
 Due to popular demand we have moved our T-Shirts to a separate site, 
 increasing the number of designs, sizes, styles and shipping options avaliable.
 
-###<a href="https://www.freewebstore.org/allthestationsmerch">Sundaries</a>
+### <a href="https://www.freewebstore.org/allthestationsmerch">Sundaries</a>
 
 Mugs, badges and travel card holders are still available from our original store. Items are currently only available in the UK, but international shipping options will be updated in the next couple of weeks.
 
-<img src="/static/images/All The Stations tshirts.png" alt="Geoff &amp; Vicky presenting T-Shirts"/>
+<img src="/static/images/uploads/All The Stations tshirts.png" alt="Geoff &amp; Vicky presenting T-Shirts"/>
 
 Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing these stores. 
 
