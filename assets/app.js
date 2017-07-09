@@ -107,11 +107,12 @@ $( document ).ready(function() {
     demo.start();
 
     // update remaining
-    var stationsRemaining = 2563 - stationsVisited;
-    var stationsPercent = 100 - Math.floor((stationsVisited / 2563) * 1000)/10;
+    var stationsTotal = 2563;
+    var stationsRemaining = stationsTotal - stationsVisited;
+    var stationsPercent = 100 - (Math.floor((stationsVisited / stationsTotal) * 1000)/10);
     $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
   }
-  
+
   // get previous episodes
   var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/yt-get-rec-eps.php", function(data) {
     // console.log( "success",data );
@@ -125,7 +126,7 @@ $( document ).ready(function() {
   .fail(function() {
     $('#prevEp').hide();
   });
-  
+
 });
 
 // twitter widget loading and tracking
