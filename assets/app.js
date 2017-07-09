@@ -109,7 +109,7 @@ $( document ).ready(function() {
     // update remaining
     var stationsTotal = 2563;
     var stationsRemaining = stationsTotal - stationsVisited;
-    var stationsPercent = 100 - (Math.floor((stationsVisited / stationsTotal) * 1000)/10);
+    var stationsPercent = (Math.floor((1 - (stationsVisited / stationsTotal)) * 1000)) / 10;
     $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
   }
 
