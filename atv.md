@@ -6,12 +6,12 @@ order: 3
 ---
 ## All The Videos
 
-We've given you all the playlists already. If you want to watch the videos by region (and slightly chronological), 
+We've given you all the playlists already. If you want to watch the videos by region (and slightly chronological),
 
 ### Pre-Trip
 
-* <a href="https://www.youtube.com/watch?v=Vv0jecbapMw">All The Stations - Pilot (Part 1) - Lincoln</a>
-* <a href="https://www.youtube.com/watch?v=Lz2VugpuVEE">All The Stations - Pilot (Part 2) - Gainsborough to Hull</a>
+* {% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}
+* {% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}
 * <a href="https://www.youtube.com/watch?v=BPTxYWRxjI8">All The Stations - Everything You Need To Know</a>
 
 ### The South West
