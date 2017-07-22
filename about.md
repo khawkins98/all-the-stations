@@ -39,7 +39,7 @@ To ensure the project becomes an asset for the future we have begun conversation
     {% else %}
     Their list for 2015-16 contains 2,557 stations and six new stations have opened since, bringing the total to 2,563.
     {% endif %}
-    <a href="stationlist.html">The complete station list is available here</a>.
+    <a href="/stationlist">The complete station list is available here</a>.
 2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland are **not** included, and neither are abandoned stations (e.g. Norton Bridge, Newhaven Marine).
 
 ### What counts as having visited each station?
