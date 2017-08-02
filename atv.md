@@ -10,38 +10,39 @@ We've given you all the playlists already. If you want to watch the videos by re
 
 ### Pre-Trip
 <ul>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="BPTxYWRxjI8" title="All The Stations - Everything You Need To Know" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="BPTxYWRxjI8" title="All The Stations - Everything You Need To Know" %}</span>
 </ul>
 
 ### The South West
 <ul>
-<span style="display:list-item;list-style-type:circle">{% include partial_youtube.html id="G6er8imzu8Y" title="Sleeper to Penzance - All The Stations Extra" %}</span>
-<span style="display:list-item;list-style-type:circle">{% include partial_youtube.html id="Js3Aj-KMT94" title="Steam Train at Penzance - All The Stations Extra" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="SoA1OTQJoxQ" title="Make Your Intent Clear - Episode 1, Day 1 - Penzance to St. Ives" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="0hHaF1RXSl0" title="Gruesome Murder Holes - Episode 2, Day 2 - Penzance to Liskeard" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="GjdgSwUA4aA" title="Don't Leave Me Geoff - Episode 3, Day 3 - Liskeard to Chapelton" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="R8GQcOUJOmw" title="Sir Peter! You Should Make That Happen - Episode 4, Day 4 – Barnstaple to Weymouth" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="W_zvtgnd_rQ" title="I did not think this through - Episode 5, Day 5 - Weymouth to Chandlers Ford" %}</span>
-<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="NgdHdiDs53w" title="Okehampton & Samford Courtenay - Bonus Video" %}</span>
-* Isle of Wight - Bonus Video [does not exist]
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="G6er8imzu8Y" title="Sleeper to Penzance - All The Stations Extra" %}</span>
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="Js3Aj-KMT94" title="Steam Train at Penzance - All The Stations Extra" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="SoA1OTQJoxQ" title="Make Your Intent Clear - Episode 1, Day 1 - Penzance to St. Ives" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="0hHaF1RXSl0" title="Gruesome Murder Holes - Episode 2, Day 2 - Penzance to Liskeard" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="GjdgSwUA4aA" title="Don't Leave Me Geoff - Episode 3, Day 3 - Liskeard to Chapelton" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="R8GQcOUJOmw" title="Sir Peter! You Should Make That Happen - Episode 4, Day 4 – Barnstaple to Weymouth" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="W_zvtgnd_rQ" title="I did not think this through - Episode 5, Day 5 - Weymouth to Chandlers Ford" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="NgdHdiDs53w" title="Okehampton & Samford Courtenay - Bonus Video" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">Isle of Wight - Bonus Video [does not exist]</span>
 </ul>
 
 ### London and the South East
-* <a href="https://www.youtube.com/watch?v=zJs7JbxGeWc">Switch! Reverse that! - Episode 6, Day 9 - Bognor Regis to Gatwick Airport</a>
-* <a href="https://www.youtube.com/watch?v=9spvOfxgDas">Is There A Toilet On This Train? - Episode 7, Day 11 - Bromley South to Rochester</a>
-* <a href="https://www.youtube.com/watch?v=f67h-rhKbZk">The Sandwich Paradox - Episode 8, Day 12 - Bromley South to Canterbury West</a>
-* <a href="https://www.youtube.com/watch?v=_QVQDSofuYI">A small problem at Leatherhead - Episode 10, Day 16 - Purley to West Croydon</a>
-* <a href="https://www.youtube.com/watch?v=pOMbXA1jkeQ">It's London, innit! - Episode 11, Day 17 - Birkbeck to Hayes</a>
-* <a href="https://www.youtube.com/watch?v=mgdWQXI_fdE">Watch for the sign of the lollipop - Episode 12, Day 18 - Redhill to Staines</a>
-* <a href="https://www.youtube.com/watch?v=GWoYafg0z8E">I'm In Love With The Overground - Episode 13 - Day 19 – Clapham Junction to Richmond</a>
-* <a href="https://www.youtube.com/watch?v=yxhp5nmqNx0">It’s Time To Get A Tea - Episode 14, Day 24 - Marylebone to Oxford</a>
-* <a href="https://www.youtube.com/watch?v=kGRWskBmCoY">The Guildford Connection - All The Stations Extra</a>
-* <a href="https://www.youtube.com/watch?v=gBxbEejtvCg">The Edenbridge Switcheroo - All The Stations Extra</a>
-* <a href="https://www.youtube.com/watch?v=nSvHYRvK694">Windsor to Bracknell - All The Stations Extra</a>
-* <a href="https://www.youtube.com/watch?v=d0jiPU2Skyo">TfL Rail - Bonus Video</a>
-
+<ul>
+<span style="display:list-item;list-style-type:disc;color:blue"><a href="https://www.youtube.com/watch?v=zJs7JbxGeWc"title="Switch! Reverse that! - Episode 6, Day 9 - Bognor Regis to Gatwick Airport" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="9spvOfxgDas"title="Is There A Toilet On This Train? - Episode 7, Day 11 - Bromley South to Rochester" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="f67h-rhKbZk"title="The Sandwich Paradox - Episode 8, Day 12 - Bromley South to Canterbury West" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="_QVQDSofuYI"title="A small problem at Leatherhead - Episode 10, Day 16 - Purley to West Croydon" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="pOMbXA1jkeQ"title="It's London, innit! - Episode 11, Day 17 - Birkbeck to Hayes" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="mgdWQXI_fdE"title="Watch for the sign of the lollipop - Episode 12, Day 18 - Redhill to Staines" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="GWoYafg0z8E"title="I'm In Love With The Overground - Episode 13 - Day 19 – Clapham Junction to Richmond" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="yxhp5nmqNx0"title="It’s Time To Get A Tea - Episode 14, Day 24 - Marylebone to Oxford" %}
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="kGRWskBmCoY"title="The Guildford Connection - All The Stations Extra" %}
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="gBxbEejtvCg"title="The Edenbridge Switcheroo - All The Stations Extra" %}
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="nSvHYRvK694"title="Windsor to Bracknell - All The Stations Extra" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="d0jiPU2Skyo" title="TfL Rail - Bonus Video" %}</span>
+</ul>
 ### East Anglia
 * <a href="https://www.youtube.com/watch?v=rE67aOXG-3k">Big Boy Trains - Episode 15, Day 25 - Fenchurch Street to Shenfield</a>
 * <a href="https://www.youtube.com/watch?v=V9HZgIgzJRc">You're Making Me Nervous - Episode 16, Day 26 - Liverpool Street to Felixstowe</a>
