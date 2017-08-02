@@ -9,21 +9,24 @@ order: 3
 We've given you all the playlists already. If you want to watch the videos by region (and slightly chronological),
 
 ### Pre-Trip
-
-* {% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}
-* {% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}
-* <a href="https://www.youtube.com/watch?v=BPTxYWRxjI8">All The Stations - Everything You Need To Know</a>
+<ul>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="BPTxYWRxjI8" title="All The Stations - Everything You Need To Know" %}</span>
+</ul>
 
 ### The South West
-* <a href="https://www.youtube.com/watch?v=G6er8imzu8Y">Sleeper to Penzance - All The Stations Extra </a>
-* <a href="https://www.youtube.com/watch?v=Js3Aj-KMT94">Steam Train at Penzance - All The Stations Extra</a>
-* <a href="https://www.youtube.com/watch?v=SoA1OTQJoxQ">Make Your Intent Clear - Episode 1, Day 1 - Penzance to St. Ives</a>
-* <a href="https://www.youtube.com/watch?v=0hHaF1RXSl0">Gruesome Murder Holes - Episode 2, Day 2 - Penzance to Liskeard</a>
-* <a href="https://www.youtube.com/watch?v=GjdgSwUA4aA">Don't Leave Me Geoff - Episode 3, Day 3 - Liskeard to Chapelton</a>
-* <a href="https://www.youtube.com/watch?v=R8GQcOUJOmw">Sir Peter! You Should Make That Happen - Episode 4, Day 4 – Barnstaple to Weymouth</a>
-* <a href="https://www.youtube.com/watch?v=W_zvtgnd_rQ">I did not think this through - Episode 5, Day 5 - Weymouth to Chandlers Ford</a>
-* <a href="https://www.youtube.com/watch?v=NgdHdiDs53w">Okehampton & Samford Courtenay - Bonus Video</a>
+<ul>
+<span style="display:list-item;list-style-type:circle">{% include partial_youtube.html id="G6er8imzu8Y" title="Sleeper to Penzance - All The Stations Extra" %}</span>
+<span style="display:list-item;list-style-type:circle">{% include partial_youtube.html id="Js3Aj-KMT94" title="Steam Train at Penzance - All The Stations Extra" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="SoA1OTQJoxQ" title="Make Your Intent Clear - Episode 1, Day 1 - Penzance to St. Ives" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="0hHaF1RXSl0" title="Gruesome Murder Holes - Episode 2, Day 2 - Penzance to Liskeard" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="GjdgSwUA4aA" title="Don't Leave Me Geoff - Episode 3, Day 3 - Liskeard to Chapelton" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="R8GQcOUJOmw" title="Sir Peter! You Should Make That Happen - Episode 4, Day 4 – Barnstaple to Weymouth" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="W_zvtgnd_rQ" title="I did not think this through - Episode 5, Day 5 - Weymouth to Chandlers Ford" %}</span>
+<span style="display:list-item;list-style-type:disc">{% include partial_youtube.html id="NgdHdiDs53w" title="Okehampton & Samford Courtenay - Bonus Video" %}</span>
 * Isle of Wight - Bonus Video [does not exist]
+</ul>
 
 ### London and the South East
 * <a href="https://www.youtube.com/watch?v=zJs7JbxGeWc">Switch! Reverse that! - Episode 6, Day 9 - Bognor Regis to Gatwick Airport</a>
