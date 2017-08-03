@@ -30,17 +30,17 @@ We've given you all the playlists already. If you want to watch the videos by re
 
 ### London and the South East
 <ul>
-<span style="display:list-item;list-style-type:disc;color:blue"><a href="https://www.youtube.com/watch?v=zJs7JbxGeWc"title="Switch! Reverse that! - Episode 6, Day 9 - Bognor Regis to Gatwick Airport" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="9spvOfxgDas"title="Is There A Toilet On This Train? - Episode 7, Day 11 - Bromley South to Rochester" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="f67h-rhKbZk"title="The Sandwich Paradox - Episode 8, Day 12 - Bromley South to Canterbury West" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="_QVQDSofuYI"title="A small problem at Leatherhead - Episode 10, Day 16 - Purley to West Croydon" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="pOMbXA1jkeQ"title="It's London, innit! - Episode 11, Day 17 - Birkbeck to Hayes" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="mgdWQXI_fdE"title="Watch for the sign of the lollipop - Episode 12, Day 18 - Redhill to Staines" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="GWoYafg0z8E"title="I'm In Love With The Overground - Episode 13 - Day 19 – Clapham Junction to Richmond" %}
-<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="yxhp5nmqNx0"title="It’s Time To Get A Tea - Episode 14, Day 24 - Marylebone to Oxford" %}
-<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="kGRWskBmCoY"title="The Guildford Connection - All The Stations Extra" %}
-<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="gBxbEejtvCg"title="The Edenbridge Switcheroo - All The Stations Extra" %}
-<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="nSvHYRvK694"title="Windsor to Bracknell - All The Stations Extra" %}
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="zJs7JbxGeWc" title="Switch! Reverse that! - Episode 6, Day 9 - Bognor Regis to Gatwick Airport" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="9spvOfxgDas" title="Is There A Toilet On This Train? - Episode 7, Day 11 - Bromley South to Rochester" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="f67h-rhKbZk" title="The Sandwich Paradox - Episode 8, Day 12 - Bromley South to Canterbury West" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="_QVQDSofuYI" title="A small problem at Leatherhead - Episode 10, Day 16 - Purley to West Croydon" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="pOMbXA1jkeQ" title="It's London, innit! - Episode 11, Day 17 - Birkbeck to Hayes" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="mgdWQXI_fdE" title="Watch for the sign of the lollipop - Episode 12, Day 18 - Redhill to Staines" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="GWoYafg0z8E" title="I'm In Love With The Overground - Episode 13 - Day 19 – Clapham Junction to Richmond" %}</span>
+<span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="yxhp5nmqNx0" title="It’s Time To Get A Tea - Episode 14, Day 24 - Marylebone to Oxford" %}</span>
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="kGRWskBmCoY" title="The Guildford Connection - All The Stations Extra" %}</span>
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="gBxbEejtvCg" title="The Edenbridge Switcheroo - All The Stations Extra" %}</span>
+<span style="display:list-item;list-style-type:disc;color:red">{% include partial_youtube.html id="nSvHYRvK694" title="Windsor to Bracknell - All The Stations Extra" %}</span>
 <span style="display:list-item;list-style-type:disc;color:blue">{% include partial_youtube.html id="d0jiPU2Skyo" title="TfL Rail - Bonus Video" %}</span>
 </ul>
 ### East Anglia
