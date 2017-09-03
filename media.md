@@ -17,6 +17,9 @@ For all media enquiries, please contact Ruth via <a href="mailto:press@allthesta
 - <a href="http://www.bbc.co.uk/bbcessex" target="_blank">BBC Essex</a>: <a href="/static/audio/BBCEssex-2017-06-03.mp3">3rd June, with Ray Clark</a>
 - <a href="http://www.bbc.co.uk/radiolincolnshire" target="_blank">BBC Radio Lincolnshire</a>: <a href="/static/audio/BBCLincolnshire-2017-06-05.mp3">5th June, with Scott Dalton</a>
 - <a href="http://www.bbc.co.uk/radio4" target="_blank">BBC Radio 4</a>: <a href="/static/audio/BBCRadio4-2017-06-08.mp3">8th June, You &amp; Yours</a>
+- <a href="http://www.talkradioeurope.com" target="_blank">Talk Radio Europe</a>: <a href="/static/audio/TalkRadioEuropeSpain-2017-06-23.mp3">23rd June</a>
+- <a href="http://www.bbc.co.uk/programmes/p02ll9nt" target="_blank">BBC Local Radio</a>: <a href="/static/audio/BBCGeorgyTonight-2017-06-29.mp3">29th June, with Georgy Spanswick</a>
+- <a href="http://www.bbc.co.uk/radio5" target="_blank">BBC Radio 5</a>: <a href="/static/audio/BBCRadio5-2017-07-02.mp3">2nd July, Peter Allen and Jane Harvey show</a>
 
 <h3>Press/Online Articles</h3>
 
