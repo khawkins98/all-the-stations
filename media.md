@@ -38,3 +38,8 @@ For all media enquiries, please contact Ruth via <a href="mailto:press@allthesta
 - <a href="https://www.the-pool.com/news-views/latest-news/2017/24/a-couple-are-trying-to-visit-every-train-station-in-great-britain">12th June, The Pool</a>
 - <a href="http://www.dailymail.co.uk/news/article-4605560/Eccentric-couple-visit-country-s-2-563-stations.html">15th June, Daily Mail</a>
 - <a href="http://www.lonelyplanet.com/news/2017/06/19/national-rail-great-britain-all-the-stations">19th June, Lonely Planet</a>
+- <a href="http://www.straitstimes.com/world/europe/couple-plan-to-visit-all-2563-train-stations-in-britain-in-14-weeks">27th June, Straits Times</a>
+- <a href="http://www.bbc.co.uk/news/av/uk-40418506/couple-visiting-all-british-railway-stations">27th June, BBC News website</a>
+- <a href="http://www.travelandleisure.com/trip-ideas/bus-train/couple-visiting-every-train-station-in-britain">27th June, Travel and Leisure</a>
+- <a href="http://www.westerntelegraph.co.uk/news/15377738.Journey_taking_in_all_UK_train_stations_pulls_into_Haverfordwest/?ref=arc">28th June, Western Telegraph</a>
+- <a href="http://www.thestar.co.uk/news/train-mad-couple-set-to-hit-south-yorkshire-in-record-breaking-attempt-to-visit-all-2-563-railway-stations-in-britain-this-summer-1-8619393">28th June, The Star</a>
