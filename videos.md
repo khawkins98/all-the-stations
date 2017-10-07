@@ -136,3 +136,20 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="AHrIufNLs4U" title="All The Pacers, All Of Them - Episode 48, Day 88 - Thirsk to Alnmouth" %}</span>
 <span class="li bl">{% include partial_youtube.html id="bVO3RftUQnI" title="Virgin Trains - Bonus Video" %}</span>
 </ul>
+### Scotland
+<ul>
+<span class="li bl">{% include partial_youtube.html id="_JQFrgsp37U" title="England: Tick! - Episode 49, Day 89 - Berwick-Upon-Tweed to Tweedbank" %}</span>
+<span class="li bl">{% include partial_youtube.html id="Onvv9bpl--I" title="To All The Scottish Stations - Episode 50, Day 90 - Inverkeithing to Glenrothes" %}</span>
+<span class="li bl">{% include partial_youtube.html id="oTGVzbfRUdY" title="We're On The Wrong Side - Episode 51, Day 93 - Haymarket to Glasgow" %}</span>
+<span class="li bl">{% include partial_youtube.html id="Oe3y1RMhbRM" title="It's Wemyss Bay Day - Episode 52, Day 94 - Glasgow to Paisley Canal" %}</span>
+<span class="li bl">{% include partial_youtube.html id="pyIIU8XZ6oo" title="You Can Tell It's Week Fourteen - Episode 53, Day 95 - Glasgow to Croy" %}</span>
+<span class="li bl">{% include partial_youtube.html id="xyAekz2f7Pw" title="Piano Garden - Bonus Video" %}</span>
+<span class="li bl">{% include partial_youtube.html id="xcSkwG8Gy1w" title="Elopements - Episode 54, Day 97 - Glasgow to Stranraer" %}</span>
+<span class="li bl">{% include partial_youtube.html id="0sjQusDdevM" title="The Ultimate Tick ✅  - Episode 55, Day 101 - Glasgow to Corrour" %}</span>
+<span class="li bl">{% include partial_youtube.html id="zVgT2oFqj5k" title="For Crying Out Loud Scotland! - Episode 56, Day 102 - Corrour to Inverness" %}</span>
+<span class="li rd">{% include partial_youtube.html id="BQJebyu9oo4" title="All The Stations in Gaelic – All The Stations Extra" %}</span>
+<span class="li bl">{% include partial_youtube.html id="sJmMa3UovW0" title="I'm Not A Puffer Nutter - Episode 57, Day 103 - Inverness to Carnoustie" %}</span>
+<span class="li bl">{% include partial_youtube.html id="Ub51bGGVp78" title="I Can't Get My Spreadsheet Up - Episode 58, Day 104 - Perth to Inverness" %}</span>
+<span class="li bl">{% include partial_youtube.html id="BQ4-Dmdqbo" title="Measuring Beauly - Bonus Video" %}</span>
+<span class="li bl">{% include partial_youtube.html id="OvUkhNQOO_Q" title="I’m going to start writing down numbers – Episode 59, Day 105 – Inverness to Wick" %}</span>
+</ul>  
