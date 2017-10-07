@@ -12,11 +12,11 @@ order: 2
 </style>
 ## All The Videos
 
-Here's a list of **all** the YouTube videos created as part of the All The Stations 2017 journey.  We’ve grouped them by region, but please note this is not always chronological. 
+For those of you who want to watch the journey from beginning to end here's a list of **all** the YouTube videos created as part of the All The Stations 2017.  We’ve grouped them by region, but please note this is not always chronological. 
 
 <ul>
-<span class="li bl"><span class="bk">Video on the main channel</span></span>
-<span class="li rd"><span class="bk">Video on Geoff's channel</span></span>
+<span class="li bl"><span class="bk">Videos on the *All The Stations* channel</span></span>
+<span class="li rd"><span class="bk">Video on *Geofftech* channel</span></span>
 </ul>
 
 ### Pre-Trip
