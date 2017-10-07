@@ -12,7 +12,7 @@ order: 2
 </style>
 ## All The Videos
 
-For those of you who want to enjoy the journey from beginning to end here's the ultimate list of **all** the YouTube videos created as part of the All The Stations 2017.  We’ve grouped them by region, but please note this is not always chronological. 
+For those of you who want to enjoy the journey from beginning to end here's the ultimate list of **all** the YouTube videos created as part of All The Stations 2017.  We’ve grouped them by region, but please note this is not always chronological. 
 
 <ul>
 <span class="li bl"><span class="bk">Videos on All The Stations channel</span></span>
@@ -92,18 +92,19 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 ### Wales
 <ul>
 <span class="li bl">{% include partial_youtube.html id="vnj7AD__sU0" title="We Could Do With a TARDIS - Episode 30, Day 52 - Cardiff / Caerdydd Valley Lines" %}</span>
+<span class="li rd">{% include partial_youtube.html id="Kuig0dgrtoQ" title="Gilfach Fargoed - All The Stations Extra" %}</span>  
 <span class="li bl">{% include partial_youtube.html id="fnWkzgF-EdQ" title="That's The Kind Of Rain I Hate - Episode 31, Day 53 - Cardiff to Swansea" %}</span>
 <span class="li bl">{% include partial_youtube.html id="C_LFtdH2YkQ" title="Heart Of Wales Line - Episode 32, Day 54 - Swansea to Shrewsbury" %}</span>
+<span class="li rd">{% include partial_youtube.html id="la8Oh_ZxaG4" title="Heart of Wales Line Challenge - All The Stations Extra" %}</span>  
 <span class="li bl">{% include partial_youtube.html id="hE9EDZuRdUs" title="Hello Wales, I Am In You - Episode 33, Day 55 - Shrewsbury to Porthmadog" %}</span>
 <span class="li bl">{% include partial_youtube.html id="TefUdoP1aQQ" title="You Want Me to Speak Welsh AND Walk Backwards? - Episode 34, Day 56 - Porthmadog to Chester" %}</span>
 <span class="li bl">{% include partial_youtube.html id="DnVNGzPIDp4" title="All The Stations ... in Welsh" %}</span>
-<span class="li rd">{% include partial_youtube.html id="Kuig0dgrtoQ" title="Gilfach Fargoed - All The Stations Extra" %}</span>
-<span class="li rd">{% include partial_youtube.html id="la8Oh_ZxaG4" title="Heart of Wales Line Challenge - All The Stations Extra" %}</span>
 <span class="li rd">{% include partial_youtube.html id="cURySKPJ0IM" title="The Last Line In Wales - All The Stations Extra" %}</span>
 </ul>
 ### North West
 <ul>
 <span class="li bl">{% include partial_youtube.html id="p-Z5V7kQqQ0" title="All The Football - Episode 9, Day 15 - Euston to Manchester United Football Ground" %}</span>
+<span class="li rd">{% include partial_youtube.html id="F5Rf3_GsJf4" title="The Trams Tramsition - All The Stations Extra" %}</span>
 <span class="li bl">{% include partial_youtube.html id="MMmRwpCWdI4" title="It's Called Manchester Air - Episode 35, Day 66 - Chester to Liverpool" %}</span>
 <span class="li bl">{% include partial_youtube.html id="H_HXR6mt4Mw" title="A Lot Of A Little Of Liverpool - Episode 36, Day 67 - West Kirby to Moorfields" %}</span>
 <span class="li bl">{% include partial_youtube.html id="KUn-3Aq-hMI" title="We've Learnt Nothing - Episode 37, Day 68 - Liverpool to Manchester" %}</span>
@@ -111,9 +112,8 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="wxh6FHpmksc" title="They Must Not Touch! - Episode 40, Day 72 - Liverpool to Blackpool South" %}</span>
 <span class="li bl">{% include partial_youtube.html id="Wr5MCow_aLA" title="This Displeases Me - Episode 41, Day 73 - Blackpool North to Burnley Manchester Road" %}</span> 
 <span class="li bl">{% include partial_youtube.html id="YtPlxG7AUow" title="This £10 Is Yours - Episode 42, Day 74 - Ardwick to Edale" %}</span>
-<span class="li rd">{% include partial_youtube.html id="F5Rf3_GsJf4" title="The Trams Tramsition - All The Stations Extra" %}</span>
+<span class="li rd">{% include partial_youtube.html id="NAqVaVUNtRU" title="The Ardwick Adventure" %}</span>  
 <span class="li rd">{% include partial_youtube.html id="uDEBBkYjnRI" title="Phil's Facts - All The Stations Extra" %}</span>
-<span class="li rd">{% include partial_youtube.html id="NAqVaVUNtRU" title="The Ardwick Adventure" %}</span>
 </ul>
 ### Yorkshire and the Humber
 <ul>
