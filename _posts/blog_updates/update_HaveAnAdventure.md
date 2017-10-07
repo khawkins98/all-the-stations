@@ -1,7 +1,7 @@
 ---
 layout: blog
-group: in_updates_list
-title: #HaveAnAdventure
+group: "in_updates_list"
+title: "#HaveAnAdventure"
 date: 07 October 2017
 ---
 
