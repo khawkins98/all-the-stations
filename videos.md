@@ -1,8 +1,8 @@
 ---
 layout: default
 title: All The Videos
-group: "NOT_in_local_navigation"
-order: 3
+group: in_local_navigation"
+order: 2
 ---
 <style>
 .li {display:list-item;list-style-type:disc;}
