@@ -114,6 +114,9 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="YtPlxG7AUow" title="This £10 Is Yours - Episode 42, Day 74 - Ardwick to Edale" %}</span>
 <span class="li rd">{% include partial_youtube.html id="NAqVaVUNtRU" title="The Ardwick Adventure - All The Stations Extra" %}</span>
 <span class="li rd">{% include partial_youtube.html id="QWHlddv2U9Q" title="The Clifton Climax - All The Stations Extra" %}</span>
+<span class="li bl">{% include partial_youtube.html id="JbZMokqdCzY" title="My Feet Are Wet, But It's Still Beautiful - Episode 45, Day 82 - Settle to Carlisle" %}</span>
+<span class="li rd">{% include partial_youtube.html id="IOgvyXc3tmY" title="Custom Made Sign - All The Stations Extra" %}</span>
+<span class="li bl">{% include partial_youtube.html id="im4P1XLXAIM" title="It's Just A Magnificent Thing - Episode 46, Day 83 - Lancaster to Newcastle" &}</span>  
 </ul>
 ### Yorkshire and the Humber
 <ul>
