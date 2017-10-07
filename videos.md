@@ -16,7 +16,7 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 
 <ul>
 <span class="li bl"><span class="bk">Videos on All The Stations channel</span></span>
-<span class="li rd"><span class="bk">Video on Geofftech channel</span></span>
+<span class="li rd"><span class="bk">Videos on Geofftech channel</span></span>
 </ul>
 
 ### Pre-Trip
@@ -152,4 +152,11 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="Ub51bGGVp78" title="I Can't Get My Spreadsheet Up - Episode 58, Day 104 - Perth to Inverness" %}</span>
 <span class="li bl">{% include partial_youtube.html id="BQ4-Dmdqbo" title="Measuring Beauly - Bonus Video" %}</span>
 <span class="li bl">{% include partial_youtube.html id="OvUkhNQOO_Q" title="I’m going to start writing down numbers – Episode 59, Day 105 – Inverness to Wick" %}</span>
+</ul>  
+### Post Trip
+<ul>
+<span class="li rd">{% include partial_youtube.html id="JPizQqEyvcg" title="We went to the BBC - All The Stations Extra" %}</span>
+<span class="li bl">{% include partial_youtube.html id="4cA_5Wyv6GU" title="All the drone footage – Bonus Video" %}</span>
+<span class="li bl">{% include partial_youtube.html id="nfgeHF9bMdE" title="All the outtakes – Bonus Video" %}</span>
+<span class="li bl">{% include partial_youtube.html id="tMxg7EZPt5M" title="All The Stations - Have An Adventure" %}</span>
 </ul>  
