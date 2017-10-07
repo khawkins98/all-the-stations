@@ -12,7 +12,7 @@ order: 2
 </style>
 ## All The Videos
 
-For those of you who want to watch the journey from beginning to end here's a list of **all** the YouTube videos created as part of the All The Stations 2017.  We’ve grouped them by region, but please note this is not always chronological. 
+For those of you who want to enjoy the journey from beginning to end here's the ultimate list of **all** the YouTube videos created as part of the All The Stations 2017.  We’ve grouped them by region, but please note this is not always chronological. 
 
 <ul>
 <span class="li bl"><span class="bk">Videos on All The Stations channel</span></span>
@@ -40,28 +40,27 @@ For those of you who want to watch the journey from beginning to end here's a li
 </ul>
 ### London and the South East
 <ul>
+<span class="li rd">{% include partial_youtube.html id="kGRWskBmCoY" title="The Guildford Connection - All The Stations Extra" %}</span>
 <span class="li bl">{% include partial_youtube.html id="zJs7JbxGeWc" title="Switch! Reverse that! - Episode 6, Day 9 - Bognor Regis to Gatwick Airport" %}</span>
 <span class="li bl">{% include partial_youtube.html id="9spvOfxgDas" title="Is There A Toilet On This Train? - Episode 7, Day 11 - Bromley South to Rochester" %}</span>
 <span class="li bl">{% include partial_youtube.html id="f67h-rhKbZk" title="The Sandwich Paradox - Episode 8, Day 12 - Bromley South to Canterbury West" %}</span>
+<span class="li rd">{% include partial_youtube.html id="gBxbEejtvCg" title="The Edenbridge Switcheroo - All The Stations Extra" %}</span>  
 <span class="li bl">{% include partial_youtube.html id="_QVQDSofuYI" title="A small problem at Leatherhead - Episode 10, Day 16 - Purley to West Croydon" %}</span>
 <span class="li bl">{% include partial_youtube.html id="pOMbXA1jkeQ" title="It's London, innit! - Episode 11, Day 17 - Birkbeck to Hayes" %}</span>
 <span class="li bl">{% include partial_youtube.html id="mgdWQXI_fdE" title="Watch for the sign of the lollipop - Episode 12, Day 18 - Redhill to Staines" %}</span>
+<span class="li rd">{% include partial_youtube.html id="nSvHYRvK694" title="The Windsor Worry - All The Stations Extra" %}</span>  
 <span class="li bl">{% include partial_youtube.html id="GWoYafg0z8E" title="I'm In Love With The Overground - Episode 13 - Day 19 - Clapham Junction to Richmond" %}</span>
 <span class="li bl">{% include partial_youtube.html id="yxhp5nmqNx0" title="It’s Time To Get A Tea - Episode 14, Day 24 - Marylebone to Oxford" %}</span>
-<span class="li rd">{% include partial_youtube.html id="kGRWskBmCoY" title="The Guildford Connection - All The Stations Extra" %}</span>
-<span class="li rd">{% include partial_youtube.html id="gBxbEejtvCg" title="The Edenbridge Switcheroo - All The Stations Extra" %}</span>
-<span class="li rd">{% include partial_youtube.html id="nSvHYRvK694" title="The Windsor Worry - All The Stations Extra" %}</span>
-<span class="li rd">{% include partial_youtube.html id="9ICyerzGvIU" title="The Emerson Extraction - All The Stations Extra" %}</span>
-<span class="li rd">{% include partial_youtube.html id="nSvHYRvK694" title="Windsor to Bracknell - All The Stations Extra" %}</span>
 <span class="li bl">{% include partial_youtube.html id="d0jiPU2Skyo" title="TfL Rail - Bonus Video" %}</span>
+<span class="li rd">{% include partial_youtube.html id="9ICyerzGvIU" title="The Emerson Extraction - All The Stations Extra" %}</span>
 </ul>
 ### East Anglia
 <ul>
 <span class="li bl">{% include partial_youtube.html id="E67aOXG-3k" title="Big Boy Trains - Episode 15, Day 25 - Fenchurch Street to Shenfield" %}</span>
 <span class="li bl">{% include partial_youtube.html id="V9HZgIgzJRc" title="You're Making Me Nervous - Episode 16, Day 26 - Liverpool Street to Felixstowe" %}</span>
+<span class="li bl">{% include partial_youtube.html id="DT63ap0kRzs" title="Cambridge North - Bonus Video" %}</span>  
 <span class="li bl">{% include partial_youtube.html id="01AJAWHNd5o" title="There's no one here - Episode 17, Day 28 - Shippea Hill to Diss" %}</span>
 <span class="li bl">{% include partial_youtube.html id="8u9txoAsIKg" title="Shippea Hill History - Bonus Video" %}</span>
-<span class="li bl">{% include partial_youtube.html id="DT63ap0kRzs" title="Cambridge North - Bonus Video" %}</span>
 <span class="li rd">{% include partial_youtube.html id="oreWrhkosfs" title="Berney Arms to Brundall - All The Stations Extra" %}</span>
 <span class="li rd">{% include partial_youtube.html id="8a_hz3n3_Xc" title="Lowestoft to Great Yarmouth - All The Stations Extra" %}</span>
 </ul>
