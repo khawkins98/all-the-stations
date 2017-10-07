@@ -18,13 +18,11 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl"><span class="bk">Videos on All The Stations channel</span></span>
 <span class="li rd"><span class="bk">Videos on Geofftech channel</span></span>
 </ul>
-
 ### Pre-Trip
 <ul>
 <span class="li bl">{% include partial_youtube.html id="BPTxYWRxjI8" title="All The Stations - Everything You Need To Know" %}</span>
 <span class="li rd">{% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}</span>
 <span class="li bl">{% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}</span>
-
 </ul>
 ### The South West
 <ul>
@@ -153,7 +151,7 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="BQ4-Dmdqbo" title="Measuring Beauly - Bonus Video" %}</span>
 <span class="li bl">{% include partial_youtube.html id="OvUkhNQOO_Q" title="I’m going to start writing down numbers – Episode 59, Day 105 – Inverness to Wick" %}</span>
 </ul>  
-### Post Trip
+### Post-Trip
 <ul>
 <span class="li rd">{% include partial_youtube.html id="JPizQqEyvcg" title="We went to the BBC - All The Stations Extra" %}</span>
 <span class="li bl">{% include partial_youtube.html id="4cA_5Wyv6GU" title="All the drone footage – Bonus Video" %}</span>
