@@ -34,7 +34,7 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="R8GQcOUJOmw" title="Sir Peter! You Should Make That Happen - Episode 4, Day 4 - Barnstaple to Weymouth" %}</span>
 <span class="li bl">{% include partial_youtube.html id="W_zvtgnd_rQ" title="I did not think this through - Episode 5, Day 5 - Weymouth to Chandlers Ford" %}</span>
 <span class="li bl">{% include partial_youtube.html id="NgdHdiDs53w" title="Okehampton & Samford Courtenay - Bonus Video" %}</span>
-<span class="li bl"><span class="bk">Isle of Wight - Bonus Video [does not exist]</span></span>
+<span class="li bl">{% include partial_youtube.html id="ZuHMoOs-ciQ" title="Isle of Wight - Bonus Video [does not exist]" %}</span>
 </ul>
 ### London and the South East
 <ul>
