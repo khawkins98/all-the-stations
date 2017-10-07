@@ -128,3 +128,10 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="8cS72RbWhJE" title="Would You Like A Quality Street? - Episode 43, Day 80 - Manchester to Starbeck" %}</span>
 <span class="li bl">{% include partial_youtube.html id="tBGn2Mo5vig" title="Not Cool Marshall - Episode 44, Day 81 - Knaresborough to Whitley Bridge" %}</span>
 </ul>
+### North East
+<span class="li bl">{% include partial_youtube.html id="0s3E6prIW9M" title="Teach Me Some Northern Words - Episode 47, Dy 87 - Middlesbrough-Saltburn-Whitby" %}</span>
+<span class="li bl">{% include partial_youtube.html id="kQXqLqAFseM" title="TEAsside Airport - Bonus Video" %}</span>
+<span class="li rd">{% include partial_youtube.html id="DQgLhH_VNg8" title="Chester-Le-Street - All The Stations Extra" %}</span>
+<span class="li bl">{% include partial_youtube.html id="AHrIufNLs4U" title="All The Pacers, All Of Them - Episode 48, Day 88 - Thirsk to Alnmouth" %}</span>
+<span class="li bl">{% include partial_youtube.html id="bVO3RftUQnI" title="Virgin Trains - Bonus Video" %}</span>
+</ul>
