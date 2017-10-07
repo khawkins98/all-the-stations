@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The Team
+title: Team
 group: "in_local_navigation"
-order: 2
+order: 7
 ---
 
 <div class="bgbox primary row">
