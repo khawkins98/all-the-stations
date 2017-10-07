@@ -12,7 +12,7 @@ order: 2
 </style>
 ## All The Videos
 
-We've given you all the playlists already. If you want to watch the videos by region (and slightly chronological), ...
+Here's a list of **all** the YouTube videos created as part of the All The Stations 2017 journey.  We’ve grouped them by region, but please note this is not always chronological. 
 
 <ul>
 <span class="li bl"><span class="bk">Video on the main channel</span></span>
@@ -21,9 +21,10 @@ We've given you all the playlists already. If you want to watch the videos by re
 
 ### Pre-Trip
 <ul>
+<span class="li bl">{% include partial_youtube.html id="BPTxYWRxjI8" title="All The Stations - Everything You Need To Know" %}</span>
 <span class="li rd">{% include partial_youtube.html id="Vv0jecbapMw" title="All The Stations - Pilot (Part 1) - Lincoln" %}</span>
 <span class="li bl">{% include partial_youtube.html id="Lz2VugpuVEE" title="All The Stations - Pilot (Part 2) - Gainsborough to Hull" %}</span>
-<span class="li bl">{% include partial_youtube.html id="BPTxYWRxjI8" title="All The Stations - Everything You Need To Know" %}</span>
+
 </ul>
 ### The South West
 <ul>
