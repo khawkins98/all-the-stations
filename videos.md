@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All The Videos
-group: in_local_navigation"
+group: "in_local_navigation"
 order: 2
 ---
 <style>
