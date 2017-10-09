@@ -6,7 +6,7 @@ order: 6
 ---
 
 <h2>Media</h2>
-For all media enquiries, please contact Ruth via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
+For all media enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
 
 <h3>Radio interviews</h3>
 
@@ -44,7 +44,7 @@ For all media enquiries, please contact Ruth via <a href="mailto:press@allthesta
 - <a href="http://www.westerntelegraph.co.uk/news/15377738.Journey_taking_in_all_UK_train_stations_pulls_into_Haverfordwest/?ref=arc">28th June, Western Telegraph</a>
 - <a href="http://www.thestar.co.uk/news/train-mad-couple-set-to-hit-south-yorkshire-in-record-breaking-attempt-to-visit-all-2-563-railway-stations-in-britain-this-summer-1-8619393">28th June, The Star</a>
 - <a href="http://www.pembrokeshire-herald.com/36233/london-couple-reach-halfway-point-at-haverfordwest/">29th June, Pembrokeshire Journal</a>
-- <a href="http://www.walesonline.co.uk/news/wales-news/train-superfans-who-visiting-every-13265672”>1st July, Wales Online</a>
 - <a href="http://www.dailypost.co.uk/news/north-wales-news/train-enthusiasts-reach-north-wales-13270331">2nd July, Daily Post Wales</a>
+- <a href="http://www.walesonline.co.uk/news/wales-news/train-superfans-who-visiting-every-13265672”>1st July, Wales Online</a>
 - <a href="http://edition.cnn.com/travel/article/britain-train-stations-couple-visits/index.html">3rd July, CNN Travel</a>
 - <a href="http://www.bridlingtonfreepress.co.uk/news/transport/one-of-the-most-lovely-stations-in-uk-1-8672024">27th July, Bridlington Free Press</a>
