@@ -53,5 +53,5 @@ For all media enquiries, please contact us via <a href="mailto:press@allthestati
 
 <h4>Events</h4>
 
-- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24 October, London Transport Museum</a> SOLD OUT
-- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29 November, London Transport Museum</a> 
+- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24 October, London Transport Museum, Talk</a> **SOLD OUT**
+- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29 November, London Transport Museum, Late Debate: Technology and the future</a> 
