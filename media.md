@@ -48,3 +48,4 @@ For all media enquiries, please contact us via <a href="mailto:press@allthestati
 - <a href="http://www.dailypost.co.uk/news/north-wales-news/train-enthusiasts-reach-north-wales-13270331">2nd July, Daily Post Wales</a>
 - <a href="http://edition.cnn.com/travel/article/britain-train-stations-couple-visits/index.html">3rd July, CNN Travel</a>
 - <a href="http://www.bridlingtonfreepress.co.uk/news/transport/one-of-the-most-lovely-stations-in-uk-1-8672024">27th July, Bridlington Free Press</a>
+- <a href="http://www.telegraph.co.uk/women/life/meet-geoff-vicki-gorpcore-couple-visiting-every-train-station/">12th August, The Telegraph</a>
