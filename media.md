@@ -49,9 +49,9 @@ For all media enquiries, please contact us via <a href="mailto:press@allthestati
 - <a href="http://edition.cnn.com/travel/article/britain-train-stations-couple-visits/index.html">3rd July, CNN Travel</a>
 - <a href="http://www.bridlingtonfreepress.co.uk/news/transport/one-of-the-most-lovely-stations-in-uk-1-8672024">27th July, Bridlington Free Press</a>
 - <a href="http://www.telegraph.co.uk/women/life/meet-geoff-vicki-gorpcore-couple-visiting-every-train-station/">12th August, The Telegraph</a>
-- <a href="https://www.railstaff.uk/2017/09/25/visiting-2563-railway-stations-looks-like-14-pictures/">25 September, Rail Staff</a>
+- <a href="https://www.railstaff.uk/2017/09/25/visiting-2563-railway-stations-looks-like-14-pictures/">25th September, Rail Staff</a>
 
 <h4>Events</h4>
 
-- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24 October, London Transport Museum, Talk</a> **SOLD OUT**
-- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29 November, London Transport Museum, Late Debate: Technology and the future</a> 
+- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24th October, London Transport Museum, Talk</a> **SOLD OUT**
+- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29th November, London Transport Museum, Late Debate: Technology and the future</a> 
