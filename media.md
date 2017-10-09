@@ -6,7 +6,7 @@ order: 6
 ---
 
 <h2>Media</h2>
-For all media enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
+For all media and events enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
 
 <h3>Radio interviews</h3>
 
