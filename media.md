@@ -5,10 +5,11 @@ group: "in_local_navigation"
 order: 6
 ---
 
-<h2>Media</h2>
+## Media
+
 For all media and events enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
 
-<h3>Radio interviews</h3>
+### Radio interviews
 
 - <a href="http://www.coastfm.co.uk/" target="_blank">Cornwall&#39;s Coast FM</a>: <a href="/static/audio/CoastFM-2017-05-08.mp3">8th May, Morning Show</a>
 - <a href="http://www.bbc.co.uk/bbcsomerset" target="_blank">BBC Somerset</a>: <a href="/static/audio/BBCSomerset-2017-05-19.mp3">19th May, with Charlie Taylor</a>
@@ -21,7 +22,7 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 - <a href="http://www.bbc.co.uk/programmes/p02ll9nt" target="_blank">BBC Local Radio</a>: <a href="/static/audio/BBCGeorgyTonight-2017-06-29.mp3">29th June, with Georgy Spanswick</a>
 - <a href="http://www.bbc.co.uk/radio5" target="_blank">BBC Radio 5</a>: <a href="/static/audio/BBCRadio5-2017-07-02.mp3">2nd July, Peter Allen and Jane Harvey show</a>
 
-<h3>Press/Online Articles</h3>
+### Press/Online Articles
 
 - <a href="http://www.islandecho.co.uk/news/stations-project-document-islands-railway" target="_blank">9th May, Island Echo</a>
 - <a href="http://www.cornwalllive.com/all-the-stations-project-will-visit-every-railway-in-britain-they-ve-started-in-cornwall/story-30326799-detail/story.html" target="_blank">12th May, Cornwall Live</a>
@@ -64,7 +65,7 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 - <a href="https://www.virgin.com/news/virgin-trains-welcome-all-stations-pair">31st August, Virgin website</a>
 - <a href="https://www.railstaff.uk/2017/09/25/visiting-2563-railway-stations-looks-like-14-pictures/">25th September, Rail Staff</a>
 
-<h4>Events</h4>
+### Events
 
 - <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24th October, London Transport Museum, Talk</a> **SOLD OUT**
 - <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29th November, London Transport Museum, Late Debate: Technology and the future</a> 
