@@ -57,20 +57,21 @@ order: 7
 			<h3>Will Head</h3>
 			<p>Will is the owner of <a href="http://fixationvideo.co.uk/" target="new">Fixation Video Ltd.</a> a professional video editing company, and will be the lead editor of All The Stations videos. Wills first memory of a train is travelling to Cheshire every month to visit his grandparents who would then tell him stories of how they preferred steam trains ...</p>
 		</div>
-    <div class="column">
+		<div class="column">
 			<div class="columns medium-5 float-left">
 				<img src="/static/images/kai.jpg">
 			</div>
 			<h3>Kai Michael Poppe</h3>
 			<p>Kai is a technical supporter at a software company in Germany. Occasionally he does some website programming and database design which led him to create the All the Stations map. He grew up with the railway nearby and a model-train-world in his house, hence his love for trains.</p>
-	    <div class="column">
+		</div>
+		<div class="column">
 			<div class="columns medium-5 float-left">
 				<img src="/static/images/lindsey.jpg" class="img-rounded">
 			</div>
 			<h3>Lindsey Berthoud</h3>
 			<p>Lindsey's Twitter handle <a href="http://twitter.com/linzherdscats">@linzherdscats</a> says it all really. She loves organising and making good things happen, preferably in the company of lovely people and some cats. Her job is provide some commercial and operational support to this epic project. She lives a stone's throw from her beautiful "New Renaissance" style local train station which boasts a pair of Grade II listed buffer lights.</p>
 		</div>
-    <div class="column">
+    		<div class="column">
 			<div class="columns medium-5 float-left">
 				<img src="/static/images/ken.jpg">
 			</div>
