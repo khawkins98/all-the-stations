@@ -49,7 +49,6 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 - <a href="http://www.dailypost.co.uk/news/north-wales-news/train-enthusiasts-reach-north-wales-13270331">2nd July, Daily Post Wales</a>
 - <a href="http://edition.cnn.com/travel/article/britain-train-stations-couple-visits/index.html">3rd July, CNN Travel</a>
 - <a href="http://www.bridlingtonfreepress.co.uk/news/transport/one-of-the-most-lovely-stations-in-uk-1-8672024">27th July, Bridlington Free Press</a>
-- <a href="http://www.telegraph.co.uk/women/life/meet-geoff-vicki-gorpcore-couple-visiting-every-train-station/">12th August, The Telegraph</a>
 - <a href="http://mentalfloss.com/article/503096/uk-pair-will-visit-all-2563-rail-stations-britain-summer">27th July, Mental Floss</a>
 - <a href="https://www.minsterfm.com/news/local/2345393/couple-visiting-every-station-in-uk-arrive-at-thirsk/">2nd August, Minster FM</a>
 - <a href="http://www.eveningtimes.co.uk/news/15460253.Glasgow_date_for_travellers_on_mission_to_visit_every_rail_station_in_Britain/">9th August, Glasgow Evening Times</a>
@@ -64,6 +63,7 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 - <a href="http://www.thestar.co.uk/whats-on/out-and-about/train-mad-couple-complete-marathon-14-week-journey-to-visit-all-of-britain-s-2-563-railway-stations-1-8719226">24th August, The Star</a>
 - <a href="https://www.virgin.com/news/virgin-trains-welcome-all-stations-pair">31st August, Virgin website</a>
 - <a href="https://www.railstaff.uk/2017/09/25/visiting-2563-railway-stations-looks-like-14-pictures/">25th September, Rail Staff</a>
+- <a href="https://blog.nrm.org.uk/all-the-stations/">12th October, National Railway Museum Blog</a>
 
 ### Events
 
