@@ -5,10 +5,6 @@ title: Creative Railways
 date: 14 October 2017
 ---
 
-**Creative Railways**
----------------------
----------------------
-
 The railway is a source of inspiration not just for journeys but for art, music, horticulture, poetry and prose. We saw so many creative projects as we travelled around the network this summer it seemed inevitable that we would be inspired to try something ourselves. 
 
 In September we messaged our Kickstarter backers to ask who would be interested in an experiment to create a human version of the BR double arrow logo we all know and love. Approximately 100 people responded to call. 
@@ -23,6 +19,8 @@ As well as being a really fun afternoon, it was also wonderful to meet more of t
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great to see <a href="https://twitter.com/geofftech?ref_src=twsrc%5Etfw">@geofftech</a> &amp; <a href="https://twitter.com/norwegiancheese?ref_src=twsrc%5Etfw">@norwegiancheese</a> at work when I took part in their project for <a href="https://twitter.com/allthestations?ref_src=twsrc%5Etfw">@allthestations</a> on Sunday. <a href="https://t.co/qYP4MzbPU0">https://t.co/qYP4MzbPU0</a> <a href="https://t.co/1Nblyrnd33">pic.twitter.com/1Nblyrnd33</a></p>&mdash; Glen (@well_eye_never) <a href="https://twitter.com/well_eye_never/status/918959333790101505?ref_src=twsrc%5Etfw">October 13, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This happened last Sunday link to the vid at <a href="https://twitter.com/allthestations?ref_src=twsrc%5Etfw">@allthestations</a> <a href="https://twitter.com/hashtag/allthestations?src=hash&amp;ref_src=twsrc%5Etfw">#allthestations</a> <a href="https://t.co/ltHebm9Z61">pic.twitter.com/ltHebm9Z61</a></p>&mdash; Paul Das (@TheFAD) <a href="https://twitter.com/TheFAD/status/918731822837747712?ref_src=twsrc%5Etfw">October 13, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 **Our thanks go again to Martin for coordinating drone footage, and Charlton Athletic for the use of their facilities**
