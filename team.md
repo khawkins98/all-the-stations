@@ -81,7 +81,7 @@ order: 7
 		<div class="column">
 			<h3>With thanks to...</h3>
 			<ul>
-				<li><em>Steven Francis</em> for the original [All The Stations](https://itunes.apple.com/gb/album/all-the-stations-single/id1246506526) music</li>
+				<li><em>Steven Francis</em> for the original[All The Stations](https://itunes.apple.com/gb/album/all-the-stations-single/id1246506526)music</li>
 			</ul>
 		</div>
 	</div>
