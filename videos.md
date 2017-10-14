@@ -144,7 +144,7 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="xyAekz2f7Pw" title="Piano Garden - Bonus Video" %}</span>
 <span class="li bl">{% include partial_youtube.html id="xcSkwG8Gy1w" title="Elopements - Episode 54, Day 97 - Glasgow to Stranraer" %}</span>
 <span class="li bl">{% include partial_youtube.html id="0sjQusDdevM" title="The Ultimate Tick ✅  - Episode 55, Day 101 - Glasgow to Corrour" %}</span>
-<span class="li rd">{% include partial_youtube.html id="ALd-ApLeIxQ" title="Choose Corrour - All The Stations Extra" %}</span>
+<span class="li rd">{% include partial_youtube.html id="ALd-ApLeIxQ" title="Choose Corrour - Geofftech Channel" %}</span>
 <span class="li bl">{% include partial_youtube.html id="zVgT2oFqj5k" title="For Crying Out Loud Scotland! - Episode 56, Day 102 - Corrour to Inverness" %}</span>
 <span class="li rd">{% include partial_youtube.html id="BQJebyu9oo4" title="All The Stations in Gaelic – All The Stations Extra" %}</span>
 <span class="li bl">{% include partial_youtube.html id="sJmMa3UovW0" title="I'm Not A Puffer Nutter - Episode 57, Day 103 - Inverness to Carnoustie" %}</span>
