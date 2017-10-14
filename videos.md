@@ -157,6 +157,5 @@ For those of you who want to enjoy the journey from beginning to end here's the 
 <span class="li bl">{% include partial_youtube.html id="4cA_5Wyv6GU" title="All the drone footage – Bonus Video" %}</span>
 <span class="li bl">{% include partial_youtube.html id="nfgeHF9bMdE" title="All the outtakes – Bonus Video" %}</span>
 <span class="li bl">{% include partial_youtube.html id="tMxg7EZPt5M" title="All The Stations - Have An Adventure" %}</span>
-</ul><span class="li rd">{% include partial_youtube.html id="y71VD3ISYU4" title="A Human BR Double Arrow Symbol" %}</span>
-
-
+<span class="li rd">{% include partial_youtube.html id="y71VD3ISYU4" title="A Human BR Double Arrow Symbol" %}</span>
+</ul>
