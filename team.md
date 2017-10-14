@@ -28,19 +28,6 @@ order: 7
 <div class="row">
 	<div class="medium-up-2 padding-top-xlarge">
 		<h2>The Control Room</h2>
-		<div class="column">
-			<div class="columns medium-5 float-left">
-				<img src="/static/images/lindsey.jpg" class="img-rounded">
-			</div>
-			<h3>Lindsey Berthoud</h3>
-			<p>Lindsey's Twitter handle <a href="http://twitter.com/linzherdscats">@linzherdscats</a> says it all really. She loves organising and making good things happen, preferably in the company of lovely people and some cats. Her job is provide some commercial and operational support to this epic project. She lives a stone's throw from her beautiful "New Renaissance" style local train station which boasts a pair of Grade II listed buffer lights.</p>
-		</div>
-		<div class="column">
-			<div class="columns medium-5 float-left">
-				<img src="/static/images/matt.jpg" class="img-rounded">
-			</div>
-			<h3>Matthew Frost</h3>
-			<p>Matthew is an independent mobile application developer who created the award-winning App <a href="http://stationmasterapp.com/">Station Master</a> for iOS. All of his iOS Apps have a transport theme. Previously he worked for one of the first Internet Service Providers in the UK. He is providing e-mail &amp; IT/development support to the project including the "Adopt a Station" website/tool. In his spare time he is a volunteer tour guide for London Transport Museum's &quot;Hidden London&quot; programme.</p>
 		</div>
 		<div class="column">
 			<div class="columns medium-5 float-left">
@@ -48,6 +35,13 @@ order: 7
 			</div>
 			<h3>Ruth Hargreaves</h3>
 			<p>Ruth is a copywriter, habitual helper and general lover of organisation. The daughter of a British Transport Policeman, she grew up with free train travel and once got VERY excited upon discovering there are such things as double decker trains (she finally got to ride one in New York).</p>
+		</div>
+		<div class="column">
+			<div class="columns medium-5 float-left">
+				<img src="/static/images/matt.jpg" class="img-rounded">
+			</div>
+			<h3>Matthew Frost</h3>
+			<p>Matthew is an independent mobile application developer who created the award-winning App <a href="http://stationmasterapp.com/">Station Master</a> for iOS. All of his iOS Apps have a transport theme. Previously he worked for one of the first Internet Service Providers in the UK. He is providing e-mail &amp; IT/development support to the project including the "Adopt a Station" website/tool. In his spare time he is a volunteer tour guide for London Transport Museum's &quot;Hidden London&quot; programme.</p>
 		</div>
 		<div class="column">
 			<div class="columns medium-5 float-left">
@@ -69,6 +63,12 @@ order: 7
 			</div>
 			<h3>Kai Michael Poppe</h3>
 			<p>Kai is a technical supporter at a software company in Germany. Occasionally he does some website programming and database design which led him to create the All the Stations map. He grew up with the railway nearby and a model-train-world in his house, hence his love for trains.</p>
+	    <div class="column">
+			<div class="columns medium-5 float-left">
+				<img src="/static/images/lindsey.jpg" class="img-rounded">
+			</div>
+			<h3>Lindsey Berthoud</h3>
+			<p>Lindsey's Twitter handle <a href="http://twitter.com/linzherdscats">@linzherdscats</a> says it all really. She loves organising and making good things happen, preferably in the company of lovely people and some cats. Her job is provide some commercial and operational support to this epic project. She lives a stone's throw from her beautiful "New Renaissance" style local train station which boasts a pair of Grade II listed buffer lights.</p>
 		</div>
     <div class="column">
 			<div class="columns medium-5 float-left">
