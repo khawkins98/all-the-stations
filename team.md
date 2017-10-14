@@ -81,6 +81,3 @@ order: 7
  			<h3>With thanks to...</h3>
  			<ul>
  				<li><em>Steven Francis</em> for the original <strong>All The Stations </strong>music</li>
- 			</ul>
- 		</div>
- 	</div>
