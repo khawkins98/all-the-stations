@@ -24,4 +24,4 @@ As well as being a really fun afternoon, it was also wonderful to meet more of t
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This happened last Sunday link to the vid at <a href="https://twitter.com/allthestations?ref_src=twsrc%5Etfw">@allthestations</a> <a href="https://twitter.com/hashtag/allthestations?src=hash&amp;ref_src=twsrc%5Etfw">#allthestations</a> <a href="https://t.co/ltHebm9Z61">pic.twitter.com/ltHebm9Z61</a></p>&mdash; Paul Das (@TheFAD) <a href="https://twitter.com/TheFAD/status/918731822837747712?ref_src=twsrc%5Etfw">October 13, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Our thanks go again to Martin for coordinating drone footage, and Charlton Athletic for the use of their facilities
+Our thanks go again to Martin for drone footage, and Charlton Athletic for the use of their facilities.
