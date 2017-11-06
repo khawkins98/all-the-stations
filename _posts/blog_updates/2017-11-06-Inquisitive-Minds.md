@@ -4,7 +4,7 @@ group: in_updates_list
 title: Inquisitive minds
 date: 06 November 2017
 ---
- 
+
 In October Geoff and I delivered two of what we hope will be many more public talks about All The Stations. Both were hosted by London Transport Museum. 
  
 The first was an in-depth look behind the scenes and stories of the project; from the germ of the initial idea to what it felt like to pull in on the final train at Wick Station. We shared some of our favourite, and hardest, moments as well as revealing exactly what happened during the Peterborough incident! 
@@ -18,3 +18,4 @@ Our sense of curisoity can often be hampered by a fear that we should already kn
 Your questions at these events helped us to understand better what people have been enjoying about All The Stations, and also what other stories we might tell in the future. 
 
 Thanks to everyone for being so inquisative and keep the questions coming! 
+
