@@ -11,10 +11,10 @@ The first was an in-depth look behind the scenes and stories of the project; fro
 
 The second was for our younger ATS fans, aged 16 and under. Similarly, we spoke about our favourite places, the people we met and how we planned the journey from beginning to end. 
 
-For both events we invitied questions from the audience and we were genuinely excited by everyones curiosity. From questions about logistics, route planning, favourite Moquette and castles to an interest in how we think the network could be improved, which parts need the most investment and how we can advocate for better services. The inquisitive nature of everyones thoughts reflected strongly the appraoch that Geoff and I took throughout our journey. We were learning and discovering new things all the time, recognising that we were not the authroty on any particualr area, subject or story but that by asking questions we could find out more and share that to a wider audience - you! It really was a journey of discovery. 
+For both events we invited questions from the audience and we were genuinely thrilled by everyones curiosity. From questions about logistics, route planning, favourite Moquette and castles to an interest in how we think the network could be improved, which parts need the most investment and how we can advocate for better services. The inquisitive nature of everyones thoughts reflected strongly the appraoch that Geoff and I took throughout our journey. We were learning and discovering new things all the time, eager to find out more and to discover what we didn't know as well as confirm that which we did. 
 
-Our sense of curisoity can often be hampered by a fear that we should already know the answer, that it would be embarrassing to reveal that we don't now something - particualrly if it's something that we're interested in and have spent time learning about. Throughout the journey the more questions we asked the more all kinds of possibiltiies opened up to us, the more places we visited and the more people we met. 
+Our sense of curisoity can often be hampered by a fear that we should already know the answer, that it would be embarrassing to reveal that we don't know something - particualrly if it's a subject we're interested in and have spent time learning about. Throughout the journey the more questions we asked the more all kinds of possibiltiies opened up to us, the more places we visited and the more people we met. 
 
-Your questions at these events helped us to understand better what people have been enjoying about All The Stations, and also what other stories we might tell in the future. 
+Your questions at these events really helped us to understand what people have been enjoying about All The Stations, and also what other stories we should investigate and tell in the future. 
 
-Thanks to everyone for being so inquisative and keep the questions coming! 
+Thanks to everyone for being so inquisative, keep the questions coming! 
