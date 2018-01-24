@@ -5,8 +5,8 @@ group: "not_in_local_navigation"
 order: 1
 ---
 
-<h3>Geoff &amp; Vicki are <strong>travelling to all 2,563 railway stations</strong> in Great Britain</h3>
-<p><i>All The Stations</i> is a project to travel to ALL the national railway stations in Britain over the spring and summer of 2017, and to create an online documentary film about the journey.</p>
+<h3>Geoff &amp; Vicki <strong>travelled to all 2,563 railway stations</strong> in Great Britain</h3>
+<p>During the spring and summer of 2017 <i>All The Stations</i> travelled to ALL the national railway stations in Britain. The project is fully documented online through 59 vlog-style video. A feature length documentary is due for release in 2018.</p>
 
 <p><a class="button readmore margin-bottom-none" href="http://www.youtube.com/allthestations"><i class="fa fa-youtube-play" aria-hidden="true"></i> Watch on YouTube</a></p>
 <p><a class="readmore" href="/about">More about the project</a></p>
