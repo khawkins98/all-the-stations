@@ -53,6 +53,6 @@ Before setting out on the journey we clearly defined the parameters of the proje
 More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
 
 
-## Crowd Funding
+### Crowd Funding
 
 Our journey began in May 2017 and was made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allowed us to produce more rich and engaging video content for the public.
