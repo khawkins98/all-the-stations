@@ -55,4 +55,4 @@ More of your questions are answered over on the Kickstarter page <a href="https:
 
 ## Crowd Funding
 
-Our journey began in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and engaging video content for the public.
+Our journey began in May 2017 and was made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allowed us to produce more rich and engaging video content for the public.
