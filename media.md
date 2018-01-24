@@ -69,3 +69,4 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 
 - <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24th October, London Transport Museum, Talk</a> **SOLD OUT**
 - <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29th November, London Transport Museum, Late Debate: Technology and the future</a> 
+- <a href="https://https://www.eventbrite.co.uk/e/all-the-stations-in-conversation-at-northfield-birmingham-tickets-40869214922?aff=es2">27th January, St Laurence Pastoral Centre</a> **SOLD OUT**
