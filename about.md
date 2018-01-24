@@ -36,7 +36,7 @@ To ensure the project becomes an asset for the future we are in conversations wi
 
 Before setting out on the journey we clearly defined the parameters of the project. 
 
-**What counts as a station?**
+**What counted as a station?**
 
 1. At the time of planning we used the most up-to-date list of stations in Great Britain <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new">provided by the Office of Rail and Road</a> (ORR). The list for 2015-16 contained 2,557 stations. When we set out on the journey five new stations had opened, bringing the total to 2,563.
     {% assign site_unix_time = site.time | date: '%s' | plus: 0 %}
@@ -45,7 +45,7 @@ Before setting out on the journey we clearly defined the parameters of the proje
     <a href="/stationlist">The complete station list is available here</a>.
 2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland were **not** included, and neither were abandoned stations (e.g. Norton Bridge, Newhaven Marine).
 
-**What counts as having visited each station?**
+**What counted as having visited each station?**
 
 1. We **had** to arrive or leave on a scheduled train that was timetabled to stop at each station - fast trains that passed through did not count.
 2. We **didn’t** have to leave the train at every station, but we did get off at some of the most interesting stations to capture footage of the surrounding area. 
