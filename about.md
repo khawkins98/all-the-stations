@@ -19,6 +19,7 @@ Since the end of the journey we have been working on the production of a feature
 Whilst the journey is over, the legacy of All The Stations continues. Our aim is to capture the current status of Britain’s railways, bringing them and the reality of the places and people the railways serve to life for everyone to enjoy and share.
 
 
+
 ### Why is this project important?
 
 Within the next decade, changes to the rail network will be more pivotal than ever, and we want to capture this critical moment in Britain's rail history, producing a snapshot of today's railways for posterity.
@@ -28,6 +29,7 @@ To ensure the project becomes an asset for the future we are in conversations wi
 <em>We would like to thank the <a href="http://www.raildeliverygroup.com/" target="new">Rail Delivery Group</a> for their endorsement and generous support of the project. The RDG is a body that represents the 23 train operating companies that make up the British railway system.</em>
 
 <a name="rules"></a>
+
 
 
 ### Project Rules
@@ -51,6 +53,7 @@ Before setting out on the journey we clearly defined the parameters of the proje
 4. It **wasn't** a race to do this in the fastest time possible, it was a team effort between two people to cover all the stations, with the cameras rolling.
 
 More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
+
 
 
 ### Crowd Funding
