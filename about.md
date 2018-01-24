@@ -38,10 +38,8 @@ Before setting out on the journey we clearly defined the parameters of the proje
 
 1. We used the most up-to-date list of stations in Great Britain <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new">provided by the Office of Rail and Road</a> (ORR).
     {% assign site_unix_time = site.time | date: '%s' | plus: 0 %}
-    {% if site_unix_time < 1495321200 %}
-    At the time of planning the list for 2015-16 contained 2,557 stations. When we set out on the journey five new stations had opened, bringing the total to 2,563.
+    {% if site_unix_time < 1495321200 %} At the time of planning the list for 2015-16 contained 2,557 stations. When we set out on the journey five new stations had opened, bringing the total to 2,563.
     {% else %}
-    Their list for 2015-16 contains 2,557 stations and six new stations have opened since, bringing the total to 2,563.
     {% endif %}
     <a href="/stationlist">The complete station list is available here</a>.
 2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland were **not** included, and neither were abandoned stations (e.g. Norton Bridge, Newhaven Marine).
