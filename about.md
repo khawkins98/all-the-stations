@@ -7,7 +7,7 @@ order: 1
 
 <a name="project"></a>
 
-### About
+## About
 
 All The Stations is a project led by Geoff Marshall and Vicki Pipe and crowdfunded by over 1,500 members of the public. During the spring and summer of 2017 we travelled to ALL the national railway stations in Britain in just three and a half months (14 weeks, 6 days and 22 minutes to be precise). We filmed the journey as we went and with the support of an incredible team were able to; 
 
@@ -32,7 +32,7 @@ To ensure the project becomes an asset for the future we are in conversations wi
 
 
 
-### Project Rules
+## Project Rules
 
 Before setting out on the journey we clearly defined the parameters of the project. 
 
@@ -56,6 +56,6 @@ More of your questions are answered over on the Kickstarter page <a href="https:
 
 
 
-### Crowd Funding
+## Crowd Funding
 
 Our journey began in May 2017 and was made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allowed us to produce more rich and engaging video content for the public.
