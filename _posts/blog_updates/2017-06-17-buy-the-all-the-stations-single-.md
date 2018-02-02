@@ -8,7 +8,7 @@ That’s right. For those of you who have been humming the theme music for the l
 
 Huge thanks to Steven Francis, musician extraordinaire. Available on multiple platforms including iTunes, Google Play, Spotify … give your service of choice a search and it should be there. Enjoy!
 
-P.S. We appear to have made it to No.3 in the[ iTunes](https://itunes.apple.com/gb/album/all-the-stations-full-theme/id1246506526) (Electronic Genre) chart. We overtook Major Lazer …
+P.S. We appear to have made it to No.3 in the[ iTunes](https://geo.itunes.apple.com/gb/album/all-the-stations-single/1246506526?app=music&pt=389995&at=10lt4K&ct=allthestations20170617) (Electronic Genre) chart. We overtook Major Lazer …
 
 ![All The Stations logo](/static/images/uploads/All The Stations Colour copy.png)
 
