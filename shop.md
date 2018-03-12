@@ -41,4 +41,4 @@ Choose from and click through to:
 
 Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing these stores. Please remember, we’re only tiny, a bit like the platform at Beauly station, so please be patient and we’ll get your merch to you as soon as we can!
 
-PLEASE NOTE these are the only official ATS merchandise websites. All other products are imitations.
+PLEASE NOTE these are the only official ATS merchandise websites.
