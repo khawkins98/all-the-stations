@@ -11,9 +11,9 @@ order: 1
 
 All The Stations - Irleand, is a project for Geoff and Vicki to travel to ALL the railway stations in Ireland and Northern Ireland in three weeks - there's 198 stations in total - creating Online videos as they go to document the journey.
 
-In the Summer of 2017, the successfully did this with the original 'All The Stations' where they travelled to all 2,563 railways stations in Great Britain [and the 3 new ones since], creating a 59 video series playlist of the journey as well as a feature length documentary upon their return.
+In the Summer of 2017, the successfully did this with the original 'All The Stations' where they travelled to all 2,563 railways stations in Great Britain [and the 3 new ones since], creating a 59 video (with over 4 million views) of their journey as well as a feature length documentary upon their return.
 
-This latest project once again aims to capture the current status of railways in Ireland and Northern Ireland, and bring them to life as we explore the reality of the places and people we encounter along the way.
+This latest project once again aims to capture the current status of railways in Ireland and Northern Ireland, and bring them to life over three weeks as we explore the reality of the places and people we encounter along the way.
 
 Through film and social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
 
@@ -22,25 +22,28 @@ Through film and social media we want to share the whole experience with you, an
 
 <a name="rules"></a>
 
-## Project Rules
+### How can you follow along?
 
-### What counts as a station?
+During our time on the rails we will:
 
-1. We’re using the most up-to-date list of stations in Great Britain <a href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates" target="new">provided by the Office of Rail and Road</a> (ORR).
-    {% assign site_unix_time = site.time | date: '%s' | plus: 0 %}
-    {% if site_unix_time < 1495321200 %}
-    Their list for 2015-16 contains 2,557 stations, five new stations having opened since and another opening in May 2017, bringing the total to 2,563.
-    {% else %}
-    Their list for 2015-16 contains 2,557 stations and six new stations have opened since, bringing the total to 2,563.
-    {% endif %}
-    <a href="/stationlist">The complete station list is available here</a>.
-2. The London Underground, Tyne &amp; Wear Metro, Glasgow Subway, heritage railways and stations in Northern Ireland are **not** included, and neither are abandoned stations (e.g. Norton Bridge, Newhaven Marine).
+•	Post professionally edited videos on YouTube that document the journey and bring you closer to the experience. There will be one video created for each day we spend travelling on the rails.
+•	Keep you in touch with our daily progress using Facebook Live, Twitter and photographs on Instagram - all as it happens.
+
+### Why is this project important?
+
+Throughout our project in Great Britain, we discovered that the railways mean different things to different people. For some they provide vital links for jobs, education and well-being. They can connect different communities, forge friendships and open up new opportunities. For others, they are a cause of frustration, or simply a necessary hurdle to overcome in their day to day lives.
+
+But is this the same everywhere? How do the people of Ireland and Northern Ireland feel about their railways? What challenges do they face, what are the highlights, how quaint are the stations, what historical and cultural stories can you connect to and where can you get the best buffet cuppa?
+
+And how do the railways themselves operate? Will we still find manually operated gates and semaphore signals in use? Is there seamless interoperability between services in Ireland and Northern Ireland? What happens after the UK leaves the EU, how will this impact passenger journeys across the Irish border?
+
+We aim to answer all these questions, sharing the entire story with you along the way, to capture a unique moment in European transport history. 
 
 ### What counts as having visited each station?
 
-1. We **do** have to arrive or leave on a scheduled train that’s timetabled to stop at each station - fast trains that pass through do not count.
-2. We **don’t** have to leave the train at every station, but we will get off at some of the most interesting stations and report back to you.
-3. Request stops have a special rule. As long as the train we are on is able to stop, if requested, then we will count it as having been visited, even if no one does actually get on or off.
+1. There are 144 stations on the Iarnród Éireann network and 54 stations on Northern Ireland Railways, giving us a total of 198 stations to visit.
+2. The stations along the Luas tram system in Dublin do not count towards the official stations total. However, because we surpassed our original Kickstarter funding goal, we now have capacity to travel along it and make a bonus video about the system. 
+3. We will not be including any disused sections on the network (e.g the Waterford to Rosslare line) where the track and stations are still in place but services no longer run.
 
 More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
 
