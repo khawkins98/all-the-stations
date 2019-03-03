@@ -63,21 +63,25 @@ order: 7
  			<h3>Will Head</h3>
  			<p>Will is the owner of <a href="http://fixationvideo.co.uk/" target="new">Fixation Video Ltd.</a> a professional video editing company, and will be the lead editor of All The Stations videos. Wills first memory of a train is travelling to Cheshire every month to visit his grandparents who would then tell him stories of how they preferred steam trains ...</p>
  		</div>
-     <div class="column">
- 			<div class="columns medium-5 float-left">
- 				<img src="/static/images/kai.jpg">
- 			</div>
- 			<h3>Kai Michael Poppe</h3>
- 			<p>Kai is a technical supporter at a software company in Germany. Occasionally he does some website programming and database design which led him to create the All the Stations map. He grew up with the railway nearby and a model-train-world in his house, hence his love for trains.</p>
- 		</div>
-     <div class="column">
- 			<div class="columns medium-5 float-left">
- 				<img src="/static/images/ken.jpg">
- 			</div>
- 			<h3>Ken Hawkins</h3>
- 			<p>Growing up in the USA, Ken did not develop the usual American passion for cars and tarmac everywhere, enhanced by several years of living in southern Germany. After <a href="http://www.thedigitel.com/s/charleston/digicast-top-stories-entertainment/its-cher-tour-our-second-podcast-news-and-events-081217-116012">collaborating with Geoff</a> back in 2008, Ken's using his information design and web development skills to help with the All the Stations site.</p>
- 		</div>
- 		<div class="column">
- 			<h3>With thanks to...</h3>
- 			<ul>
- 				<li><em>Steven Francis</em> for the original <strong>All The Stations </strong>music</li>
+		<div class="column">
+			<div class="columns medium-5 float-left">
+				<img src="/static/images/kai.jpg">
+			</div>
+			<h3>Kai Michael Poppe</h3>
+			<p>Kai is a technical supporter at a software company in Germany. Occasionally he does some website programming and database design which led him to create the All the Stations map. He grew up with the railway nearby and a model-train-world in his house, hence his love for trains.</p>
+		</div>
+		<div class="column">
+			<div class="columns medium-5 float-left">
+				<img src="/static/images/ken.jpg">
+			</div>
+			<h3>Ken Hawkins</h3>
+			<p>Growing up in the USA, Ken did not develop the usual American passion for cars and tarmac everywhere, enhanced by several years of living in southern Germany. After <a href="http://www.thedigitel.com/s/charleston/digicast-top-stories-entertainment/its-cher-tour-our-second-podcast-news-and-events-081217-116012">collaborating with Geoff</a> back in 2008, Ken's using his information design and web development skills to help with the All the Stations site.</p>
+		</div>
+		<div class="column">
+			<h3>With thanks to...</h3>
+			<ul>
+				<li><em>Steven Francis</em> for the original All The Stations music</li>
+			</ul>
+		</div>
+	</div>
+</div>
