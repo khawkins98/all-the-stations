@@ -5,7 +5,7 @@ group: "not_in_local_navigation"
 order: 1
 ---
 
-<h3><strong>All The Stations - Ireland</strong>Travelling to 198 railway stations in Ireland and Northern Ireland</h3>
+<h3><strong>All The Stations - Ireland</strong>Travelling to all 198 railway stations in Ireland and Northern Ireland</h3></br>
 <p>This spring Vicki and Geoff are making All The Stations international, as they attempt to visit all 198 railways stations in Ireland and Northern Ireland.</p>
 
 <p>They will explore the length and breadth of the Iarnród Éireann and Northern Ireland Railways networks, meeting communities connected to the lines and interviewing local people and those who work on the railways, to find out about their experiences of travelling by train.</p> 
