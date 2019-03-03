@@ -9,22 +9,16 @@ order: 1
 
 ## About
 
-All The Stations is a project for Geoff and Vicki to travel to ALL the national railway stations in Britain in just three months, and to create an online documentary film about the journey.
-Geoff is a freelance video editor and transport vlogger, Vicki is a museum education professional. Our transport videos already published online have accumulated over <em>6 million views </em>on YouTube, but in this latest project the aim is to capture the current status of Britain’s railways, and bring them to life as we explore the reality of the places and people we encounter along the way.
+All The Stations - Irleand, is a project for Geoff and Vicki to travel to ALL the railway stations in Ireland and Northern Ireland in three weeks - there's 198 stations in total - creating Online videos as they go to document the journey.
+
+In the Summer of 2017, the successfully did this with the original 'All The Stations' where they travelled to all 2,563 railways stations in Great Britain [and the 3 new ones since], creating a 59 video series playlist of the journey as well as a feature length documentary upon their return.
+
+This latest project once again aims to capture the current status of railways in Ireland and Northern Ireland, and bring them to life as we explore the reality of the places and people we encounter along the way.
 
 Through film and social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
 
-- Each week we’ll post four professionally edited videos that document four separate days of the journey and bring you closer to the experience.
+- Almost everyday we'll post a professionally edited video to Youtube that documents the journey and brings you closer to the experience.
 - Every day we’ll be sharing our travels using Twitter, Facebook and Instagram. Live streams, photos and updates will keep you in touch between the videos.
-- At the end of the journey we’ll produce a feature length documentary, which will include additional footage and insights into the project.
-
-### Why is this project important?
-
-Within the next decade, changes to the rail network will be more pivotal than ever, and we want to capture this critical moment in Britain's rail history, producing a snapshot of today's railways for posterity.
-
-To ensure the project becomes an asset for the future we have begun conversations with the <a href="http://www.nrm.org.uk/" target="new">National Railway Museum</a> and <a href="http://www.ltmuseum.co.uk/" target="new">London Transport Museum</a> and hope to donate all relevant material to their collections.
-
-<em>We would like to thank the <a href="http://www.raildeliverygroup.com/" target="new">Rail Delivery Group</a> for their endorsement and generous support of the project. The RDG is a body that represents the 23 train operating companies that make up the British railway system.</em>
 
 <a name="rules"></a>
 
