@@ -51,4 +51,4 @@ And finally, it’s not a race to do this in the fastest time possible, it’s a
 
 ## Crowd Funding
 
-Our journey began in May 2017 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations" target="new">a Kickstarter campaign in February</a> and in just ten days reached our initial target of £28,825. The campaign closed on 27 March having achieved a staggering *£38,654*. Such a generous total allows us to produce more rich and engaging video content for the public.
+Our journey will being in April 2019 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations-ireland/" target="new">a Kickstarter campaign in February</a> and in <strong>under an hour</strong> reached our initial target of £14,500 and then went on to to raise £26,350 in total which will allow us to create more content than originally planned. We acknowledge that this is a generous total allows us to produce rich and engaging video content for everyone to watch and enjoy.
