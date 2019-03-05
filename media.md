@@ -9,7 +9,13 @@ order: 6
 
 For all media and events enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
 
-### Radio interviews
+## All The Stations - Ireland
+
+Media for the 2019 'All The Stations - Ireland' trip will appear here
+
+### All The Stations 2017
+
+Media links from out 2017 trip around the 2,563 stations of Great Britain
 
 - <a href="http://www.coastfm.co.uk/" target="_blank">Cornwall&#39;s Coast FM</a>: <a href="/static/audio/CoastFM-2017-05-08.mp3">8th May, Morning Show</a>
 - <a href="http://www.bbc.co.uk/bbcsomerset" target="_blank">BBC Somerset</a>: <a href="/static/audio/BBCSomerset-2017-05-19.mp3">19th May, with Charlie Taylor</a>
@@ -64,9 +70,3 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 - <a href="https://www.virgin.com/news/virgin-trains-welcome-all-stations-pair">31st August, Virgin website</a>
 - <a href="https://www.railstaff.uk/2017/09/25/visiting-2563-railway-stations-looks-like-14-pictures/">25th September, Rail Staff</a>
 - <a href="https://blog.nrm.org.uk/all-the-stations/">12th October, National Railway Museum Blog</a>
-
-### Events
-
-- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar#allthestations">24th October, London Transport Museum, Talk</a> **SOLD OUT**
-- <a href="https://www.ltmuseum.co.uk/whats-on/events-calendar/shaping-ldn">29th November, London Transport Museum, Late Debate: Technology and the future</a> 
-- <a href="https://www.eventbrite.co.uk/e/all-the-stations-in-conversation-at-northfield-birmingham-tickets-40869214922?aff=es2">27th January, St Laurence Pastoral Centre</a> **SOLD OUT**
