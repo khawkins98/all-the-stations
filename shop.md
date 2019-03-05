@@ -8,9 +8,22 @@ order: 7
 
 Want more All The Stations in your life? Have no fear, we have all your merchandising needs covered.
 
+### To The Book!
+
+Our book, <strong>The Railway Adventures</strong>, is published by September Publishing and was released in October 2018. It accompanies our 2017 All The Stations adventure, when we travelled to ever single railway station in Great Britain. It is available from any of the following online stores:
+
+September Publishing 
+Waterstones
+Amazon
+
+<em>“This is a fantastic book. It's written in an engaging and accessible style, and the writers' enthusiasm shines through. Well chosen (and composed) photographs accompany the text, and it's full of interesting facts. It really does make you want to have your own adventure (and you should).” *****</em>
+
+<em>“I thought I would already know all the information in this book - but I was wrong. The illustrations, beautiful graphics, lists and charts presented facts in a good-looking and concise way, and the tone of the writing was warm and easy to read. A perfect coffee-table book for the rail enthusiast.” ****</em>
+
+
 ### Clothing
 
-Due to popular demand we have moved our T-Shirts to a separate site, increasing the number of designs, sizes, styles and shipping options available.
+Official All The Stations merchandise is provided by DZTZ. Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing the merchandise items. Please remember, we’re only tiny (a bit like the platform at Beauly station!), so please be patient and Dan will get your merch to you as soon as he can.
 
 Official clothing merchandise is provided by <a href="http://stores.clothes2order.com/dztzstore/">DZTZ</a>.
 
@@ -39,6 +52,5 @@ Choose from and click through to:
 
 <img src="/static/images/uploads/All The Stations tshirts.png" alt="Geoff &amp; Vicky presenting T-Shirts"/>
 
-Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing these stores. Please remember, we’re only tiny, a bit like the platform at Beauly station, so please be patient and we’ll get your merch to you as soon as we can!
+PLEASE BE AWARE, these are the only official ATS merchandise websites, some imitations have appeared on other websites - these are not produced by us.
 
-PLEASE NOTE these are the only official ATS merchandise websites.
