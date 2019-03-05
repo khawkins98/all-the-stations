@@ -20,7 +20,13 @@ order: 7
  				<img src="/static/images/vicki.jpg" class="img-rounded">
  			</div>
  			<h3>Vicki Pipe</h3>
- 			<p>Vicki is a museum education professional by trade, but also an artist and improviser and often finds these three things join together nicely. She has presented in <a href="http://londonist.com/category/videos">videos for Londonist</a> and on Geoff’s YouTube channel on a range of topics from <a href="https://youtu.be/hsWO_BM20rw">history</a> to <a href="https://youtu.be/HO1R8PD-2KI">Harry Potter</a>. Her interest in railways lays with the stories of people, social change and how the railways impact on our sense of space and surroundings. If asked what her favourite train stock was, she'd likely say 'Hogwarts Express'.</p>
+ 			<p>Vicki is a presenter and voiceover artist for YouTube, TV, and Radio. Co-creator of All The Stations, author of The Railway Adventures and Improviser with LadyProv.</p>
+
+<p>When not making videos, or travelling on trains Vicki works in museum education (currently at London Transport Museum) developing learning programmes for adults, families and young people. She has trained and managed teams and collaborated with artists and communities from around the world.</p>
+
+<p>Vicki’s curiosity in railways lays with the stories of social change and how public transport has altered our sense of space and surroundings.</p> 
+
+<p>If asked what her favourite train stock is, she’ll likely say ‘Hogwarts Express’.</p>
  		</div>
  	</div>
  </div>
@@ -31,13 +37,6 @@ order: 7
  		<div class="column">
  			<div class="columns medium-5 float-left">
  				<img src="/static/images/lindsey.jpg" class="img-rounded">
- 			</div>
- 			<h3>Lindsey Berthoud</h3>
- 			<p>Lindsey's Twitter handle <a href="http://twitter.com/linzherdscats">@linzherdscats</a> says it all really. She loves organising and making good things happen, preferably in the company of lovely people and some cats. Her job is provide some commercial and operational support to this epic project. She lives a stone's throw from her beautiful "New Renaissance" style local train station which boasts a pair of Grade II listed buffer lights.</p>
- 		</div>
- 		<div class="column">
- 			<div class="columns medium-5 float-left">
- 				<img src="/static/images/matt.jpg" class="img-rounded">
  			</div>
  			<h3>Matthew Frost</h3>
  			<p>Matthew is an independent mobile application developer who created the award-winning App <a href="http://stationmasterapp.com/">Station Master</a> for iOS. All of his iOS Apps have a transport theme. Previously he worked for one of the first Internet Service Providers in the UK. He is providing e-mail &amp; IT/development support to the project including the "Adopt a Station" website/tool. In his spare time he is a volunteer tour guide for London Transport Museum's &quot;Hidden London&quot; programme.</p>
@@ -67,7 +66,14 @@ order: 7
 			<div class="columns medium-5 float-left">
 				<img src="/static/images/kai.jpg">
 			</div>
-			<h3>Kai Michael Poppe</h3>
+			<h3>Michelle Martin</h3>
+ 			<p>Michelle is the third video editor on the All The Stations team.</p>
+ 		</div>
+ 		<div class="column">
+ 			<div class="columns medium-5 float-left">
+ 				<img src="/static/images/matt.jpg" class="img-rounded">
+ 			</div>
+<h3>Kai Michael Poppe</h3>
 			<p>Kai is a technical supporter at a software company in Germany. Occasionally he does some website programming and database design which led him to create the All the Stations map. He grew up with the railway nearby and a model-train-world in his house, hence his love for trains.</p>
 		</div>
 		<div class="column">
