@@ -13,7 +13,7 @@ order: 7
  				<img src="/static/images/geoff.jpg" class="img-rounded">
  			</div>
  			<h3>Geoff Marshall</h3>
- 			<p>Geoff is a freelance video producer making transport films for <a href="https://www.youtube.com/user/Londonistvids" target="new">Londonist</a> and <a href="https://www.youtube.com/user/geofftech2">his own YouTube channel</a>. He is a tour guide for <em>Hidden London</em> taking people inside abandoned tube stations, and has <a href="http://www.bbc.co.uk/news/uk-england-london-24203949" target="new">twice held the  world record</a> for travelling to all Underground stations in the fastest time possible. When not obsessing about the railways, he drinks a lot of tea.</p>
+ 			<p>Geoff is a freelance video producer making transport films for <a href="https://www.youtube.com/user/Londonistvids" target="new">Londonist</a> and <a href="https://www.youtube.com/user/geofftech2">his own YouTube channel</a>. He is a tour guide for <em>Hidden London</em> taking people inside abandoned tube stations, and has <a href="http://www.bbc.co.uk/news/uk-england-london-24203949" target="new">twice held the  world record</a> for travelling to all Underground stations in the fastest time possible. He has recently switched to decaff tea & coffee.</p>
  		</div>
  		<div class="column">
  			<div class="columns medium-5 float-left">
@@ -36,7 +36,7 @@ order: 7
  		<h2>The Control Room</h2>
  		<div class="column">
  			<div class="columns medium-5 float-left">
- 				<img src="/static/images/lindsey.jpg" class="img-rounded">
+ 				<img src="/static/images/matt.jpg" class="img-rounded">
  			</div>
  			<h3>Matthew Frost</h3>
  			<p>Matthew is an independent mobile application developer who created the award-winning App <a href="http://stationmasterapp.com/">Station Master</a> for iOS. All of his iOS Apps have a transport theme. Previously he worked for one of the first Internet Service Providers in the UK. He is providing e-mail &amp; IT/development support to the project including the "Adopt a Station" website/tool. In his spare time he is a volunteer tour guide for London Transport Museum's &quot;Hidden London&quot; programme.</p>
@@ -71,7 +71,7 @@ order: 7
  		</div>
  		<div class="column">
  			<div class="columns medium-5 float-left">
- 				<img src="/static/images/matt.jpg" class="img-rounded">
+ 				<img src="/static/images/kai.jpg" class="img-rounded">
  			</div>
 <h3>Kai Michael Poppe</h3>
 			<p>Kai is a technical supporter at a software company in Germany. Occasionally he does some website programming and database design which led him to create the All the Stations map. He grew up with the railway nearby and a model-train-world in his house, hence his love for trains.</p>
@@ -87,6 +87,7 @@ order: 7
 			<h3>With thanks to...</h3>
 			<ul>
 				<li><em>Steven Francis</em> for the original All The Stations music</li>
+				<li><em>Dan Spence</em> for All The Stations merchandise</li>
 			</ul>
 		</div>
 	</div>
