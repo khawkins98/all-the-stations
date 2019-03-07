@@ -69,7 +69,7 @@ order: 7
 				<img src="/static/images/michelle.jpg">
 			</div>
 			<h3>Michelle Martin</h3>
- 			<p>Our newest member of the ATS team, Michelle is a video editir who has worked on a range of the programmes for the BBC spanning over a decade, Big Brother for five years, and for YouTube channels including Tom Scott. She loves games and science and all things generally geeky!</p>
+ 			<p>Our newest member of the ATS team, Michelle is a video editor who has worked on a range of the programmes for the BBC spanning over a decade, Big Brother for five years, and for YouTube channels including Tom Scott. She loves games and science and all things generally geeky!</p>
  		</div>
  		<div class="column">
  			<div class="columns medium-5 float-left">
@@ -82,7 +82,7 @@ order: 7
 		<div class="column">
 			<h3>With thanks to...</h3>
 			<ul>
-				<li><em>Ken Hawkins</em> for the All THe Stations logo and design, and website creation</li>
+				<li><em>Ken Hawkins</em> for the All The Stations logo and design, and website creation</li>
 				<li><em>Steven Francis</em> for the original All The Stations music</li>
 				<li><em>Dan Spence</em> for All The Stations merchandise</li>
 			</ul>
