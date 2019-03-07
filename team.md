@@ -64,10 +64,10 @@ order: 7
  		</div>
 		<div class="column">
 			<div class="columns medium-5 float-left">
-				<img src="/static/images/kai.jpg">
+				<img src="/static/images/michelle.jpg">
 			</div>
 			<h3>Michelle Martin</h3>
- 			<p>Michelle is the third video editor on the All The Stations team.</p>
+ 			<p>Our newest member on the ATS team as, Michelle is a video editiro who has worked on a range of the programmes for the BBC spanning over a decade, Big Brother for five years, and for YouTube channels including Tom Scott. She loves games and science and all things generally geeky!</p>
  		</div>
  		<div class="column">
  			<div class="columns medium-5 float-left">
