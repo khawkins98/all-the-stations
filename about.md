@@ -52,8 +52,8 @@ We aim to answer all these questions, sharing the entire story with you along th
 
 ### What counts as having visited each station?
 
-1. At each station we <strong>must<strong> either arrive or leave on a scheduled train that is timetabled to stop. Fast trains that pass through do not count. 
-2. We do <strong>not<strong> have to leave the train at every station, but we will get off at some of the most interesting stations to capture footage of the surrounding areas. 
+1. At each station we <strong>must</strong> either arrive or leave on a scheduled train that is timetabled to stop. Fast trains that pass through do not count. 
+2. We do <strong>not</strong> have to leave the train at every station, but we will get off at some of the most interesting stations to capture footage of the surrounding areas. 
 3. Unlike England, Wales and Scotland, Ireland has no request stops, so there's no special rule this time to have to deal with them!
 
 And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.
