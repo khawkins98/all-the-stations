@@ -7,13 +7,17 @@ order: 1
 
 <h3><strong>All The Stations - Ireland</strong></h3>
 <h3>Travelling to all 198 railway stations in Ireland and Northern Ireland</h3>
-<p>This spring Vicki and Geoff are making All The Stations international, as they attempt to visit all 198 railways stations in Ireland and Northern Ireland.</p>
+<p>This spring, Vicki and Geoff are taking All The Stations international! Very soon, the duo will embark on a journey to visit all 198 railways stations in Ireland and Northern Ireland.</p>
 
-<p>They will explore the length and breadth of the Iarnród Éireann and Northern Ireland Railways networks, meeting communities connected to the lines and interviewing local people and those who work on the railways, to find out about their experiences of travelling by train.</p> 
+<p>All The Stations - Ireland will explore the length and breadth of the Iarnród Éireann and Northern Ireland Railways networks. Along the way, Vicki and Geoff will meet the communities connected to the lines, interviewing local people and those who work on the railways, to find out about their experiences of travelling by train.</p> 
 
-<p>The whole adventure will be captured on camera for YouTube, with live updates on social media.</p>
+<p>The whole adventure will be captured on camera. Videos of every day's journey will be broadcast on YouTube, with live updates on social media for those who want to following along in real-time.</p>
 
-<p>Find out the latest information about the project here on our website. View our update map (which charts our daily progress), check our Twitter, Instagram and Facebook feeds as well as read the latest project coverage in the media. </p>
+<p>We are grateful to our Kickstarter backers, all 1,149 of them, for making this journey possible.<p>
+
+<p>If you have any tips of places to go and people to meet along the way, please send us a direct message via our Facebook page.<p>
+
+<p>Once we’re on the rails, you can keep on track with the project by viewing our website’s update map, which charts our daily progress. You can also check out the videos over on the All The Stations YouTube channel, and subscribe to our Twitter, Instagram and Facebook feeds for even more live updates.</p>
 
 <p><a class="button readmore margin-bottom-none" href="http://www.youtube.com/allthestations"><i class="fa fa-youtube-play" aria-hidden="true"></i> Watch on YouTube</a></p>
 <p><a class="readmore" href="/about">More about the project</a></p>
