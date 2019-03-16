@@ -28,6 +28,7 @@ All The Stations - Ireland will document the people and places of the Iarnród �
 During the All The Stations - Ireland adventure we will:
 
 •	Post professionally edited videos on YouTube that document the journey and bring you closer to the experience. There will be one video created for each day we spend travelling on the rails.
+
 •	Keep you in touch with our daily progress using Facebook Live, Twitter and photographs on Instagram - all as it happens.
 
 ### Why is this project important?
@@ -51,8 +52,8 @@ We aim to answer all these questions, sharing the entire story with you along th
 
 ### What counts as having visited each station?
 
-1. At each station we must either arrive or leave on a scheduled train that is timetabled to stop. Fast trains that pass through do not count. 
-2. We do not have to leave the train at every station, but we will get off at some of the most interesting stations to capture footage of the surrounding areas. 
+1. At each station we <strong>must<strong> either arrive or leave on a scheduled train that is timetabled to stop. Fast trains that pass through do not count. 
+2. We do <strong>not<strong> have to leave the train at every station, but we will get off at some of the most interesting stations to capture footage of the surrounding areas. 
 3. Unlike England, Wales and Scotland, Ireland has no request stops, so there's no special rule this time to have to deal with them!
 
 And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.
@@ -62,4 +63,4 @@ More of your questions are answered over on the Kickstarter page <a href="https:
 
 ## Crowd Funding
 
-Our journey will begin in April 2019 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations-ireland/" target="new">a Kickstarter campaign in February</a> and in <strong>under an hour</strong> reached our initial target of £14,500 in under one hour. We went on to raise £26,350 in total which will allow us to produce more rich and engaging content for everyone to enjoy. We would like to say a big thank you to all our supporters.
+Our journey will begin in April 2019 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations-ireland/" target="new">a Kickstarter campaign in February</a> and in <strong>under an hour</strong> reached our initial target of £14,500. We went on to raise £26,350 in total which will allow us to produce more rich and engaging content for everyone to enjoy. We would like to say a big thank you to all our supporters.
