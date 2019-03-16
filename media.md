@@ -9,13 +9,8 @@ order: 6
 
 For all media and events enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
 
-## All The Stations - Ireland
-
-Media for the 2019 'All The Stations - Ireland' trip will appear here
 
 ### All The Stations 2017
-
-Media links from out 2017 trip around the 2,563 stations of Great Britain
 
 - <a href="http://www.coastfm.co.uk/" target="_blank">Cornwall&#39;s Coast FM</a>: <a href="/static/audio/CoastFM-2017-05-08.mp3">8th May, Morning Show</a>
 - <a href="http://www.bbc.co.uk/bbcsomerset" target="_blank">BBC Somerset</a>: <a href="/static/audio/BBCSomerset-2017-05-19.mp3">19th May, with Charlie Taylor</a>
