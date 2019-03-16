@@ -7,31 +7,32 @@ order: 1
 
 <a name="project"></a>
 
+
 ## About
 
-All The Stations - Irleand, is a project for Geoff and Vicki to travel to ALL the railway stations in Ireland and Northern Ireland in three weeks - there's 198 stations in total - creating Online videos as they go to document the journey.
+All The Stations - Irleand, is an ambitious new project, led by Vicki Pipe and Geoff Marshall, to travel to ALL 198 railway stations in Ireland and Northern Ireland, creating an online video series about the journey.
 
-In the Summer of 2017, the successfully did this with the original 'All The Stations' where they travelled to all 2,563 railways stations in Great Britain [and the 3 new ones since], creating a 59 video (with over 4 million views) of their journey as well as a feature length documentary upon their return.
+It is the latest in a series of All The Stations adventures. The original All The Stations voyage took place during summer 2017, and saw the duo travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 4 million views on YouTube and a book about the journey, The Railway Adventures, is an Amazon best-seller.
 
-This latest project once again aims to capture the current status of railways in Ireland and Northern Ireland, and bring them to life over three weeks as we explore the reality of the places and people we encounter along the way.
+For 2019, Vicki and Geoff are taking the project international by attempting to vist all 198 stations in Ireland and Northern Ireland. This has been made possible through the generous support of the public, with over 1,149 people backing the project on Kickstarter to make it a reality. 
 
-Through film and social media we want to share the whole experience with you, and for your thoughts and ideas to contribute to the journey and the stories we tell.
+The whole journey will take three weeks to complete, and we intend to set off in early spring 2019. Through film and social media, we want to share the whole experience with you and bring the railways of Ireland and Northern Ireland to life.
 
-- Almost everyday we'll post a professionally edited video to Youtube that documents the journey and brings you closer to the experience.
-- Every day we’ll be sharing our travels using Twitter, Facebook and Instagram. Live streams, photos and updates will keep you in touch between the videos.
+All The Stations - Ireland will document the people and places of the Iarnród Éireann and Northern Ireland Railways networks. We'll explore the communities connected to the lines interviewing local people and those who work on the railways, to find out about their experiences of travelling by train.  
+
 
 <a name="rules"></a>
 
 ### How can you follow along?
 
-During our time on the rails we will:
+During the All The Stations - Ireland adventure we will:
 
 •	Post professionally edited videos on YouTube that document the journey and bring you closer to the experience. There will be one video created for each day we spend travelling on the rails.
 •	Keep you in touch with our daily progress using Facebook Live, Twitter and photographs on Instagram - all as it happens.
 
 ### Why is this project important?
 
-Throughout our project in Great Britain, we discovered that the railways mean different things to different people. For some they provide vital links for jobs, education and well-being. They can connect different communities, forge friendships and open up new opportunities. For others, they are a cause of frustration, or simply a necessary hurdle to overcome in their day to day lives.
+During the original All The Stations journey throughout Great Britain, we discovered that the railways mean different things to different people. For some they provide vital links for jobs, education and well-being. They can connect different communities, forge friendships and open up new opportunities. For others, they are a cause of frustration, or simply a necessary hurdle to overcome in their day to day lives.
 
 But is this the same everywhere? How do the people of Ireland and Northern Ireland feel about their railways? What challenges do they face, what are the highlights, how quaint are the stations, what historical and cultural stories can you connect to and where can you get the best buffet cuppa?
 
@@ -39,16 +40,26 @@ And how do the railways themselves operate? Will we still find manually operated
 
 We aim to answer all these questions, sharing the entire story with you along the way, to capture a unique moment in European transport history. 
 
-### What counts as having visited each station?
+
+## Rules 
+
+### What counts as a station?
 
 1. There are 144 stations on the Iarnród Éireann network and 54 stations on Northern Ireland Railways, giving us a total of 198 stations to visit.
 2. The stations along the Luas tram system in Dublin do not count towards the official stations total. However, because we surpassed our original Kickstarter funding goal, we now have capacity to travel along it and make a bonus video about the system. 
 3. We will not be including any disused sections on the network (e.g the Waterford to Rosslare line) where the track and stations are still in place but services no longer run.
 
-More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
+### What counts as having visited each station?
+
+1. At each station we must either arrive or leave on a scheduled train that is timetabled to stop. Fast trains that pass through do not count. 
+2. We do not have to leave the train at every station, but we will get off at some of the most interesting stations to capture footage of the surrounding areas. 
+3. Unlike England, Wales and Scotland, Ireland has no request stops, so there's no special rule this time to have to deal with them!
 
 And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.
 
+More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
+
+
 ## Crowd Funding
 
-Our journey will being in April 2019 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations-ireland/" target="new">a Kickstarter campaign in February</a> and in <strong>under an hour</strong> reached our initial target of £14,500 and then went on to to raise £26,350 in total which will allow us to create more content than originally planned. We acknowledge that this is a generous total allows us to produce rich and engaging video content for everyone to watch and enjoy.
+Our journey will begin in April 2019 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations-ireland/" target="new">a Kickstarter campaign in February</a> and in <strong>under an hour</strong> reached our initial target of £14,500 in under one hour. We went on to raise £26,350 in total which will allow us to produce more rich and engaging content for everyone to enjoy. We would like to say a big thank you to all our supporters.
