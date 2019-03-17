@@ -9,6 +9,9 @@ order: 6
 
 For all media and events enquiries, please contact us via <a href="mailto:press@allthestations.co.uk">press@allthestations.co.uk</a>.
 
+## All The Stations - Ireland
+
+A list of media mention for 2019 - Ireland and Northern Ireland - will appear here.
 
 ## All The Stations 2017
 
