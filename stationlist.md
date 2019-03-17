@@ -6,7 +6,7 @@ order: 5
 ---
 <div class="row padding-bottom-xlarge bgbox primary">
 	<div class="columns medium-11 columns medium-push-1 padding-top-xlarge">
-    <h1><strong>All 198 railway stations</strong> in Ireland and Northern Ireland</h1>
+    <h1><strong>The 198 Stations</strong> of Ireland and Northern Ireland</h1>
 		<iframe style="width:100%;height:500px; border:0;" src="http://www.allthestations.co.uk/map/allthestations-map.php"></iframe>
     <h3 class="lead">Here's the complete list of railway stations in Ireland and Northern Ireland, so if you want to know if we're travelling to a certain station, you can search for it on this page here.</h3>
          <h3 class="lead">All The Stations are travelling to <em>all</em> 198 of these stations.</h3>
