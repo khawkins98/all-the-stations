@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Updates
-group: "in_local_navigation"
+group: "not_in_local_navigation"
 order: 3
 ---
 
