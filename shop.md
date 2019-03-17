@@ -20,9 +20,9 @@ Our book, <strong>The Railway Adventures</strong>, is published by September Pub
 
 ![Cover](/static/images/uploads/The Railway Adventures - Cover.jpg){:height="260px" width="200px"}
 
-<em>“This is a fantastic book. It's written in an engaging and accessible style, and the writers' enthusiasm shines through. Well chosen (and composed) photographs accompany the text, and it's full of interesting facts. It really does make you want to have your own adventure (and you should).” *****</em>
+<em>“This is a fantastic book. It's written in an engaging and accessible style, and the writers' enthusiasm shines through. Well chosen (and composed) photographs accompany the text, and it's full of interesting facts. It really does make you want to have your own adventure (and you should).” [Five stars!]</em>
 
-<em>“I thought I would already know all the information in this book - but I was wrong. The illustrations, beautiful graphics, lists and charts presented facts in a good-looking and concise way, and the tone of the writing was warm and easy to read. A perfect coffee-table book for the rail enthusiast.” ****</em>
+<em>“I thought I would already know all the information in this book - but I was wrong. The illustrations, beautiful graphics, lists and charts presented facts in a good-looking and concise way, and the tone of the writing was warm and easy to read. A perfect coffee-table book for the rail enthusiast.” [Four stars!]</em>
 
 
 ### Clothing and gifts
