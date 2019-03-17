@@ -11,7 +11,7 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 
 ## All The Stations - Ireland
 
-A list of media mention for 2019 - Ireland and Northern Ireland - will appear here.
+A list of media mentions for 2019 - Ireland and Northern Ireland - will appear here soon!
 
 ## All The Stations 2017
 
