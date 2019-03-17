@@ -96,18 +96,18 @@ $( document ).ready(function() {
     }
     var options = {
       useEasing : true,
-      easingFn: easingFn,
-      useGrouping : true,
-      separator : ',',
-      decimal : '.',
-      prefix : '',
-      suffix : ''
+      easingFn: easingFn,
+      useGrouping : true,
+      separator : ',',
+      decimal : '.',
+      prefix : '',
+      suffix : ''
     };
     var demo = new CountUp('counter', 0, stationsVisited, 0, 8.5, options);
     demo.start();
 
     // update remaining
-    var stationsTotal = 2563;
+    var stationsTotal = 198;
     var stationsRemaining = stationsTotal - stationsVisited;
     var stationsPercent = (Math.floor((1 - (stationsVisited / stationsTotal)) * 1000)) / 10;
     $('.remaining').html(stationsRemaining.toLocaleString() + ' (' + stationsPercent + '%) to go');
