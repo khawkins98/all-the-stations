@@ -10,11 +10,11 @@ order: 1
 
 ## About
 
-All The Stations - Ireland, is an ambitious new project, led by Vicki Pipe and Geoff Marshall, to travel to ALL 198 railway stations in Ireland and Northern Ireland, creating an online video series about the journey.
+All The Stations - Ireland is an ambitious new project, led by Vicki Pipe and Geoff Marshall, to travel to ALL 198 railway stations in Ireland and Northern Ireland, creating an online video series about the journey.
 
 It is the latest in a series of All The Stations adventures. The original All The Stations voyage took place during summer 2017, and saw the duo travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 4 million views on YouTube and a book about the journey, The Railway Adventures, is an Amazon best-seller.
 
-For 2019, Vicki and Geoff are taking the project international by attempting to vist all 198 stations in Ireland and Northern Ireland. This has been made possible through the generous support of the public, with over 1,149 people backing the project on Kickstarter to make it a reality. 
+For 2019, Vicki and Geoff are taking the project international by attempting to visit all 198 stations in Ireland and Northern Ireland. This has been made possible through the generous support of the public, with over 1,149 people backing the project on Kickstarter to make it a reality. 
 
 The whole journey will take three weeks to complete, and we intend to set off in early spring 2019. Through film and social media, we want to share the whole experience with you and bring the railways of Ireland and Northern Ireland to life.
 
