@@ -24,5 +24,5 @@ Will appear here.
 
 ### All The Stations 2017
 
-For the list of videos from 2017, please see the <a href="ats2017">All The Stations 2017 page</a>.
+For the list of videos from 2017, please see the <a href="../ats2017">All The Stations 2017 page</a>.
 
