@@ -75,12 +75,13 @@ $( document ).ready(function() {
   var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/nsv.php", function(data) {
     // console.log( "success",data );
     stationsVisited = data.number_of_stations_visited;
-    if (data.number_of_stations_visited == 0) {
-      $('#counter-row').hide();
-      stationsVisited = 1; // no less than 1
-    } else {
+    // this time around we will show 0 stations visited
+    // if (data.number_of_stations_visited == 0) {
+    //  $('#counter-row').hide();
+    //  stationsVisited = 1; // no less than 1
+    // } else {
       doTheCounter();
-    }
+    // }
   })
   .fail(function() {
     // Hide if something goes wrong
