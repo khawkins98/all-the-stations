@@ -10,7 +10,7 @@ order: 5
 		<iframe style="width:100%;height:500px; border:0;" src="http://www.allthestations.co.uk/map/allthestations-map.php"></iframe>
     <h3 class="lead">Here's the complete list of railway stations in Ireland and Northern Ireland, so if you want to know if we're travelling to a certain station, you can search for it on this page here.</h3>
          <h3 class="lead">All The Stations are travelling to <em>all</em> 198 of these stations.</h3>
-	<h4><em>(We've also included a list of the 67 stops on the LUAS Dublin Tram system. These aren't part of the 198, but our Kickstarter funds have allowed us to spend a day and make a bonus video exploring the Tram system, so we thought we'd list their names here too!</em></h4>
+	<h3><em>(We've also included a list of the 67 stops on the LUAS Dublin Tram system. These aren't part of the 198, but our Kickstarter funds have allowed us to spend a day and make a bonus video exploring the Tram system, so we thought we'd list their names here too!</em></h3>
 		<p>Want to view this map by itself? <a href="http://www.allthestations.co.uk/map/">Head here</a>.</p>
   </div>
 </div>
