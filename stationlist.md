@@ -10,7 +10,7 @@ order: 5
 		<iframe style="width:100%;height:500px; border:0;" src="http://www.allthestations.co.uk/map/allthestations-map.php"></iframe>
     <h3 class="lead">Here's the complete list of railway stations in Ireland and Northern Ireland, so if you want to know if we're travelling to a certain station, you can search for it on this page here.</h3>
          <h3 class="lead">All The Stations are travelling to <em>all</em> 198 of these stations.</h3>
-	<h4>(We've also included a list of the 67 stops on the LUAS Dublin Tram system. These aren't part of the 198, but our Kickstarter funs allows us to spend a day and make a bonus video exploring the Tram system, so we thought we'd list their names here too!</h4>
+	<h4><em>(We've also included a list of the 67 stops on the LUAS Dublin Tram system. These aren't part of the 198, but our Kickstarter funds have allowed us to spend a day and make a bonus video exploring the Tram system, so we thought we'd list their names here too!</em></h4>
 		<p>Want to view this map by itself? <a href="http://www.allthestations.co.uk/map/">Head here</a>.</p>
   </div>
 </div>
@@ -25,7 +25,7 @@ order: 5
 <h3>Northern Ireland</h3><p class="small">Adelaide, Antrim, Ballycarry, Ballymena, Ballymoney, Balmoral, Bangor, Bangor West, Belfast Lanyon Place, Bellarena, Botanic, Carnalea, Carrickfergus, Castlerock, City Hospital, Clipperstown, Coleraine, Cullybackey, Cultra, Derriaghy, Derry/Londonderry, Dhu Varren, Downshire, Dunmurry, Finaghy, Glynn, Great Victoria Street, Greenisland, Helen's Bay, Hilden, Holywood, Jordanstown, Lambeg, Larne Harbour, Larne Town, Lisburn, Lurgan, Magheramorne, Marino, Moira, Mossley West, Newry, Portadown, Portrush, Poyntzpass, Scarva, Seahill, Sydenham, Titanic Quarter, Trooperslane, University, Whiteabbey, Whitehead, Yorkgate</p>
 					
 <h3>Dublin Trams (LUAS)</h3>
-<p class="small">Abbey Street, Balally, Ballyogan Wood, Beechwood, Belgard, Blackhorse, Bluebell, Broadstone DIT,Broombride, Brides Glen, Busáras, Cabra, Carrickmines, Central Park, Charlemont, Cheeverstown, Cherrywood, Citywest Campus, Connolly, Cookstown, Cowper, Dawson, Dominick, Drimnagh, Dundrum, Fatima, Fettercairn, Fortunestown, The Four Courts, The Gallops, Glencairn, Golden Bridge, George's Dock, Grangegorman, Heuston, Hospital, Kylemore, Harcourt, James's, Jervis, Kilmacud, Kingswood, Laughanstown, Leopardstown Valley, Marlborough, Mayor Square NCI, O'Connell Upper, O'Connel GPO, Parnell, The Point, Phibsborough, St. Stephen's Green, Museum, Rangelagh, Milltown, Red Cow, Stillorgan, Sandyford, Smithfield, Spencer Dock, Saggart, Tallaght, Trinity, Rialto, Suir Road, Westmoreland, Windy Arbour, 
+<p class="small">Abbey Street, Balally, Ballyogan Wood, Beechwood, Belgard, Blackhorse, Bluebell, Broadstone DIT, Broombride, Brides Glen, Busáras, Cabra, Carrickmines, Central Park, Charlemont, Cheeverstown, Cherrywood, Citywest Campus, Connolly, Cookstown, Cowper, Dawson, Dominick, Drimnagh, Dundrum, Fatima, Fettercairn, Fortunestown, The Four Courts, The Gallops, Glencairn, Golden Bridge, George's Dock, Grangegorman, Heuston, Hospital, Kylemore, Harcourt, James's, Jervis, Kilmacud, Kingswood, Laughanstown, Leopardstown Valley, Marlborough, Mayor Square NCI, Milltown,Museum, O'Connell Upper, O'Connel GPO, Parnell, The Point, Phibsborough, Rangelagh, Red Cow, Rialto, Saggart, Sandyford, Smithfield, Spencer Dock, Stillorgan, St. Stephen's Green, Suir Road, Tallaght, Trinity, Westmoreland, Windy Arbour, 
 </p>
 		      </div>
 		</div>
