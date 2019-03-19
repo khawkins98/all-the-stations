@@ -18,7 +18,7 @@ Our book, <strong>The Railway Adventures</strong>, is published by September Pub
 
 * <a href="https://www.amazon.co.uk/Railway-Adventures-Places-Trains-Stations/dp/1910463876/ref=sr_1_1?ie=UTF8&qid=1552759844&sr=8-1&keywords=The+Railway+Adventures">Amazon</a>
 
-![Cover](/static/images/uploads/The Railway Adventures - Cover.jpg){:height="260px" width="200px"}
+<img src="/static/images/uploads/The Railway Adventures - Cover.jpg" height="260px" width="200px" style="float:right;"/>
 
 <em>“This is a fantastic book. It's written in an engaging and accessible style, and the writers' enthusiasm shines through. Well chosen (and composed) photographs accompany the text, and it's full of interesting facts. It really does make you want to have your own adventure (and you should).” [Five stars!]</em>
 
