@@ -11,6 +11,9 @@ For all media and events enquiries, please contact us via <a href="mailto:press@
 
 ## All The Stations - Ireland
 
+- <a href="https://www.q102.ie/home/" target="_blank">Dublin&#39;s Q102</a>: <a href="/static/audio/DublinQ102-2019-03-20.mp3">20th March, 2019</a>
+- <a href="https://www.c103.ie/home/" target="_blank">Cork C103</a>: <a href="/static/audio/C102-2019-03-25.mp3">25th March, 2019</a>
+
 A list of media mentions for 2019 - Ireland and Northern Ireland - will appear here soon!
 
 ## All The Stations 2017
