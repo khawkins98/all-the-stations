@@ -37,7 +37,7 @@ Choose from and click through to:
 * <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/cymraeg/">Cymraeg T-Shirts</a>
 * <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/gaelic/">Scottish Gaelic T-Shirts</a> 
 * <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/kernow/">Cornish T-Shirts</a>
-* <a href="http://stores.clothes2order.com/dztzstore/all-the-stations/ireland/">Ireland T-Shirts</a>
+* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/ireland/">Ireland T-Shirts</a>
 * <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/specials/">Specials</a>
 * <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/hoodies/">Hoodies</a>
 * <a href="https://www.freewebstore.org/allthestationsmerch/All_The_Stations_Mug/p4859517_17573035.aspx">Mugs</a>
