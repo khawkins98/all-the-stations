@@ -1,7 +1,7 @@
 # Site settings
 name: All The Stations
 email: press@allthestations.co.uk
-domain: http://allthestations.co.uk
+domain: ///allthestations.co.uk
 baseurl: /
 permalink: pretty
 
