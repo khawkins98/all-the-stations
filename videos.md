@@ -42,7 +42,14 @@ The ultimate list of **all** the YouTube videos created as part of All The Stati
 
 ### Northern Ireland
 
-Will appear here.
+<span class="li rd">{% include partial_youtube.html id="fyP3Zc7deHk" title="We Can't Shake Dave - Episode 16, 9th April - Bangor and Larne" %}</span>
+<span class="li rd">{% include partial_youtube.html id="J7tuoc8Fd9M" title="What The Actual Dickens! - Episode 17, 10th April Belfast to Derry/Londonderry" %}</span>
+
+### Isle of Man
+
+<span class="li rd">{% include partial_youtube.html id="56bDs2ifvV0" title="Isle of Man Episode 1 - 12th July, Douglas to Port Erin" %}</span>
+<span class="li rd">{% include partial_youtube.html id="hkCUJ4_yDP8" title="Isle of Man Episode 2 - 13th July Douglas to Ramsey" %}</span>
+<span class="li rd">{% include partial_youtube.html id="fq51oqlhclc" title="Isle of Man Episode 3 - 14th July Groudle Glen and Laxey Mine Railway" %}</span>
 
 ### All The Stations 2017
 
