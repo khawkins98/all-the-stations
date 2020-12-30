@@ -10,7 +10,11 @@ Want more All The Stations in your life? Have no fear, we have all your merchand
 
 ### To The Book!
 
-Our book, <strong>The Railway Adventures</strong>, is published by September Publishing and was released in October 2018. It accompanies our 2017 All The Stations adventure, when we travelled to every single railway station in Great Britain. It is available from any of the following online stores:
+Our book, <strong>The Railway Adventures</strong>, is published by September Publishing and was released in October 2018. It accompanies our 2017 All The Stations adventure, when we travelled to every single railway station in Great Britain. It's available from our 'All The Stations' bookshop, here:
+
+* <a href="https://uk.bookshop.org/shop/allthestations">All The Stations Bookshop</a> 
+
+Or any of these other online retailers:
 
 * <a href="https://www.septemberpublishing.org/product/the-railway-adventures/">September Publishing</a> 
 
