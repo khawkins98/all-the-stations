@@ -29,22 +29,11 @@ Our book, <strong>The Railway Adventures</strong>, is published by September Pub
 
 Official All The Stations merchandise is provided by DZTZ. Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing the merchandise items. Please remember, we’re only tiny (a bit like the platform at Beauly station!), so please be patient and Dan will get your merch to you as soon as he can.
 
-Choose from and click through to:
+For all T-Shirts, Hoodies, Mugs and Badges, goto the Merch site at:
 
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/adults/">Adults T-Shirts</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/kids/">Kids T-Shirts</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/ladies/">Ladies cut</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/cymraeg/">Cymraeg T-Shirts</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/gaelic/">Scottish Gaelic T-Shirts</a> 
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/kernow/">Cornish T-Shirts</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/ireland/">Ireland T-Shirts</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/specials/">Specials</a>
-* <a href="https://stores.clothes2order.com/dztzstore/all-the-stations/hoodies/">Hoodies</a>
-* <a href="https://www.freewebstore.org/allthestationsmerch/All_The_Stations_Mug/p4859517_17573035.aspx">Mugs</a>
-* <a href="https://www.freewebstore.org/allthestationsmerch/Badges/cat4859518_3875679.aspx">Badges</a>
-* <a href="https://www.freewebstore.org/allthestationsmerch/Oyster/cat4859518_3875674.aspx">Travel card holders</a> 
+* <a href="https://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
 
 <img src="/static/images/uploads/All The Stations tshirts.png" alt="Geoff &amp; Vicky presenting T-Shirts"/>
 
-REMEMBER, these are the only official ATS merchandise websites, any others are but mere imitations. 
+This is the only official ATS merchandise website, imitations have appeared on Amazon that are nothing to do with us!
 
