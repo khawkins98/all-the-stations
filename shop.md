@@ -33,7 +33,9 @@ For all T-Shirts, Hoodies, Mugs and Badges, goto the Merch site at:
 
 * <a href="https://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
 
+(Please Note : This is the only official ATS merchandise website, imitations have appeared on Amazon that are nothing to do with us!)
+
 <img src="/static/images/uploads/All The Stations tshirts.png" alt="Geoff &amp; Vicky presenting T-Shirts"/>
 
-This is the only official ATS merchandise website, imitations have appeared on Amazon that are nothing to do with us!
+
 
