@@ -72,7 +72,7 @@ $( document ).ready(function() {
   var stationsVisited = 0;
 
   // get the current count
-  var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/nsv.php", function(data) {
+  var jqxhr = $.getJSON( "https://www.allthestations.co.uk/map/nsv.php", function(data) {
     // console.log( "success",data );
     stationsVisited = data.number_of_stations_visited;
     // this time around we will show 0 stations visited
