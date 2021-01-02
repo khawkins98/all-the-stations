@@ -6,11 +6,9 @@ order: 5
 ---
 <div class="row padding-bottom-xlarge bgbox primary">
 	<div class="columns medium-11 columns medium-push-1 padding-top-xlarge">
-    <h1><strong>The 198 Stations</strong> of Ireland and Northern Ireland</h1>
-		<iframe style="width:100%;height:500px; border:0;" src="http://www.allthestations.co.uk/map/allthestations-map.php"></iframe>
-    <h3 class="lead">Here's the complete list of railway stations in Ireland and Northern Ireland, so if you want to know if we're travelling to a certain station, you can search for it on this page here.</h3>
-         <h3 class="lead">All The Stations are travelling to <em>all</em> 198 of these stations.</h3>
-		<p>Want to view this map by itself? <a href="http://www.allthestations.co.uk/map/">Head here</a>.</p>
+    <h1><strong>A List of All The Stations!</h1>
+    <h3 class="lead">The 198 station of Ireland and Northern Ireland</h3>
+         <p>To see these stations on amp, <a href="http://www.allthestations.co.uk/map/">goto the map page here</a>.</p>
   </div>
 </div>
 
