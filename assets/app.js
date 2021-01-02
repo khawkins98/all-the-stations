@@ -115,11 +115,11 @@ $( document ).ready(function() {
   }
 
   // get previous episodes
-  var jqxhr = $.getJSON( "http://www.allthestations.co.uk/map/yt-get-rec-eps.php", function(data) {
+  var jqxhr = $.getJSON( "https://www.allthestations.co.uk/map/yt-get-rec-eps.php", function(data) {
     // console.log( "success",data );
     iHtml = data.previous_episodes;
     if (iHtml != "") {
-      $('#prevEp').html("<h3>Further episodes...</h3>" + iHtml + "<br/>... and many more!<br/><table><tr style=\"background-color:#fff\"><td style=\"vertical-align:middle\"><a href='http://www.youtube.com/allthestations/videos'>Click here to see the complete journey on YouTube!</a></td><td><iframe src=\"https://www.youtube.com/subscribe_widget?p=7ttKX46nJxUeXZ0aoD4Q5g\" style=\"width:225px;border:0;height:80px\"/></td></tr></table>");
+      $('#prevEp').html("<h3>Further episodes...</h3>" + iHtml + "<br/>... and many more!<br/><table><tr style=\"background-color:#fff\"><td style=\"vertical-align:middle\"><a href='http://www.youtube.com/allthestations/videos'>Click here to see the complete journey on YouTube!</a></td><td><script src=\"https://apis.google.com/js/platform.js\"></script><div class=\"g-ytsubscribe\" data-channelid=\"UC7ttKX46nJxUeXZ0aoD4Q5g\" data-layout=\"full\" data-count=\"default\"></div></td></tr></table>");
     } else {
       $('#prevEp').hide();
     }
