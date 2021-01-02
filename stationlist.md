@@ -5,9 +5,10 @@ group: "not_in_local_navigation"
 order: 5
 ---
 <div class="row padding-bottom-xlarge bgbox primary">
-
-    <h1><strong>A List of All The Stations!</h1>
+	<div class="columns medium-11 columns medium-push-1 padding-top-xlarge">
+    <h1><strong>A List of All The Stations!</strong></h1>
          <p>To see the locaion of the stations on map, <a href="http://www.allthestations.co.uk/map/">goto the map page here</a>.</p>
+	</div>
 </div>
 
 <div class="row padding-bottom-xlarge padding-top-xlarge">
