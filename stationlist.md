@@ -7,14 +7,13 @@ order: 5
 <div class="row padding-bottom-xlarge bgbox primary">
 	<div class="columns medium-11 columns medium-push-1 padding-top-xlarge">
     <h1><strong>A List of All The Stations!</h1>
-    <h3 class="lead">The 198 station of Ireland and Northern Ireland</h3>
-         <p>To see these stations on amp, <a href="http://www.allthestations.co.uk/map/">goto the map page here</a>.</p>
+         <p>To see the locaion of the stations on map, <a href="http://www.allthestations.co.uk/map/">goto the map page here</a>.</p>
   </div>
 </div>
 
 <div class="row padding-bottom-xlarge padding-top-xlarge">
 	<div class="columns medium-10 columns medium-push-1 ">
-				<h2>A list of all the railway stations</h2>
+				<h2>The 198 stations of Ireland and Northern Ireland</h2>
 				<div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1">
 					<h3>Republic of Ireland</h3>
 				  <p class="small">Adamstown, Ardrahan, Arklow, Ashtown, Athenry, Athlone, Athy, Attymon, Balbriggan, Ballina, Ballinasloe, Ballybrophy, Ballyhaunis, Ballymote, Banteer, Bayside, Birdhill, Blackrock, Booterstown, Boyle, Bray, Broombridge, Cahir, Carlow, Carrick-on-Shannon, Carrick-on-Suir, Carrigaloe, Carrigtwohill, Castlebar, Castleconnell, Castleknock, Castlerea, Charleville, Clara, Claremorris, Clondalkin Fonthill, Clongriffin, Clonmel, Clonsilla, Clontarf Road, Cloughjordan, Cobh, Collooney, Coolmine, Cork, Craughwell, Dalkey, Docklands, Donabate, Drogheda, Dromod, Drumcondra, Dublin Connolly, Dublin Heuston, Dublin Pearse, Dún Laoghaire, Dunboyne, Dundalk, Edgeworthstown, Enfield, Ennis, Enniscorthy, Farranfore, Fota, Foxford, Galway, Glenageary, Glounthaune, Gorey, Gormanston, Gort, Grand Canal Dock, Greystones, Hansfield, Harmonstown, Hazelhatch & Celbridge, Howth, Howth Junction & Donaghmede, Kilbarrack, Kilcock, Kilcoole, Kildare, Kilkenny, Killarney, Killester, Killiney, Lansdowne Road, Laytown, Leixlip (Confey), Leixlip Louisa Bridge, Limerick, Limerick Junction, Little Island, Longford, M3 Parkway, Malahide, Mallow, Manulla Junction, Maynooth, Midleton, Millstreet, Monasterevin, Muine Bheag, Mullingar, Navan Road Parkway, Nenagh, Newbridge, Oranmore, Park West & Cherry Orchard, Portarlington, Portlaoise, Portmarnock, Raheny, Rathdrum, Rathmore, Roscommon, Roscrea, Rosslare Europort, Rosslare Strand, Rush and Lusk, Rushbrooke, Sallins & Naas, Salthill & Monkstown, Sandycove & Glasthule, Sandymount, Seapoint, Shankill, Sixmilebridge, Skerries, Sligo, Sutton, Sydney Parade, Tara Street, Templemore, Thomastown, Thurles, Tipperary, Tralee, Tullamore, Waterford, Westport, Wexford, Wicklow, Woodlawn
@@ -25,6 +24,12 @@ order: 5
 <p class="small"><strong>(We've also included a list of the 67 stops on the LUAS Dublin Tram system. These aren't part of the 198, but our Kickstarter funds have allowed us to spend a day and make a bonus video exploring the Tram system, so we thought we'd list their names here too!</strong></p>
 
 <p class="small">Abbey Street, Balally, Ballyogan Wood, Beechwood, Belgard, Blackhorse, Bluebell, Broadstone DIT, Broombridge, Brides Glen, Busáras, Cabra, Carrickmines, Central Park, Charlemont, Cheeverstown, Cherrywood, Citywest Campus, Connolly, Cookstown, Cowper, Dawson, Dominick, Drimnagh, Dundrum, Fatima, Fettercairn, Fortunestown, The Four Courts, The Gallops, Glencairn, Golden Bridge, George's Dock, Grangegorman, Heuston, Hospital, Kylemore, Harcourt, James's, Jervis, Kilmacud, Kingswood, Laughanstown, Leopardstown Valley, Marlborough, Mayor Square NCI, Milltown,Museum, O'Connell Upper, O'Connel GPO, Parnell, The Point, Phibsborough, Rangelagh, Red Cow, Rialto, Saggart, Sandyford, Smithfield, Spencer Dock, Stillorgan, St. Stephen's Green, Suir Road, Tallaght, Trinity, Westmoreland, Windy Arbour.</p>
+
+<h3>The Isle of Man)</h3>
+<p class="small"><strong>Isle of Man Steam Railway</strong></p>
+<p class="small">Douglas, Port Soderick, Santon, Ballasalla, Ronaldsway Halt, Castletown, Schoohill, Ballabeg, Colby, The Level, Port St Mary, Port Erin</p>
+<p class="small"><strong>Isle of Man Steam Railway</strong></p>
+<p class="small">Douglas (Derby Castle), Groudle Glen, Baldribe Halt, Ballbeg Halt, South Cape, Laxey, Minorca, Dhoon Glen Halt, Dhoon Glen, Glen Mona, Ballaglass Glen Halt, Cornaa, Ballajora, Lewaigue, Ramsey</p>
 		      </div>
 		</div>
 	</div>
