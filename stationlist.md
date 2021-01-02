@@ -25,7 +25,7 @@ order: 5
 
 <p class="small">Abbey Street, Balally, Ballyogan Wood, Beechwood, Belgard, Blackhorse, Bluebell, Broadstone DIT, Broombridge, Brides Glen, Busáras, Cabra, Carrickmines, Central Park, Charlemont, Cheeverstown, Cherrywood, Citywest Campus, Connolly, Cookstown, Cowper, Dawson, Dominick, Drimnagh, Dundrum, Fatima, Fettercairn, Fortunestown, The Four Courts, The Gallops, Glencairn, Golden Bridge, George's Dock, Grangegorman, Heuston, Hospital, Kylemore, Harcourt, James's, Jervis, Kilmacud, Kingswood, Laughanstown, Leopardstown Valley, Marlborough, Mayor Square NCI, Milltown,Museum, O'Connell Upper, O'Connel GPO, Parnell, The Point, Phibsborough, Rangelagh, Red Cow, Rialto, Saggart, Sandyford, Smithfield, Spencer Dock, Stillorgan, St. Stephen's Green, Suir Road, Tallaght, Trinity, Westmoreland, Windy Arbour.</p>
 
-<h2>The Isle of Man)</h2>
+<h2>The Isle of Man</h2>
 <p class="small"><strong>Isle of Man Steam Railway</strong></p>
 <p class="small">Douglas, Port Soderick, Santon, Ballasalla, Ronaldsway Halt, Castletown, Schoohill, Ballabeg, Colby, The Level, Port St Mary, Port Erin</p>
 <p class="small"><strong>Isle of Man Steam Railway</strong></p>
