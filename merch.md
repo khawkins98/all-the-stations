@@ -1,5 +1,5 @@
 ---
 title: Merchandise
 redirect_to:
-  - https://allthestations.dztz.co.uk/
+  - http://allthestations.dztz.co.uk/
 ---
