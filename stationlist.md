@@ -1,7 +1,7 @@
 ---
 layout: wide
 title: The Map
-group: "in_local_navigation"
+group: "not_in_local_navigation"
 order: 5
 ---
 <div class="row padding-bottom-xlarge bgbox primary">
