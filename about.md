@@ -14,7 +14,7 @@ All The Stations are creating an online video series of adventure and travel on 
 
 The original All The Stations voyage took place during summer 2017, and saw the duo travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 4 million views on YouTube and a book about the journey, The Railway Adventures, is an Amazon best-seller.
 
-In spring 2019, Vicki and Geoff took the project international and travelled to all 198 stations in Ireland and Northern Ireland, made possible through the generous support of the public, with people backing the project on Kickstarter to make it a reality.
+In spring 2019, Vicki and Geoff took the project international and travelled to all 198 stations in Ireland and Northern Ireland, made possible through the generous support of the public, with people backing the project on Kickstarter to make it a reality. This was followed up by travelling to all 86 stops in the Isle Of Man on their railways too.
 
 All The Stations explores the communities connected to the lines interviewing local people and those who work on the railways, to find out about their experiences of travelling by train.  
 
@@ -45,4 +45,4 @@ More of your questions are answered over on the Kickstarter page <a href="https:
 
 ## Crowd Funding
 
-Our journey will begin in April 2019 and has been made possible through overwhelming public support. We launched <a href="https://www.kickstarter.com/projects/562621903/all-the-stations-ireland/" target="new">a Kickstarter campaign in February</a> and in <strong>under an hour</strong> reached our initial target of £14,500. We went on to raise £26,350 in total which will allow us to produce more rich and engaging content for everyone to enjoy. We would like to say a big thank you to all our supporters.
+We would like to say a <em>huge thank</em> you to all our supporters who have funded us through Kickstarter crowdfunding to make these journeys possible.
