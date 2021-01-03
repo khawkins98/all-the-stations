@@ -27,9 +27,16 @@ order: 5
 
 <h2>The Isle of Man</h2>
 <p class="small"><strong>Isle of Man Steam Railway</strong></p>
-<p class="small">Douglas, Port Soderick, Santon, Ballasalla, Ronaldsway Halt, Castletown, Schoohill, Ballabeg, Colby, The Level, Port St Mary, Port Erin</p>
-<p class="small"><strong>Isle of Man Steam Railway</strong></p>
-<p class="small">Douglas (Derby Castle), Groudle Glen, Baldribe Halt, Ballbeg Halt, South Cape, Laxey, Minorca, Dhoon Glen Halt, Dhoon Glen, Glen Mona, Ballaglass Glen Halt, Cornaa, Ballajora, Lewaigue, Ramsey</p>
+<p class="small">Douglas, Port Soderick, Santon, Ballasalla, Ronaldsway Halt, Castletown, Ballabeg, Colby, The Level, Port St Mary, Port Erin</p>
+<p class="small"><strong>Manx Electric Railway</strong></p>
+<p class="small">The M.E.R also has halts known as 'poles' along the route which may not be shown on all maps, but this is the official list - major stops shown in bold.</p>
+<p class="small"><strong>Douglas (Derby Castle)</strong>, Derby Castle Car Sheds, Port Jack, Onchan Head, Boncompte's, Majestic, Braeside, Far End, Howstrake, Groudle Old Road, <strong>Groudle Glen</strong>, Eskadale, Halfway LC, Scarffe's Crossing, Ballameanagh, <strong>Baldrine</strong>, Sunnycot, Garwick Glen, Ballagawne, <strong>Ballabeg</strong>, Lamb's Crossing, <strong>Fairy Cottage</strong>, Preston's Crossing, <strong>South Cape</strong>, Lacey Car Shed, Laxey, Dumbell's Row, <strong>Minorca</strong>, Laxey Old Road, Skinscoe, Ballamoar Bottom, Ballamoar Top, Ballaragh, Bulgham, <strong>Dhoon Glen</strong>, Burn's Crossing, Dhoon Farm, Dhoon Quarry, Thalloo Mitchell, Brown's Crossing, Ballellin, Ballig, Ballasholague, Corkhill's Crossing, <strong>Glen Mona</strong>, The Garey, Ballagorry, Watson's Crossing, Dolland, <strong>Ballaglass Glen</strong>, <strong>Cornaa</strong>, Murray's Road, Ballaskeig, Ballacannall, Ballafayle Karruish, Rome's Crossing, <strong>Ballajora</strong>, Ballajora Quarry, <strong>Dreemskerry</strong>, Crowville, Dreemskerry Farm, <strong>Lewaigue</strong>, <strong>Belle Vue</strong>, Ballure, Queen's Valley, Walpole Drive, Queen's Drive, Ballastowell, <strong>Ramsey</strong></p>
+
+<p class="small"><strong>Groudle Glen Railway</strong></p>
+<p class="small">Lhen Coan, Lime Kiln Halt, Sea Lion Rocks</p>
+<p class="small"><strong>Great Laxy Mine Railway</strong></p>
+<p class="small">Valley Gardens, Mines Yard</p>
+
 		      </div>
 		</div>
 	</div>
