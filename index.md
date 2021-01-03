@@ -10,7 +10,7 @@ order: 1
 
 <p>In the summer of 2017 All The Stations travelled to all 2,563 Railway Statation in England, Wales and Scotland.</p>
 
-<p>In the spring of 2019 we travelled to all 198 Stations in Ireland and Northern Ireland, and then also in summer 2019, travelled to all the stations on the Isle of Man.</p>
+<p>In the spring of 2019 we travelled to all 198 Stations in Ireland and Northern Ireland, and then as a bonus in the summer of 2019, travelled to all the stops on the Isle of Man as well.</p>
 
 <p>Along the way, Vicki and Geoff met the communities connected to the lines, interviewed local people and those who work on the railways, and found out more about their experiences of travelling by train.</p> 
 
