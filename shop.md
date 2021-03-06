@@ -35,7 +35,7 @@ Official All The Stations merchandise is provided by DZTZ. Our grateful thanks t
 
 For all T-Shirts, Hoodies, Mugs and Badges, goto the Merch site at:
 
-* <a href="https://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
+* <a href="http://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
 
 (Please Note : This is the only official ATS merchandise website, imitations have appeared on Amazon that are nothing to do with us!)
 
