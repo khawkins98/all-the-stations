@@ -33,9 +33,9 @@ Or any of these other online retailers:
 
 Official All The Stations merchandise is provided by DZTZ. Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing the merchandise items. Please remember, we’re only tiny (a bit like the platform at Beauly station!), so please be patient and Dan will get your merch to you as soon as he can.
 
-For all T-Shirts, Hoodies, Mugs and Badges, goto the Merch site at:
+For all T-Shirts, Hoodies, Mugs, Badges and more, goto the Merch site at:
 
-* <a href="https://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
+* <a href="http://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
 
 (Please Note : This is the only official ATS merchandise website, imitations have appeared on Amazon that are nothing to do with us!)
 
