@@ -12,7 +12,7 @@ Want more All The Stations in your life? Have no fear, we have all your merchand
 
 Official All The Stations merchandise is provided by DZTZ. Our grateful thanks to Dan, our legend in a loud shirt, for creating and managing the merchandise items. Please remember, we’re only tiny (a bit like the platform at Beauly station!), so please be patient and Dan will get your merch to you as soon as he can.
 
-For all T-Shirts, Hoodies, Mugs, Badges and more, goto the Merch site at:
+For all T-Shirts, Hoodies, Mugs, Badges and more, goto the Merch by following this link here:
 
 * <a href="http://allthestations.dztz.co.uk/">All The Stations Merch Store</a>
 
@@ -37,6 +37,8 @@ Or any of these other online retailers:
 <em>“This is a fantastic book. It's written in an engaging and accessible style, and the writers' enthusiasm shines through. Well chosen (and composed) photographs accompany the text, and it's full of interesting facts. It really does make you want to have your own adventure (and you should).” [Five stars!]</em>
 
 <em>“I thought I would already know all the information in this book - but I was wrong. The illustrations, beautiful graphics, lists and charts presented facts in a good-looking and concise way, and the tone of the writing was warm and easy to read. A perfect coffee-table book for the rail enthusiast.” [Five stars!]</em>
+
+How to wear your 'All The Stations' T-Shirt on a train ...
 
 <img src="/static/images/uploads/All The Stations tshirts.png" alt="Geoff &amp; Vicky presenting T-Shirts"/>
 
