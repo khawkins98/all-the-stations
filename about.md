@@ -12,7 +12,7 @@ order: 1
 
 All The Stations are creating an on-line video series of adventure and travel on railways in Great Britain and Ireland, led by Vicki Pipe and Geoff Marshall.
 
-The original All The Stations journey took place during the summer of 2017, and saw the duo travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 4 million views on YouTube and a book about the journey, The Railway Adventures, is an Amazon best-seller.
+The original All The Stations voyage took place during the summer of 2017, and saw the duo travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 4 million views on YouTube and a book about the journey, The Railway Adventures, is an Amazon best-seller.
 
 In spring 2019, Vicki and Geoff took the project international and travelled to all 198 stations in Ireland and Northern Ireland, made possible through the generous support of the public, with people backing the project on Kickstarter to make it a reality. This was followed up by travelling to all 86 stops in the Isle Of Man on their railways too.
 
