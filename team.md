@@ -22,7 +22,7 @@ order: 7
  			</div>
  			<h3>Vicki Pipe</h3>
             <p>Vicki’s curiosity in railways lays with the stories of social change and how public transport has altered our sense of space and surroundings.</p>       
- 			<p>Vicki is the co-creator of All The Stations, author of The Railway Adventures and Great British Railways: 50 Things to See and Do. She is also a regular columnist for Modern Railways magazine, with a focus on Community Rail.</p> 
+ 			<p>Vicki is the co-creator of All The Stations, author of <a href="https://septemberpublishing.org/product/the-railway-adventures/"target="new">The Railway Adventures</a> and Great British Railways: 50 Things to See and Do. She is also a regular columnist for Modern Railways magazine, with a focus on Community Rail.</p> 
 
 <p>When not writing about, or travelling on trains Vicki works in the wonderful world of museums. She has trained and managed teams and collaborated with artists and communities from around the world.</p>
 
