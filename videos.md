@@ -16,7 +16,6 @@ The ultimate list of **all** the YouTube videos created as part of All The Stati
 
 <ul>
 <span class="li bl"><span class="bk">Videos on the main All The Stations channel</span></span>
-<span class="li rd"><span class="bk">Extra Videos on Geoff's personal channel</span></span>
 </ul>
 
 ### Republic of Ireland
@@ -43,16 +42,16 @@ The ultimate list of **all** the YouTube videos created as part of All The Stati
 ### Northern Ireland
 
 <ul>
-<span class="li rd">{% include partial_youtube.html id="fyP3Zc7deHk" title="We Can't Shake Dave - Episode 16, 9th April - Bangor and Larne" %}</span>
-<span class="li rd">{% include partial_youtube.html id="J7tuoc8Fd9M" title="What The Actual Dickens! - Episode 17, 10th April Belfast to Derry/Londonderry" %}</span>
+<span class="li bl">{% include partial_youtube.html id="fyP3Zc7deHk" title="We Can't Shake Dave - Episode 16, 9th April - Bangor and Larne" %}</span>
+<span class="li bl">{% include partial_youtube.html id="J7tuoc8Fd9M" title="What The Actual Dickens! - Episode 17, 10th April Belfast to Derry/Londonderry" %}</span>
 </ul>
 
 ### Isle of Man
 
 <ul>
-<span class="li rd">{% include partial_youtube.html id="56bDs2ifvV0" title="Isle of Man Episode 1 - 12th July, Douglas to Port Erin" %}</span>
-<span class="li rd">{% include partial_youtube.html id="hkCUJ4_yDP8" title="Isle of Man Episode 2 - 13th July Douglas to Ramsey" %}</span>
-<span class="li rd">{% include partial_youtube.html id="fq51oqlhclc" title="Isle of Man Episode 3 - 14th July Groudle Glen and Laxey Mine Railway" %}</span>
+<span class="li bl">{% include partial_youtube.html id="56bDs2ifvV0" title="Isle of Man Episode 1 - 12th July, Douglas to Port Erin" %}</span>
+<span class="li bl">{% include partial_youtube.html id="hkCUJ4_yDP8" title="Isle of Man Episode 2 - 13th July Douglas to Ramsey" %}</span>
+<span class="li bl">{% include partial_youtube.html id="fq51oqlhclc" title="Isle of Man Episode 3 - 14th July Groudle Glen and Laxey Mine Railway" %}</span>
 </ul>
 
 ### All The Stations 2017
