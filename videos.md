@@ -12,7 +12,7 @@ order: 3
 </style>
 ## All The Stations 2019
 
-![Seapoint Station](/static/images/uploads/Seapoint Station.JPG)
+![Seapoint Station](/static/images/uploads/Seapoint Station.jpg)
 
 ### Republic of Ireland
 
