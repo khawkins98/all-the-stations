@@ -5,8 +5,7 @@ group: "not_in_local_navigation"
 order: 1
 ---
 
-<h3><strong>All The Stations</strong></h3>
-<h3>Travelling to all railway stations Great Britain, Ireland, and the Isle of Man</h3>
+<h3>Travelling to all the stations in Great Britain, Ireland, and the Isle of Man</h3>
 
 <p>In the summer of 2017 All The Stations travelled to all 2,563 railway stations in England, Wales and Scotland.</p>
 
@@ -21,7 +20,7 @@ order: 1
 <p><a class="button readmore margin-bottom-none" href="http://www.youtube.com/allthestations"><i class="fa fa-youtube-play" aria-hidden="true"></i> Watch on YouTube</a></p>
 <p><a class="readmore" href="/about">More about the project</a></p>
 <hr/>
-<p>There is also a <a href="https://www.youtube.com/channel/UCV9iG52K1qGR1jv00oDBI4w">channel</a> that recaps the live content shared via social media.</p>
+<p>There is also a <a href="https://www.youtube.com/channel/UCV9iG52K1qGR1jv00oDBI4w">channel</a> that recaps all our live.</p>
 <div class="videoWrapper">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHZ5cT1o1xLLugl6FeURrqedYZmbGAdIx&enablejsapi=1&origin=http%3A%2F%2Fwww.allthestations.co.uk" frameborder="0" allowfullscreen></iframe>
 </div>
