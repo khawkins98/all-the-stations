@@ -19,12 +19,14 @@ In spring 2019, Vicki and Geoff took the project international and travelled to 
 All The Stations videos explore the communities connected to the lines, and feature interviews with local people and those who work on the railways, to find out about their experiences of travelling by train.  
 
 
+
 ## Crowd Funding
 
 All The Stations was made possible through the generous support of Kickstarter donations. The team would like to extend a huge <strong>thank you</strong> to everyone who gave so generously to make All The Stations a reality. 
 
 
 <a name="rules"></a>
+
 
 
 ## Rules 
@@ -40,6 +42,7 @@ When watching All The Stations you should understand the rules of the project. T
 5. It was not a race. All The Stations was a team effort to cover all the stations, with cameras rolling. 
 
 
+
 ## What's Next
 
 Since 2017, Vicki and Geoff have enjoyed travelling the UK and Ireland as All The Stations and sharing their many journeys with followers and supporters along the way.
@@ -50,6 +53,6 @@ All The Stations' content will continue to be hosted and shared online via the w
 
 As All The Stations makes this new transition, we’d like to thank you for all your support, kindness and generosity, and hope you will be as keen to discover more about our future work as individuals as you have been about our projects together.
 
-To the Trains! 
-Vicki and Geoff
+To the Trains!<br>
+Vicki and Geoff<br>
 March 2022
