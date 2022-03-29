@@ -10,39 +10,46 @@ order: 1
 
 ## About
 
-All The Stations are creating an on-line video series of adventure and travel on railways in Great Britain and Ireland, led by Vicki Pipe and Geoff Marshall.
+All The Stations is an on-line video series of adventures and travel on railways in Great Britain and Ireland, led by Vicki Pipe and Geoff Marshall.
 
-The original All The Stations voyage took place during the summer of 2017, and saw the duo travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 4 million views on YouTube and a book about the journey, The Railway Adventures, is an Amazon best-seller.
+The original All The Stations voyage took place during the summer of 2017, and saw Vicki and Geoff travel to all 2,563 railway stations in Great Britain. The 59 videos from this expedition have so far accumulated over 5 million views on YouTube. A book about the journey, The Railway Adventures, later became an Amazon best-seller.
 
-In spring 2019, Vicki and Geoff took the project international and travelled to all 198 stations in Ireland and Northern Ireland, made possible through the generous support of the public, with people backing the project on Kickstarter to make it a reality. This was followed up by travelling to all 86 stops in the Isle Of Man on their railways too.
+In spring 2019, Vicki and Geoff took the project international and travelled to all 198 stations in Ireland and Northern Ireland, as well as visiting all 86 stations along the railways of the Isle Of Man.
 
-All The Stations explores the communities connected to the lines interviewing local people and those who work on the railways, to find out about their experiences of travelling by train.  
-
-
-<a name="rules"></a>
-
-### How can you follow along?
-
-All The Stations:
-
-•	Posts professionally edited videos on YouTube that document the journey and bring you closer to the experience. There will be one video created for each day we spend travelling on the rails.
-
-•	Keeps you in touch with our daily progress using Facebook Live, Twitter and photographs on Instagram - all as it happens.
-
-
-## Rules 
-
-### What counts as having visited each station?
-
-1. At each station we <strong>must</strong> either arrive or leave on a scheduled train that is timetabled to stop. Fast trains that pass through do not count. 
-2. We do <strong>not</strong> have to leave the train at every station, but we will get off at some of the most interesting stations to capture footage of the surrounding areas. 
-3. Unlike England, Wales and Scotland, Ireland had no request stops, so there's no special rule this time to have to deal with them!
-
-And finally, it’s not a race to do this in the fastest time possible, it’s a team effort between two people to cover all the stations, with the cameras rolling.
-
-More of your questions are answered over on the Kickstarter page <a href="https://www.kickstarter.com/projects/562621903/all-the-stations/faqs" target="new">in the FAQ section</a>, have a read!
+All The Stations videos explore the communities connected to the lines, and feature interviews with local people and those who work on the railways, to find out about their experiences of travelling by train.  
 
 
 ## Crowd Funding
 
-We would like to say a <em>huge thank</em> you to all our supporters who have funded us through Kickstarter crowdfunding to make these journeys possible.
+All The Stations was made possible through the generous support of Kickstarter donations. The team would like to extend a huge <strong>thank you</strong> to everyone who gave so generously to make All The Stations a reality. 
+
+
+<a name="rules"></a>
+
+
+## Rules 
+
+When watching All The Stations you should understand the rules of the project. The following rules helped to define the journey, and determined the routes that were followed along the way. 
+
+### What counts as having visited each station?
+
+1. At each station we had to either arrive or leave on a scheduled train that was timetabled to stop. Fast trains that passed through did not count. 
+2. We did <strong>not</strong> have to leave the train at every station, but we did get off at some of the most interesting stations to capture footage of the surrounding areas. 
+3. In England, Wales and Scotland request stops had a special rule. As long as the train we were on was able to stop, if requested, then we could count it as having been visited (even if no one actually got off). 
+4. Ireland had no request stops, so there were no special rules to deal with them!
+5. It was not a race. All The Stations was a team effort to cover all the stations, with cameras rolling. 
+
+
+## What's Next
+
+Since 2017, Vicki and Geoff have enjoyed travelling the UK and Ireland as All The Stations and sharing their many journeys with followers and supporters along the way.
+
+In a change to your scheduled services, we would now like to share the news that Vicki and Geoff will no longer be taking any future journeys together. Not all passengers reach the same destination, but that doesn’t mean they didn’t enjoy their time together along the way.
+
+All The Stations' content will continue to be hosted and shared online via the website, social media and YouTube as before. Our hope is new and existing followers will continue to enjoy the content we so enjoyed creating. 
+
+As All The Stations makes this new transition, we’d like to thank you for all your support, kindness and generosity, and hope you will be as keen to discover more about our future work as individuals as you have been about our projects together.
+
+To the Trains! 
+Vicki and Geoff
+March 2022
