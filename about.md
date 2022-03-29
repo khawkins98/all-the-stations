@@ -45,13 +45,13 @@ When watching All The Stations you should understand the rules of the project. T
 
 ## What's Next
 
-Since 2017, Vicki and Geoff have enjoyed travelling the UK and Ireland as All The Stations and sharing their many journeys with followers and supporters along the way.
+Since 2017, Geoff and Vicki have enjoyed travelling the UK and Ireland as All The Stations and sharing their many journeys with followers and supporters along the way.
 
-In a change to your scheduled services, we would now like to share the news that Vicki and Geoff will no longer be taking any future journeys together. Not all passengers reach the same destination, but that doesn’t mean they didn’t enjoy their time together along the way.
+In a change to your scheduled services, we would now like to share the news that Geoff and Vicki will no longer be taking any future journeys together. Not all passengers reach the same destination, but that doesn’t mean they didn’t enjoy their time together along the way.
 
 All The Stations' content will continue to be hosted and shared online via the website, social media and YouTube as before. Our hope is new and existing followers will continue to enjoy the content we so enjoyed creating. 
 
 As All The Stations makes this new transition, we’d like to thank you for all your support, kindness and generosity, and hope you will be as keen to discover more about our future work as individuals as you have been about our projects together.
 
 To the Trains!<br>
-Vicki and Geoff<br>
+Geoff and Vicki<br>
