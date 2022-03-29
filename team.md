@@ -22,11 +22,10 @@ order: 7
  				<img src="/static/images/vicki.jpg" class="img-rounded">
  			</div>
  			<h3>Vicki Pipe</h3>
- 			<p>Vicki is a presenter and voiceover artist for YouTube, TV, and Radio. Co-creator of All The Stations, author of The Railway Adventures and Improviser with LadyProv.</p>
+            <p>Vicki’s curiosity in railways lays with the stories of social change and how public transport has altered our sense of space and surroundings.</p>       
+ 			<p>Vicki is the co-creator of All The Stations, author of The Railway Adventures and Greant British Railways: 50 Things to See and Do.She is also a regular columnist for Modern Railways magazine, with a focus on Community Rail. 
 
-<p>When not making videos, or travelling on trains Vicki works in museums. She has trained and managed teams and collaborated with artists and communities from around the world.</p>
-
-<p>Vicki’s curiosity in railways lays with the stories of social change and how public transport has altered our sense of space and surroundings.</p> 
+<p>When not writing about, or travelling on trains Vicki works in the wonderful world of museums. She has trained and managed teams and collaborated with artists and communities from around the world.</p>
 
  		</div>
  	</div>
