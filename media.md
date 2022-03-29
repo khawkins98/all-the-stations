@@ -2,7 +2,7 @@
 layout: default
 title: Media
 group: "in_local_navigation"
-order: 6
+order: 5
 ---
 
 ## Media

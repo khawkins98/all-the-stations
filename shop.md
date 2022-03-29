@@ -2,7 +2,7 @@
 layout: default
 title: Merchandise
 group: "in_local_navigation"
-order: 7
+order: 6
 ---
 ## All the Merchandise
 
