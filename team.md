@@ -13,7 +13,7 @@ order: 7
  				<img src="/static/images/geoff.jpg" class="img-rounded">
  			</div>
  			<h3>Geoff Marshall</h3>
- 			<p>Geoff is a freelance video producer making transport videos on <a href="https://www.youtube.com/user/geofftech2">his YouTube channel.</a> He has previously worked for <a href="https://www.youtube.com/user/Londonistvids" target="new">Londonist</a> producing videos for them, and also once worked for the London Transport Museum Hidden London programm, taking people inside disused tube stations. He has <a href="http://www.bbc.co.uk/news/uk-england-london-24203949" target="new">twice held the  world record</a> for travelling to all Underground stations in the fastest time possible.</p>
+ 			<p>Geoff is a freelance video producer making transport videos on <a href="https://www.youtube.com/user/geofftech2">his YouTube channel.</a> He has previously worked for <a href="https://www.youtube.com/user/Londonistvids" target="new">Londonist</a> producing videos for them, and also once worked for the London Transport Museum Hidden London programme, taking people inside disused tube stations. He has <a href="http://www.bbc.co.uk/news/uk-england-london-24203949" target="new">twice held the  world record</a> for travelling to all Underground stations in the fastest time possible.</p>
 			<p>Author of The Railway Adventures - his third book, following on from <strong>Tube Station Trivia</strong> which was also published in 2018, and <strong>Underground : USA</strong> a travelogue where he drove to all the states in America.</p>
  		</div>
  		<div class="column">
