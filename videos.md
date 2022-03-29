@@ -10,13 +10,8 @@ order: 3
 .bk {color:black;}
 .rd {color:red;}
 </style>
-## All The Videos
+## All The Stations 2019
 
-The ultimate list of **all** the YouTube videos created as part of All The Stations - Ireland will appear here.
-
-<ul>
-<span class="li bl"><span class="bk">Videos on the main All The Stations channel</span></span>
-</ul>
 
 ### Republic of Ireland
 
@@ -33,7 +28,6 @@ The ultimate list of **all** the YouTube videos created as part of All The Stati
 <span class="li bl">{% include partial_youtube.html id="7l9rqFHx3NU" title="There Are Two Ways To Get To Limerick - Episode 10, 2nd April - Dublin to Limerick" %}</span>
 <span class="li bl">{% include partial_youtube.html id="094AZp6ZyrE" title="Railway Girl - Episode 11, 3rd April - Limerick to Athlone via Galway" %}</span>
 <span class="li bl">{% include partial_youtube.html id="8630DmnIAf8" title="There's A Train In The Bar - Episode 12, 4th April - Athlone to Ballina" %}</span>
-<span class="li rd">{% include partial_youtube.html id="zAOIkq5uxco" title="All The Stations Ireland Music! - All The Stations Extras" %}</span>
 <span class="li bl">{% include partial_youtube.html id="0CdCLSHJCKI" title="Filming Me Filming You, It's The Best I Can Do - Episode 13, 5th April - Sligo to Dublin" %}</span>
 <span class="li bl">{% include partial_youtube.html id="Wl8R9zfNwBE" title="It's the LUAS Way To Go - Episode 14, 6th April - LUAS" %}</span>
 <span class="li bl">{% include partial_youtube.html id="QoBPG3m7vKg" title="Youtube Hardly Ever Points Out When You're Wrong - Episode 15, 8th April - Dublin to Belfast" %}</span>
